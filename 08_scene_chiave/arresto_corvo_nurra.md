@@ -7,7 +7,7 @@
 La scena serve a:
 
 - chiudere la linea del mito politico;
-- mostrare De Bonis come costruttore di cornici;
+- mostrare l'apparato senza volto come costruttore di cornici;
 - rendere visibile il passaggio da tragedia privata a narrazione istituzionale;
 - confermare che Corvo e Nurra erano diventati simbolo prima ancora di essere persone protette;
 - mostrare che nessun ambiente controlla davvero la propria versione finale.
@@ -25,28 +25,28 @@ L'arresto può essere raccontato in vari modi:
 
 La forma indiretta potrebbe essere più potente: il mito cade meglio quando arriva come testo, notifica, conferenza, foto sfocata.
 
-## Personaggi coinvolti
+## Personaggi e forze coinvolte
 
-- De Bonis
 - Corvo e Nurra
 - Ari e Dile
 - Elia
 - Sarnelli
 - Zed
 - territorialisti e nomadi come produttori di versioni
+- l'apparato senza volto: carte, comunicati, fonti, formule, immagini, notizie
 
 ## Posta in gioco
 
-De Bonis ottiene una chiusura spendibile. I nomadi perdono il proprio mito. I territorialisti possono dire di aver visto giusto. Ari e Dile capiscono di essere state dentro una rete molto più fragile di quanto immaginassero. Elia vede la propria garanzia diventare materiale altrui.
+L'apparato ottiene una chiusura spendibile. I nomadi perdono il proprio mito. I territorialisti possono dire di aver visto giusto. Ari e Dile capiscono di essere state dentro una rete molto più fragile di quanto immaginassero. Elia vede la propria garanzia diventare materiale altrui.
 
 ## Cosa deve capire il lettore
 
 - L'arresto non nasce da un tradimento unico.
 - È prodotto da somma di esposizioni, imprudenze, miti, pressioni, movimenti sbagliati.
 - La morte di Nina ha accelerato il collasso della rete.
-- De Bonis sa usare il caos meglio degli altri.
+- L'apparato sa usare il caos meglio di chi lo produce.
 
-## Cosa De Bonis ottiene
+## Cosa ottiene l'apparato
 
 Non solo due arresti. Ottiene una cornice:
 
@@ -54,9 +54,11 @@ Non solo due arresti. Ottiene una cornice:
 
 Questa cornice può essere parziale, ma proprio per questo efficace: contiene elementi veri montati in forma utile.
 
+Il punto non è attribuire questa intelligenza a un singolo sbirro. Il punto è mostrare una macchina capace di trasformare esposizioni, legami e frammenti in una versione ordinata.
+
 ## Cosa non deve succedere
 
-- Non far sembrare De Bonis onnisciente.
+- Non dare volto pieno all'apparato.
 - Non trasformare Ari e Dile in spie.
 - Non fare di Corvo e Nurra eroi romantici.
 - Non rendere l'arresto una scena action.
@@ -81,4 +83,4 @@ La linea politica si chiude pubblicamente, ma non moralmente. La storia di Nina 
 - L'arresto deve avvenire subito dopo la morte di Nina o dopo qualche giorno?
 - Sarnelli deve scrivere un pezzo sull'arresto?
 - Ari e Dile devono essere presenti, interrogate o solo colpite dalla notizia?
-- De Bonis deve comparire direttamente o solo attraverso la versione pubblica?
+- L'apparato deve apparire soltanto tramite comunicato, articolo, voci, foto e formule ufficiali?
