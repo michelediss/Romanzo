@@ -109,7 +109,7 @@ Non chiediamo permesso. Rendiamo visibile una conquista.
 
 ---
 
-### 3. Dopo la morte di Cecilia
+### 3. Dopo la morte di Nina
 
 > **Contro ogni strumentalizzazione del dolore**
 
@@ -125,7 +125,7 @@ Chi oggi parla di “ambienti opachi” dovrebbe chiedersi quali opacità produc
 
 Il dolore non è un comunicato stampa. Il dolore non è una categoria di ordine pubblico.
 
-Cecilia non era un caso. Era una persona.
+Nina non era un caso. Era una persona.
 
 ---
 
