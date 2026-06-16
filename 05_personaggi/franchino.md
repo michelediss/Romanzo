@@ -42,8 +42,8 @@ Franchino sopravvive. La sua funzione non è cadere, ma mostrare come certi adul
 
 - Dialogo con Elia sulla Battaglia.
 - Scambio con Sarnelli.
-- Uso della voce sui sardi per delegittimare La Deriva.
-- Reazione alla morte di Cecilia: dolore misurato, subito tradotto in versione.
+- Uso della voce su Corvo e Nurra per delegittimare La Deriva.
+- Reazione alla morte di Nina: dolore misurato, subito tradotto in versione.
 
 ## Frasi possibili
 
@@ -53,7 +53,7 @@ Franchino sopravvive. La sua funzione non è cadere, ma mostrare come certi adul
 
 ## Questioni aperte
 
-- Quanto sa davvero dei sardi?
+- Quanto sa davvero di Corvo e Nurra?
 - Quanto contribuisce alla circolazione della voce?
 - Che cosa sa della colpa di Elia nella Battaglia?
 - È ancora capace di vergogna?
