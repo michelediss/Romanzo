@@ -61,8 +61,7 @@ Il dettaglio deve arrivare come voce riportata, magari detta da qualcuno che vuo
 - **Mazza**: forza di scena, utile per mostrare quanto la violenza interna dei raverz diventi piccola davanti al sistema.
 - **Tancredi**: possibile presenza estetizzante, attratto dalla dimensione internazionale e fotogenica dell'evento.
 - **Black Convoy**: tribe estera famosa, più mito che personaggi singoli. Non serve individualizzare troppo, ma almeno una o due figure possono emergere.
-- **Mastantuono**: non necessariamente presente alla festa, ma collegato alle conseguenze investigative.
-- **De Bonis**: può usare dopo l'evento come elemento di cornice, senza essere il braccio operativo.
+- **L'apparato senza volto**: non presente come personaggio, ma attivato dalle conseguenze della chiamata e dalla visibilità dell'evento.
 
 ## Boy alla festa
 
@@ -149,9 +148,9 @@ La polizia non scopre semplicemente che ai rave girano sostanze. Capisce che Bas
 - possibili attriti col sistema;
 - persone non facilmente classificabili.
 
-Da qui può nascere la pista operativa di Mastantuono: interrogatori, pressione, minacce, controllo dei furgoni, attenzioni sulla ketamina.
+Da qui non nasce una linea investigativa incarnata da un singolo personaggio. Nasce piuttosto una nuova leggibilità: targhe annotate, nomi ripetuti, foto, voci di quartiere, formule da verbale, attenzione intermittente sui furgoni e sulle sostanze.
 
-De Bonis può leggere l'evento in modo più freddo: non come festa degenerata, ma come mappa di relazioni.
+L'apparato non deve entrare in scena come antagonista riconoscibile. Deve restare un modo di guardare: freddo, cumulativo, capace di trasformare una festa in mappa di relazioni.
 
 ## Cosa deve capire il lettore
 
@@ -190,5 +189,5 @@ Per i raverz locali resta una festa enorme, forse leggendaria. Per Boy resta la 
 - Boy fotografa qualcosa dell'incidente o tiene la macchina abbassata?
 - Nina assiste alla chiamata o ne sente parlare subito dopo?
 - Il sistema deve restare anonimo o comparire tramite una figura riconoscibile?
-- Mastantuono entra già nel capitolo successivo o più avanti, come conseguenza ritardata?
 - Quanto la festa deve restare comunque bella, nonostante la crepa?
+- Quanto l'apparato deve restare percepito solo attraverso conseguenze, formule e attenzioni successive?
