@@ -20,7 +20,7 @@ La scena serve a stabilire:
 - qualcuno di Presidio Sud
 - qualcuno della Deriva
 - Boy, forse solo come presenza laterale
-- assenti importanti: Cecilia, Lale, i sardi
+- assenti importanti: Nina, Rami, Corvo e Nurra
 
 ## Luogo possibile
 
