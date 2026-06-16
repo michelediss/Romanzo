@@ -34,11 +34,11 @@ De Bonis non conduce un’indagine ufficiale sulla ketamina in quanto tale. La u
 
 La sua catena narrativa:
 
-> ketamina → Cecilia/Lale → Sara/Gab → sardi
+> ketamina → Nina/Rami → Ari/Dile → Corvo/Nurra
 
 ## Rapporto con Elia
 
-Elia è per De Bonis uno snodo, non un nemico. Lo conosce come quello che entra ovunque: ex territorialista, tecnico dei rave, amico di Cecilia, ponte con i nomadi.
+Elia è per De Bonis uno snodo, non un nemico. Lo conosce come quello che entra ovunque: ex territorialista, tecnico dei rave, amico di Nina, ponte con i nomadi.
 
 De Bonis non deve necessariamente estorcergli una confessione. Gli basta leggerne le esitazioni.
 
@@ -48,15 +48,15 @@ Si usano. Sarnelli cerca conferme e crepe, De Bonis offre cornici e osserva qual
 
 ## Arco
 
-De Bonis non ha un arco morale. Ha un arco operativo: da osservatore informale della scena a produttore della versione pubblica finale, in cui la morte di Cecilia e l’arresto dei sardi vengono assorbiti da una cornice utile.
+De Bonis non ha un arco morale. Ha un arco operativo: da osservatore informale della scena a produttore della versione pubblica finale, in cui la morte di Nina e l’arresto di Corvo e Nurra vengono assorbiti da una cornice utile.
 
 ## Scene chiave
 
 - Prima apparizione indiretta: nome, voce, controllo, frase riportata.
 - Dialogo teso con Elia.
 - Telefonata o scambio con Sarnelli.
-- Pressione sui nomadi dopo la morte di Cecilia.
-- Arresto dei sardi come esito freddo.
+- Pressione sui nomadi dopo la morte di Nina.
+- Arresto di Corvo e Nurra come esito freddo.
 
 ## Frasi possibili
 
@@ -69,6 +69,6 @@ De Bonis non ha un arco morale. Ha un arco operativo: da osservatore informale d
 ## Questioni aperte
 
 - Quanto deve apparire direttamente?
-- Ha una scena con Cecilia prima della morte o la conosce solo come nome?
+- Ha una scena con Nina prima della morte o la conosce solo come nome?
 - Usa Elia direttamente o solo indirettamente?
-- Quanto è pubblica la sua vittoria dopo l’arresto dei sardi?
+- Quanto è pubblica la sua vittoria dopo l’arresto di Corvo e Nurra?
