@@ -200,6 +200,14 @@ Quando è ai rave:
 
 Per lui la musica vera resta altrove: punk, metal, noise, hip-hop.
 
+### Black Convoy
+
+Alla festa dei Black Convoy, questo rapporto con la tekno va portato al massimo.
+
+Boy ci va controvoglia perché Elia insiste. Non è attratto dal mito della tribe estera, non si sente parte della liturgia rave, non vuole fingere entusiasmo. Proprio per questo può diventare uno sguardo utile dentro la scena: vede i bordi, le facce ferme, le macchine che non ballano, i furgoni osservati da chi non sembra interessato alla musica.
+
+Elia lo porta per condividere una notte importante. Boy capisce, prima o meglio di lui, che quella notte non appartiene solo a chi balla.
+
 ---
 
 ## Desiderio
@@ -224,7 +232,7 @@ Possibile colpa:
 - protegge Elia anche quando Elia sta sbagliando;
 - critica Zed ma non sempre abbastanza forte;
 - usa il proprio fascino per scappare da conversazioni che richiederebbero responsabilità;
-- vede il rischio dei sardi o della linea nomade, ma non riesce o non vuole fermarlo.
+- vede il rischio di Corvo, Nurra o della linea nomade, ma non riesce o non vuole fermarlo.
 
 ---
 
@@ -246,17 +254,17 @@ Possibile frase di Boy su Zed:
 
 ---
 
-## Rapporto con Sara, Gab e i sardi
+## Rapporto con Ari, Dile, Corvo e Nurra
 
-Boy conosce l’ambiente in cui Sara e Gab vengono attratte dal mito dell’irreversibile.
+Boy conosce l’ambiente in cui Ari e Dile vengono attratte dal mito dell’irreversibile.
 
 Può non essere centrale nella loro scelta, ma ne intuisce la temperatura. La sua competenza politica gli permette di vedere quando una fascinazione sta diventando posa pericolosa.
 
-Con i sardi può avere un rapporto di rispetto freddo: non li mitizza come Sara e Gab, ma non li liquida come folklore. Capisce che hanno fatto un passo che gli altri evocano soltanto.
+Con Corvo e Nurra può avere un rapporto di rispetto freddo: non li mitizza come Ari e Dile, ma non li liquida come folklore. Capisce che hanno fatto un passo che gli altri evocano soltanto.
 
 Domanda narrativa:
 
-> Boy capisce prima di Elia che il mito dei sardi sta diventando una trappola?
+> Boy capisce prima di Elia che il mito di Corvo e Nurra sta diventando una trappola?
 
 ---
 
@@ -290,6 +298,10 @@ Boy conduce una trasmissione notturna: punk, Palestina, Stirner, telefonate mezz
 
 Boy è fuori posto. Non ama la tekno, non capisce la devozione per la cassa, ma resta perché c’è Elia. Beve, guarda, forse scatta qualche foto, poi dice che sembra una fabbrica occupata da gente che vuole diventare lavatrice.
 
+### Alla festa dei Black Convoy
+
+Boy va controvoglia perché Elia insiste. L'evento è troppo grosso per essere ignorato, ma per Boy resta una notte in una lingua che non gli appartiene. La sua distanza lo rende più sensibile ai bordi della festa: il territorio, i furgoni, gli sguardi, le presenze che non ballano.
+
 ### Con Zed
 
 Zed fa un discorso seduttivo sulla necessità di spingersi oltre. Boy non lo smonta frontalmente, ma fa una battuta che basta a incrinare il carisma.
@@ -310,6 +322,7 @@ Boy ed Elia continuano a vedersi anche quando sarebbe politicamente più comodo 
 - Era troppo bello per non sapere il male che faceva quando sorrideva.
 - La Deriva lo rispettava perché Boy non chiedeva mai il permesso di appartenere.
 - Con Zed non litigava quasi mai: gli bastava non abbassare gli occhi.
+- Alla festa dei Black Convoy, Boy capì che non tutti quelli fermi ai bordi erano fermi per stanchezza.
 
 ---
 
@@ -328,7 +341,8 @@ Boy ed Elia continuano a vedersi anche quando sarebbe politicamente più comodo 
 
 - Boy era presente alla Battaglia? Se sì, quanto ha visto?
 - Quanto la sua amicizia con Elia è tollerata dai rispettivi collettivi?
-- Boy prova a mettere in guardia Sara e Gab, o resta laterale?
+- Boy prova a mettere in guardia Ari e Dile, o resta laterale?
 - La critica a Zed resta privata o esplode in una scena pubblica?
-- Il suo alcolismo peggiora dopo la morte di Nina/Cecilia?
+- Il suo alcolismo peggiora dopo la morte di Nina?
 - In che modo la radio può diventare struttura formale del romanzo?
+- Alla festa dei Black Convoy, Boy fotografa qualcosa dell'incidente o sceglie di non farlo?
