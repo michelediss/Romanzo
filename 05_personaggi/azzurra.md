@@ -43,7 +43,7 @@ Da accusatrice di Elia a figura che rivela quanto la fedeltà sia diventata anch
 - Incontro teso con Elia a Presidio Sud.
 - Discussione sulla fase dei Beni Benedetti.
 - Ritorno della Battaglia attraverso una sua accusa.
-- Reazione alla morte di Cecilia e alla versione pubblica.
+- Reazione alla morte di Nina e alla versione pubblica.
 
 ## Frasi possibili
 
