@@ -228,7 +228,7 @@ Elia non domina interamente la narrazione, ma lascia tracce del proprio montaggi
 
 ### Modifica
 
-Lo sfondo de Magistris/beni comuni viene trattato come “stagione arancione”, “Sindaco Giudice”, “Beni Benedetti”, evitando un uso troppo diretto di figure reali.
+Lo sfondo de Magistris/beni comuni viene trattato come “stagione arancione”, “Sindaco Giudice”, “San Giggino”, “Beni Benedetti”, evitando un uso troppo diretto di figure reali.
 
 ### Motivo
 
@@ -243,3 +243,25 @@ La fictionalizzazione protegge il romanzo dal didascalismo e dall’identificabi
 ### Effetto sul romanzo
 
 Lo sfondo storico resta riconoscibile come clima, ma non diventa cronaca o pamphlet.
+
+---
+
+## 2026-06-16 — Eliminazione Ivan
+
+### Modifica
+
+Ivan viene cassato dal sistema dei personaggi. La sua scheda è stata eliminata e il riferimento diretto nella scena d’apertura è stato rimosso.
+
+### Motivo
+
+Il personaggio non è più necessario: la funzione di coscienza fisica di Presidio Sud può essere assorbita da Franchino, Zed, Mano Lesta o da presenze corali del gruppo.
+
+### File coinvolti
+
+- `05_personaggi/ivan.md`
+- `08_scene_chiave/apertura_dopo_battaglia.md`
+- `10_domande_aperte/registro_modifiche.md`
+
+### Effetto sul romanzo
+
+Presidio Sud perde una figura laterale autonoma e diventa più compatto. La Battaglia resta leggibile senza aggiungere un altro testimone morale nominale.
