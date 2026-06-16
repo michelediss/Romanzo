@@ -39,6 +39,19 @@ La preparazione deve avere un'energia corale:
 
 La festa deve attirare anche persone esterne alla scena rave. Non solo raver, quindi: curiosi, amici di amici, militanti, figli della Napoli bene, piccoli spacciatori, gente di quartiere, presenze ambigue.
 
+## Il mito logistico dei furgoni
+
+Nel racconto che precede la festa, Black Convoy non deve avere soltanto un'aura musicale o estetica, ma anche logistica.
+
+Qualcuno, probabilmente per darsi un tono, racconta che alle loro feste dispongono i furgoni ai lati del sound system, creando una specie di corridoio o dancefloor centrale. Non è necessario stabilire subito quanto sia vero e quanto sia leggenda: il punto è che il dettaglio circola.
+
+La funzione del racconto è doppia:
+
+- aumenta l'aura di Black Convoy come tribe capace di organizzare lo spazio, non solo di montare casse;
+- suggerisce che la loro logistica ha anche una funzione economica e territoriale: i furgoni laterali garantiscono una posizione privilegiata per vendere sostanze, controllare i passaggi, vedere chi entra e chi resta ai bordi.
+
+Il dettaglio deve arrivare come voce riportata, magari detta da qualcuno che vuole sembrare dentro le cose. Più che una spiegazione frontale, deve funzionare come frammento di mitologia orale della scena: Black Convoy non porta solo la festa, porta un modo di occupare lo spazio.
+
 ## Personaggi presenti o coinvolti
 
 - **Elia**: insiste perché Boy venga. È carico, utile, dentro il fermento tecnico e sociale della festa.
@@ -76,6 +89,7 @@ Non anticipare subito il pericolo. Prima bisogna far sentire perché tutti volev
 - arrivo dei furgoni;
 - generatori;
 - casse montate;
+- furgoni disposti ai lati del sound system, a creare un corridoio centrale di ballo e passaggio;
 - lingue diverse;
 - inglese sporco, dialetto, francese o altre lingue;
 - cani;
