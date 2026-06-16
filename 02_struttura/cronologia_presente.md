@@ -11,12 +11,12 @@ Il presente del romanzo deve sembrare già compromesso quando comincia.
 Non parte da un grande evento, ma da piccoli spostamenti:
 
 - Elia attraversa ambienti che non si parlano più;
-- Sara e Gab cercano un accesso;
-- Lale prepara l’ultimo giro;
-- Cecilia regge una maschera;
+- Ari e Dile cercano un accesso;
+- Rami prepara l’ultimo giro;
+- Nina regge una maschera;
 - Sarnelli fiuta una versione pubblica pericolosa;
 - De Bonis osserva la scena come rete;
-- i sardi restano prima mito, poi presenza, poi conseguenza.
+- Corvo e Nurra restano prima mito, poi presenza, poi conseguenza.
 
 ---
 
@@ -37,29 +37,29 @@ Elementi:
 
 ---
 
-### Giorno -11 — Incontro con i sardi
+### Giorno -11 — Incontro con Corvo e Nurra
 
 Funzione: introdurre il mito in forma anti-epica.
 
-Elia incontra due figure con Sara e Gab e le sottovaluta. Le ragazze, invece, sono troppo attente e troppo elettriche.
+Elia incontra due figure con Ari e Dile e le sottovaluta. Le ragazze, invece, sono troppo attente e troppo elettriche.
 
 Rivelazione differita: solo dopo Elia capirà il peso di quella sera.
 
 ---
 
-### Giorno -10 — La richiesta di Sara e Gab
+### Giorno -10 — La richiesta di Ari e Dile
 
 Funzione: creare il peccato attuale di Elia.
 
-Sara e Gab chiedono a Elia di aprire loro un accesso al giro di Lale. Elia capisce abbastanza per essere responsabile, ma non abbastanza per fermarsi.
+Ari e Dile chiedono a Elia di aprire loro un accesso al giro di Rami. Elia capisce abbastanza per essere responsabile, ma non abbastanza per fermarsi.
 
 ---
 
-### Giorni -9 / -7 — Lale raccoglie fiducia
+### Giorni -9 / -7 — Rami raccoglie fiducia
 
 Funzione: trasformare la fiducia in credito.
 
-Lale raccoglie più del solito. Cecilia sa che la situazione è già compromessa. Elia interpreta ancora tutto come una faccenda controllabile.
+Rami raccoglie più del solito. Nina sa che la situazione è già compromessa. Elia interpreta ancora tutto come una faccenda controllabile.
 
 ---
 
@@ -79,39 +79,39 @@ De Bonis non chiede la cosa centrale. Nomina persone e ambienti di lato, osserva
 
 ---
 
-### Giorno -4 — Ultimi segnali di Lale
+### Giorno -4 — Ultimi segnali di Rami
 
 Funzione: creare sospensione.
 
-Lale dà rassicurazioni insufficienti. Cecilia tiene la faccia. Le versioni preventive iniziano a circolare.
+Rami dà rassicurazioni insufficienti. Nina tiene la faccia. Le versioni preventive iniziano a circolare.
 
 ---
 
-### Giorno -3 — Lale esce dalla mappa
+### Giorno -3 — Rami esce dalla mappa
 
 Funzione: trasformare l’assenza in prova.
 
-All’inizio sembra un ritardo. Poi le spiegazioni diventano troppe. Cecilia non si comporta come una persona sorpresa.
+All’inizio sembra un ritardo. Poi le spiegazioni diventano troppe. Nina non si comporta come una persona sorpresa.
 
 ---
 
-### Giorno -2 — Cecilia sapeva
+### Giorno -2 — Nina sapeva
 
-Funzione: impedire che Cecilia sia letta come ingenua.
+Funzione: impedire che Nina sia letta come ingenua.
 
-Elia capisce che Cecilia era consapevole del conto. Lei non crolla: resta, perché sparire significherebbe confessare.
-
----
-
-### Giorno -1 — Ultimo incontro Elia/Cecilia
-
-Funzione: chiudere il rapporto vivo tra Elia e Cecilia.
-
-Cecilia può essere lucidissima, stanca, feroce. Elia prova a capire troppo tardi.
+Elia capisce che Nina era consapevole del conto. Lei non crolla: resta, perché sparire significherebbe confessare.
 
 ---
 
-### Giorno 0 — Climax Cecilia
+### Giorno -1 — Ultimo incontro Elia/Nina
+
+Funzione: chiudere il rapporto vivo tra Elia e Nina.
+
+Nina può essere lucidissima, stanca, feroce. Elia prova a capire troppo tardi.
+
+---
+
+### Giorno 0 — Climax Nina
 
 Funzione: climax emotivo.
 
@@ -119,7 +119,7 @@ Il corpo emotivo del romanzo arriva qui. Non deve diventare una scena spettacola
 
 ---
 
-### Giorno +1 — Dopo Cecilia
+### Giorno +1 — Dopo Nina
 
 Funzione: mostrare il dolore mentre diventa materiale narrativo e politico.
 
@@ -127,7 +127,7 @@ SubBasso perde compattezza. Le versioni esplodono. Sarnelli non sa cosa possa es
 
 ---
 
-### Giorni +2 / +3 — Arresto dei sardi
+### Giorni +2 / +3 — Arresto di Corvo e Nurra
 
 Funzione: climax istituzionale.
 
@@ -139,7 +139,7 @@ L’arresto arriva freddo, dopo il colpo emotivo. Può essere mostrato direttame
 
 Funzione: epilogo morale.
 
-Presidio Sud, La Deriva, Sarnelli, De Bonis ed Elia restano ciascuno con una versione diversa. Nessuna coincide con Cecilia intera.
+Presidio Sud, La Deriva, Sarnelli, De Bonis ed Elia restano ciascuno con una versione diversa. Nessuna coincide con Nina intera.
 
 ---
 
@@ -156,9 +156,9 @@ La timeline può essere compressa in circa due settimane o allargata a tre-quatt
 
 Ogni scena del presente deve aumentare almeno una pressione:
 
-- pressione su Cecilia e Lale;
+- pressione su Nina e Rami;
 - pressione morale su Elia;
-- pressione politica su Sara e Gab;
+- pressione politica su Ari e Dile;
 - pressione istituzionale da De Bonis;
 - pressione delle versioni;
 - ritorno del trauma della Battaglia.
