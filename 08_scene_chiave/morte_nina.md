@@ -12,9 +12,9 @@ Possibili configurazioni:
 
 - Elia arriva dopo;
 - Onda sa qualcosa ma non tutto;
-- qualcuno di SubBasso trova o racconta;
+- qualcuno di Bass Unit trova o racconta;
 - Sarnelli entra dopo come coscienza giornalistica;
-- De Bonis la userà dopo come elemento di cornice;
+- l'apparato userà dopo la morte come elemento di cornice;
 - Rami è assente;
 - il sistema resta fuori campo.
 
@@ -67,7 +67,7 @@ Elia capisce che la propria posizione di mezzo non era innocente. Ha aperto pass
 - Responsabilità materiale esatta.
 - Ultime ore di Nina in forma completa.
 - Chi ha parlato con chi.
-- Quanto De Bonis sapesse prima.
+- Quanto l'apparato sapesse prima.
 - Se qualcuno potesse salvarla davvero.
 
 ## Movimento emotivo
@@ -82,7 +82,7 @@ Non bisogna far esplodere tutto in lacrime e urla. Il dolore più forte può ess
 
 ## Esito della scena
 
-La morte rompe il patto di silenzio. Dopo Nina, tutti si muovono peggio: parlano, accusano, scaricano, si coprono. Da questo caos De Bonis potrà stringere su Corvo e Nurra.
+La morte rompe il patto di silenzio. Dopo Nina, tutti si muovono peggio: parlano, accusano, scaricano, si coprono. Da questo caos l'apparato potrà costruire una cornice utile intorno a Corvo e Nurra.
 
 ## Domande aperte
 
