@@ -4,7 +4,7 @@
 
 Zed è il cattivo maestro della Deriva. Non è il capo ufficiale, perché la Deriva non vuole ammettere capi, ma è una figura magnetica che orienta desideri, rancori e fantasie di radicalità.
 
-La sua funzione è usare il mito dei sardi per dare ai più giovani l’impressione che esista ancora una soglia da attraversare.
+La sua funzione è usare il mito di Corvo e Nurra per dare ai più giovani l’impressione che esista ancora una soglia da attraversare.
 
 ## Ambiente
 
@@ -22,11 +22,11 @@ Vuole restare necessario. Vuole essere il custode di un’intensità politica ch
 
 Teme di essere solo un adulto rimasto fuori dalla nuova fase. Teme che la sua radicalità sia diventata stile, racconto, postura.
 
-## Rapporto con Sara e Gab
+## Rapporto con Ari e Dile
 
-Non inventa il loro desiderio, ma lo orienta. Capisce che sono intelligenti, belle, giovani, affamate di realtà. Le spinge verso l’idea che sostenere i sardi significhi dimostrare qualcosa.
+Non inventa il loro desiderio, ma lo orienta. Capisce che sono intelligenti, belle, giovani, affamate di realtà. Le spinge verso l’idea che sostenere Corvo e Nurra significhi dimostrare qualcosa.
 
-## Rapporto con i sardi
+## Rapporto con Corvo e Nurra
 
 Li usa come capitale simbolico. Più li trasforma in mito, più rischia di renderli visibili.
 
@@ -40,11 +40,11 @@ Da maestro d’ombra a adulto che ha contribuito a esporre ciò che pretendeva d
 
 ## Scene chiave
 
-- Allusioni ai sardi senza nominarli.
-- Dialogo con Sara e Gab sulla serietà.
-- Reazione alla richiesta di entrare nel giro di Lale.
-- Dopo la morte di Cecilia: tentativo di ricondurre tutto a repressione e infamia.
-- Dopo l’arresto dei sardi: retorica o silenzio.
+- Allusioni a Corvo e Nurra senza nominarli.
+- Dialogo con Ari e Dile sulla serietà.
+- Reazione alla richiesta di entrare nel giro di Rami.
+- Dopo la morte di Nina: tentativo di ricondurre tutto a repressione e infamia.
+- Dopo l’arresto di Corvo e Nurra: retorica o silenzio.
 
 ## Frasi possibili
 
@@ -54,6 +54,6 @@ Da maestro d’ombra a adulto che ha contribuito a esporre ciò che pretendeva d
 
 ## Questioni aperte
 
-- Sa del piano di Sara e Gab o lo lascia accadere?
-- Ha mai incontrato davvero i sardi?
+- Sa del piano di Ari e Dile o lo lascia accadere?
+- Ha mai incontrato davvero Corvo e Nurra?
 - Dopo l’arresto si assume responsabilità o produce una nuova versione?
