@@ -8,7 +8,7 @@ A differenza della Battaglia, non deve funzionare come evento già avvenuto e ra
 
 La scena serve a mostrare:
 
-- SubBasso nel suo momento più magnetico;
+- Bass Unit nel suo momento più magnetico;
 - Elia come presenza ormai legittimata nella scena rave;
 - Boy come corpo estraneo trascinato da Elia;
 - Nina come figura capace di leggere la notte senza romanticizzarla;
@@ -19,7 +19,7 @@ La scena serve a mostrare:
 
 Va collocata prima che la polizia stringa davvero sulla scena rave e sulla ketamina.
 
-Può stare in una fase in cui Elia vive ancora la SubBasso come luogo di attraversamento felice: non innocente, ma ancora desiderabile. La festa dei Black Convoy deve incrinare questa percezione senza distruggerla subito.
+Può stare in una fase in cui Elia vive ancora Bass Unit come luogo di attraversamento felice: non innocente, ma ancora desiderabile. La festa dei Black Convoy deve incrinare questa percezione senza distruggerla subito.
 
 Il lettore deve uscire dalla scena con la sensazione che qualcosa si sia spostato: non è ancora il disastro, ma la notte ha smesso di essere soltanto notte.
 
@@ -32,7 +32,7 @@ La preparazione deve avere un'energia corale:
 - nessuno sa con certezza il posto;
 - tutti dicono di avere un contatto più affidabile degli altri;
 - girano numeri, mappe sbagliate, appuntamenti provvisori;
-- SubBasso si sente al centro di qualcosa di grande;
+- Bass Unit si sente al centro di qualcosa di grande;
 - i raverz locali si gonfiano perché una tribe estera importante passa da loro;
 - chi non appartiene alla scena vuole esserci comunque;
 - alcuni iniziano già a dire che sarà una festa storica prima ancora che accada.
@@ -42,7 +42,7 @@ La festa deve attirare anche persone esterne alla scena rave. Non solo raver, qu
 ## Personaggi presenti o coinvolti
 
 - **Elia**: insiste perché Boy venga. È carico, utile, dentro il fermento tecnico e sociale della festa.
-- **Boy**: va controvoglia perché Elia insiste. Non ama la tekno, non si sente parte della SubBasso, beve e osserva.
+- **Boy**: va controvoglia perché Elia insiste. Non ama la tekno, non si sente parte di Bass Unit, beve e osserva.
 - **Nina**: appartiene alla scena ma guarda con fastidio chi arriva solo per moda. Può leggere meglio di Elia le dinamiche di strada.
 - **Onda**: memoria orale e termometro della scena, può capire subito che quella festa diventerà racconto.
 - **Mazza**: forza di scena, utile per mostrare quanto la violenza interna dei raverz diventi piccola davanti al sistema.
@@ -84,7 +84,7 @@ Non anticipare subito il pericolo. Prima bisogna far sentire perché tutti volev
 - Nina che si muove con sicurezza;
 - gente che non si vedeva da mesi;
 - curiosi che fingono naturalezza;
-- SubBasso che si sente più grande di se stessa.
+- Bass Unit che si sente più grande di se stessa.
 
 La festa deve sembrare, per qualche ora, una sospensione riuscita.
 
@@ -124,7 +124,7 @@ Possibili reazioni:
 
 La festa dei Black Convoy diventa uno dei motivi per cui la polizia comincia a guardare la scena rave con più attenzione.
 
-La polizia non scopre semplicemente che ai rave girano sostanze. Capisce che SubBasso può essere un nodo:
+La polizia non scopre semplicemente che ai rave girano sostanze. Capisce che Bass Unit può essere un nodo:
 
 - furgoni esteri;
 - contatti locali;
@@ -141,7 +141,7 @@ De Bonis può leggere l'evento in modo più freddo: non come festa degenerata, m
 
 ## Cosa deve capire il lettore
 
-- SubBasso è più importante di quanto sembri.
+- Bass Unit è più importante di quanto sembri.
 - Elia è già abbastanza dentro la scena da volerci portare Boy.
 - Boy ci va per amicizia, non per appartenenza.
 - Nina vede la moda rave e la politica con lo stesso scetticismo pratico.
@@ -166,7 +166,7 @@ La festa non deve finire come tragedia immediata. Deve finire come qualcosa che 
 
 ## Esito della scena
 
-Dopo Black Convoy, SubBasso non è più soltanto un rifugio o una zona franca. Diventa un ambiente osservabile, raccontabile, penetrabile.
+Dopo Black Convoy, Bass Unit non è più soltanto un rifugio o una zona franca. Diventa un ambiente osservabile, raccontabile, penetrabile.
 
 Per i raverz locali resta una festa enorme, forse leggendaria. Per Boy resta la notte in cui ha capito che la cassa non copriva tutto. Per Elia resta il momento in cui ha voluto condividere una cosa e ha finito per esporla. Per la polizia resta una mappa.
 
