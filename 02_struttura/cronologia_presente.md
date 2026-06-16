@@ -188,9 +188,11 @@ Nina può già percepire che qualcosa, nel giro di Rami, non è pulito come semb
 
 ---
 
-### Giorno +4 — Il mancato bis: entrano Corvo e Nurra
+### Giorno +4 — Il mancato bis, Corvo/Nurra e la battuta di Boy
 
-Funzione: trasformare il desiderio di Elia in umiliazione.
+Funzione: trasformare il desiderio di Elia in umiliazione e nominare il ridicolo senza consolarlo.
+
+Anche questa sequenza deve restare una sola serata. Il mancato bis non deve sedimentare altrove prima della battuta di Boy: Elia deve passare quasi senza respiro dall’illusione privata alla diagnosi pubblica, dal sentirsi scavalcato al sentirsi visto.
 
 Elia chiede ad Ari e Dile di uscire, sperando in un bis. Loro gli dicono di sì.
 
@@ -204,13 +206,7 @@ Elia è accesso, mediazione, garanzia, passaggio.
 
 Corvo e Nurra sono soglia.
 
----
-
-### Giorno +4 / +5 — Il bar e la battuta di Boy
-
-Funzione: nominare il ridicolo di Elia senza consolarlo.
-
-Elia, sentendosi scavalcato e ridicolo, abbandona la compagnia e va al solito bar. Lì incontra Boy.
+Sentendosi scavalcato e ridicolo, Elia abbandona la compagnia e va al solito bar. Lì incontra Boy.
 
 Boy capisce quasi subito. Non perché Elia racconti tutto, ma perché gli legge addosso l’umiliazione.
 
@@ -386,8 +382,9 @@ La linea Elia/Ari/Dile deve scandire il romanzo intorno a Black Convoy in questo
 7. Nella stessa serata avviene la notte sessuale come sospensione dopo il passaggio riuscito.
 8. Elia trasforma quella sospensione in credito emotivo.
 9. Ari e Dile non concedono il bis.
-10. Corvo e Nurra entrano come soglia più forte di Elia.
-11. Rami sporca retroattivamente la notte.
-12. Elia capisce troppo tardi che aveva scambiato il passaggio per appartenenza.
+10. Nella stessa sera del mancato bis, Corvo e Nurra entrano come soglia più forte di Elia.
+11. Nella stessa sera, Boy nomina il ridicolo di Elia senza consolarlo.
+12. Rami sporca retroattivamente la notte.
+13. Elia capisce troppo tardi che aveva scambiato il passaggio per appartenenza.
 
 Questa linea non è una sottotrama sentimentale. È una struttura di responsabilità.
