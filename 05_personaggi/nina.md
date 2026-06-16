@@ -20,6 +20,8 @@ Per Elia, Nina è molte cose insieme:
 
 Nina impedisce al romanzo di diventare solo una mappa di collettivi, fazioni e strategie. Con lei la storia torna sempre al corpo, al carattere, alla dipendenza, alla reputazione e alla capacità di farsi rispettare.
 
+Dopo la sparizione di Rami, Nina diventa anche la prova più concreta che un'assenza può avere un corpo: Rami può diventare voce, racconto, disegno, presunto avvistamento; Nina invece resta lì, raggiungibile, interrogabile, accusabile.
+
 ---
 
 ## Identità
@@ -40,13 +42,15 @@ Nina non cerca di essere rassicurante. Sa stare nei margini senza chiedere perme
 
 Nina ed Elia sono amici ed ex coinquilini.
 
-Si conoscono perché Elia compra oppio da lei. All’inizio il rapporto è pratico, quasi laterale: lui cerca una cosa, lei gliela procura, si misurano, si studiano. Poi scoprono di avere una zona comune più profonda: una passione condivisa per l’eroina, vissuta senza iniezioni, come pratica da tenere nel campo del fumo, dello sniffare, della fascinazione e del rischio controllato.
+Si conoscono perché Elia compra oppio da lei. All'inizio il rapporto è pratico, quasi laterale: lui cerca una cosa, lei gliela procura, si misurano, si studiano. Poi scoprono di avere una zona comune più profonda: una passione condivisa per l'eroina, vissuta senza iniezioni, come pratica da tenere nel campo del fumo, dello sniffare, della fascinazione e del rischio controllato.
 
-Questa condivisione crea tra loro un’intimità ambigua. Non è amore dichiarato, non è coppia, non è solo amicizia. È una confidenza fatta di stanze, divani, notti rientrate tardi, buste sul tavolo, silenzi, battute cattive e una tensione erotica che forse c’è stata, forse c’è ancora, ma non è mai diventata davvero qualcosa.
+Questa condivisione crea tra loro un'intimità ambigua. Non è amore dichiarato, non è coppia, non è solo amicizia. È una confidenza fatta di stanze, divani, notti rientrate tardi, buste sul tavolo, silenzi, battute cattive e una tensione erotica che forse c'è stata, forse c'è ancora, ma non è mai diventata davvero qualcosa.
 
-Tra loro c’è rispetto reale.
+Tra loro c'è rispetto reale.
 
 Nina non tratta Elia come un cliente qualunque. Elia non guarda Nina solo come una spacciatrice o come una ragazza della scena. Si riconoscono una competenza reciproca: lei capisce la strada e la notte, lui capisce immagini, passaggi, persone e narrazioni.
+
+Dopo Rami, però, questa intimità diventa pericolosa. Elia prova a cercare in Nina una verità che lo assolva. Nina capisce il movimento e non gliela concede. Se intuisce che Elia ha trovato Rami e lo ha lasciato andare, il loro rapporto cambia di temperatura: non diventa melodramma, ma una frattura più silenziosa.
 
 Possibile formula:
 
@@ -96,7 +100,7 @@ Possibile battuta:
 
 ## Rapporto con la scena rave
 
-Nina conosce la scena rave dall’interno.
+Nina conosce la scena rave dall'interno.
 
 Non idealizza i free party, ma li rispetta quando sono veri. Ha poca pazienza per chi li frequenta come costume: il kit cane, camper, frangetta, parole prese in prestito, aria da nomade stagionale, libertà usata come accessorio.
 
@@ -105,7 +109,7 @@ La sua critica non è moralista. È di appartenenza:
 - riconosce chi ci sta davvero;
 - riconosce chi usa la scena per sembrare altro;
 - riconosce chi confonde degrado e autenticità;
-- riconosce chi cerca solo un’estetica da raccontare;
+- riconosce chi cerca solo un'estetica da raccontare;
 - riconosce chi sa reggere la notte senza trasformarla in posa.
 
 Nina non sopporta i turisti della marginalità.
@@ -140,6 +144,14 @@ Il rapporto con Rami non deve cancellare il rapporto con Elia. Rami è il legame
 
 Nina può essere legata a Rami e, allo stesso tempo, avere con Elia una zona non risolta. Questa tensione deve restare sottile, mai da triangolo melodrammatico.
 
+La nuova funzione di Rami rende Nina ancora più tragica: lui non è solo l'uomo che la lascia esposta. È anche l'uomo che, se Elia lo copre, mette Nina in mezzo a una menzogna che forse lei intuisce ma non può dimostrare.
+
+Nina può sospettare che Elia sappia più di quanto dice. Non serve che glielo rinfacci subito. Può guardarlo in modo diverso, interrompere una frase, non rispondere a una domanda, fargli capire che la sua richiesta di verità è troppo comoda.
+
+Possibile frase:
+
+> Tu non vuoi sapere dov'è. Vuoi sapere se puoi ancora fare finta di non saperlo.
+
 ---
 
 ## Desiderio
@@ -156,17 +168,21 @@ Vuole restare padrona della propria immagine anche quando le condizioni reali la
 
 Nina teme di perdere la faccia più ancora che di perdere il controllo.
 
-Teme che sparire significhi ammettere di essere stata fregata. Teme di diventare debole davanti a chi l’ha sempre vista dura. Teme che Elia la guardi con pietà. Teme che Rami abbia capito prima di lei che non c’era più niente da salvare.
+Teme che sparire significhi ammettere di essere stata fregata. Teme di diventare debole davanti a chi l'ha sempre vista dura. Teme che Elia la guardi con pietà. Teme che Rami abbia capito prima di lei che non c'era più niente da salvare.
+
+Con il nuovo ruolo di Elia, teme anche un'altra cosa: che la persona che poteva capirla abbia scelto di proteggere il proprio segreto invece di proteggere lei.
 
 ---
 
 ## Consapevolezza
 
-Nina sa dell’ammanco. Sa che Rami non è solo in ritardo. Sa che il giro è ormai compromesso. Sa che il denaro raccolto non serve davvero a ciò che è stato promesso.
+Nina sa dell'ammanco. Sa che Rami non è solo in ritardo. Sa che il giro è ormai compromesso. Sa che il denaro raccolto non serve davvero a ciò che è stato promesso.
 
 La sua tragedia nasce proprio dal fatto che sa, ma crede di poter reggere.
 
 Il suo errore non è ignorare il pericolo. È misurarlo con strumenti da scena, da reputazione, da strada, quando ormai il livello del conflitto è cambiato.
+
+Nina può non sapere subito che Elia ha trovato Rami. Ma deve essere abbastanza intelligente da sentire quando una versione non torna. La verità, per lei, può arrivare prima come ritmo sbagliato che come informazione.
 
 ---
 
@@ -187,13 +203,15 @@ Nina parte come figura di ingresso e autorità: è lei che conosce la notte, è 
 Poi diventa il punto in cui tutti i codici falliscono:
 
 - il codice della scena;
-- il codice dell’amicizia;
+- il codice dell'amicizia;
 - il codice della coppia;
 - il codice della strada;
 - il codice della politica;
 - il codice della reputazione.
 
 Il suo arco non è una caduta morale. È la rivelazione di quanto poco valgano certi codici quando il debito smette di essere sociale e diventa materiale.
+
+La mancata consegna di Rami da parte di Elia aggiunge un ultimo codice che fallisce: quello dell'intimità. Elia la capisce, forse la ama in una forma irrisolta, ma quando deve scegliere tra esporre il proprio errore e lasciarla dentro il buco di Rami, sceglie male.
 
 ---
 
@@ -219,6 +237,13 @@ Una scena in cui potrebbero baciarsi, o potrebbero dirsi qualcosa, ma non succed
 
 Elia prova a capire, Nina capisce che lui vuole una verità che lo assolva. Lei non gliela dà.
 
+Questa scena può avere due livelli:
+
+- Nina sa dell'ammanco e capisce che Rami ha scelto la fuga;
+- Nina intuisce che Elia sta omettendo qualcosa, ma non ha ancora la prova che lo abbia trovato.
+
+Il conflitto non deve diventare spiegazione. Deve stare negli scarti: una domanda evitata, una bugia troppo rapida, un silenzio che Nina riconosce.
+
 ### Ultima apparizione
 
 Nina non deve sembrare già condannata. Deve sembrare ancora capace di reggere. Il lettore deve capire che forse sta sbagliando proprio perché sembra ancora forte.
@@ -229,7 +254,7 @@ Nina non deve sembrare già condannata. Deve sembrare ancora capace di reggere. 
 
 > Nina aveva ventiquattro anni e la faccia di una che aveva già visto abbastanza maschi confondere il volume con il coraggio.
 
-> Elia l’aveva conosciuta per l’oppio. Poi erano diventati amici, che era un modo più lento di farsi male.
+> Elia l'aveva conosciuta per l'oppio. Poi erano diventati amici, che era un modo più lento di farsi male.
 
 > Nina non odiava la politica. Odiava quando la politica diventava il modo elegante di non guardare chi stava pagando il conto.
 
@@ -238,6 +263,10 @@ Nina non deve sembrare già condannata. Deve sembrare ancora capace di reggere. 
 > Non era femminile nel modo in cui molti uomini speravano. Era bella nel modo in cui certe cose ti fanno abbassare la voce.
 
 > Con Elia non era successo niente. Che era la loro forma più lunga di intimità.
+
+> Rami era sparito. Nina no. Era questa la differenza che tutti fingevano di non capire.
+
+> Nina non aveva bisogno della verità intera. Le bastava sentire dove Elia abbassava la voce.
 
 ---
 
@@ -249,6 +278,7 @@ Nina non deve sembrare già condannata. Deve sembrare ancora capace di reggere. 
 - Farla diventare troppo femminile in senso convenzionale: evitare seduzione morbida, fragilità estetizzata, musa dark.
 - Farla ridurre al rapporto con Rami: il legame con Elia è autonomo e fondamentale.
 - Farla parlare come una teorica: Nina legge il mondo per esperienza, non per lessico politico.
+- Farla diventare solo la persona tradita da Rami: il tradimento più interessante può essere quello di Elia, proprio perché più silenzioso.
 
 ---
 
@@ -258,5 +288,7 @@ Nina non deve sembrare già condannata. Deve sembrare ancora capace di reggere. 
 - La tensione erotica tra Nina ed Elia è ancora viva nel presente o appartiene al passato?
 - Rami sa o intuisce qualcosa di questa tensione?
 - Elia idealizza Nina dopo la morte?
-- Quanto Nina confessa davvero a Elia dell’ammanco?
+- Quanto Nina confessa davvero a Elia dell'ammanco?
 - Qual è la scena più forte in cui Nina mostra di sapersi far rispettare in dinamiche di strada?
+- Nina capisce che Elia ha trovato Rami prima degli altri?
+- Se lo capisce, glielo dice apertamente o lo lascia marcire nel sospetto?
