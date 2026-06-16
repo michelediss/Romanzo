@@ -25,12 +25,12 @@ Teme che ogni scelta definitiva lo trasformi in qualcosa di falso: un militante 
 
 La sua colpa non è una sola azione, ma una postura: garantire passaggi senza assumersi la responsabilità di ciò che passa.
 
-Nella Battaglia ha probabilmente visto, coperto o mediato qualcosa. Nel presente garantisce Lale e facilita l’ingresso di Sara e Gab nel giro dell’ultimo viaggio.
+Nella Battaglia ha probabilmente visto, coperto o mediato qualcosa. Nel presente garantisce Rami e facilita l’ingresso di Ari e Dile nel giro dell’ultimo viaggio.
 
 ## Rapporto con le trame
 
-- Con Cecilia/Lale: è vicino abbastanza da capire tardi, non abbastanza da impedire.
-- Con Sara/Gab/sardi: è il ponte che rende possibile il contatto.
+- Con Nina/Rami: è vicino abbastanza da capire tardi, non abbastanza da impedire.
+- Con Ari/Dile/Corvo e Nurra: è il ponte che rende possibile il contatto.
 - Con la Battaglia: è un reduce ambiguo, non pacificato.
 - Con De Bonis: è uno snodo leggibile.
 - Con Sarnelli: è l’allievo che non ha imparato fino in fondo la responsabilità dello sguardo.
@@ -43,12 +43,12 @@ Alla fine capisce che stare in mezzo significa garantire.
 ## Scene chiave
 
 - Apertura dopo la Battaglia.
-- Primo incontro con Cecilia e Lale nel presente.
-- Incontro con i due sardi insieme a Sara e Gab.
-- Richiesta di Sara e Gab.
-- Confronto con Cecilia dopo la sparizione di Lale.
+- Primo incontro con Nina e Rami nel presente.
+- Incontro con Corvo e Nurra insieme a Ari e Dile.
+- Richiesta di Ari e Dile.
+- Confronto con Nina dopo la sparizione di Rami.
 - Pressione indiretta o diretta di De Bonis.
-- Dialogo con Sarnelli dopo la morte di Cecilia.
+- Dialogo con Sarnelli dopo la morte di Nina.
 - Frammento finale d’archivio.
 
 ## Frasi possibili
@@ -61,5 +61,5 @@ Alla fine capisce che stare in mezzo significa garantire.
 
 - Che cosa ha fatto esattamente durante la Battaglia?
 - Chi lo considera ancora affidabile e perché?
-- Che cosa scrive nel suo archivio dopo la morte di Cecilia?
+- Che cosa scrive nel suo archivio dopo la morte di Nina?
 - Alla fine parla, scrive, fugge o resta zitto?
