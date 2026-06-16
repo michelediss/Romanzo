@@ -24,7 +24,7 @@ Sarnelli è uno dei primi adulti a incrinare la fede di Elia nei territorialisti
 
 De Bonis conosce Elia come figura di passaggio.
 
-Non lo vede come un nemico principale, ma come uno snodo. Elia è interessante perché attraversa ambienti che altri non riescono più ad attraversare: territorialisti, nomadi, SubBasso, Cecilia, Sara e Gab.
+Non lo vede come un nemico principale, ma come uno snodo. Elia è interessante perché attraversa ambienti che altri non riescono più ad attraversare: territorialisti, nomadi, SubBasso, Nina, Ari e Dile.
 
 Per De Bonis, Elia non è pericoloso. È utile.
 
@@ -46,8 +46,8 @@ Il loro conflitto non è verità contro menzogna. È uso contro responsabilità.
 Sarnelli ha ancora vergogna.  
 De Bonis no, o la considera irrilevante.
 
-Sarnelli sa che scrivere male Cecilia sarebbe una seconda morte.  
-De Bonis vede Cecilia come elemento di una mappa.
+Sarnelli sa che scrivere male Nina sarebbe una seconda morte.  
+De Bonis vede Nina come elemento di una mappa.
 
 Sarnelli può tacere perché una verità detta male distrugge.  
 De Bonis può parlare perché una verità parziale basta a governare.
@@ -65,7 +65,7 @@ Elia scopre che non basta non parlare per non tradire.
 
 ## Scena possibile
 
-Dopo la morte di Cecilia, Elia va da Sarnelli. Gli porta pezzi, sospetti, frasi, mezze verità.
+Dopo la morte di Nina, Elia va da Sarnelli. Gli porta pezzi, sospetti, frasi, mezze verità.
 
 Sarnelli capisce che il materiale può diventare un pezzo, ma anche una semplificazione disastrosa.
 
@@ -75,7 +75,7 @@ Sarnelli si trova nella posizione peggiore: sa che quella versione è falsa nel 
 
 ## Frasi guida
 
-> Se la scrivo come la vuoi tu, diventa una ballata. Se la scrivo come la vogliono loro, diventa degrado. Se la scrivo come la so io, mi querelano e non serve a Cecilia.
+> Se la scrivo come la vuoi tu, diventa una ballata. Se la scrivo come la vogliono loro, diventa degrado. Se la scrivo come la so io, mi querelano e non serve a Nina.
 
 > Tu non sei mai stato pericoloso. Tu sei utile. È diverso.
 
