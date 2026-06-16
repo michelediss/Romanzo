@@ -46,25 +46,25 @@ Rapporto professionale sporco: si usano a vicenda. De Bonis gli passa cornici, S
 
 ## Arco
 
-Da osservatore esterno della frattura a uomo che capisce di non poter salvare Cecilia dalla versione pubblica. La sua impotenza è deontologica: sa, ma non tutto è pubblicabile senza tradire.
+Da osservatore esterno della frattura a uomo che capisce di non poter sottrarre Nina alla versione pubblica. La sua impotenza è deontologica: sa, ma non tutto è pubblicabile senza tradire.
 
 ## Scene chiave
 
 - Dialogo con Elia sulla fase dei beni comuni.
 - Scontro verbale con Franchino.
 - Telefonata o incontro teso con De Bonis.
-- Dopo la morte di Cecilia: la domanda su cosa si possa scrivere.
+- Dopo la morte di Nina: la domanda su cosa si possa scrivere.
 - Possibile articolo mancato o pezzo parziale.
 
 ## Frasi possibili
 
 > Il problema non è quando mentono loro. Il problema è quando ti chiedono di montare la verità meglio di come saprebbero fare loro.
 
-> Se la scrivo come la vuoi tu, diventa una ballata. Se la scrivo come la vogliono loro, diventa degrado. Se la scrivo come la so io, mi querelano e non serve a Cecilia.
+> Se la scrivo come la vuoi tu, diventa una ballata. Se la scrivo come la vogliono loro, diventa degrado. Se la scrivo come la so io, mi querelano e non serve a Nina.
 
 ## Questioni aperte
 
 - Lavora per un quotidiano locale, una testata indipendente o entrambe le cose?
-- Scrive davvero di Cecilia?
+- Scrive davvero di Nina?
 - Tradisce involontariamente qualcuno facendo una domanda?
 - È ancora amato da una parte di Presidio Sud o solo tollerato?
