@@ -31,8 +31,8 @@
 - Il romanzo si apre **dopo la Battaglia**.
 - La Battaglia è trauma fondativo già avvenuto, non climax futuro.
 - La Battaglia viene ricostruita per frammenti, versioni, accuse, ricordi e documenti.
-- La morte di Cecilia è il **climax emotivo**.
-- L’arresto dei sardi viene dopo, come **climax istituzionale e freddo**.
+- La morte di Nina è il **climax emotivo**.
+- L’arresto di Corvo e Nurra viene dopo, come **climax istituzionale e freddo**.
 - La coda finale deve mostrare come il dolore viene usato dalle varie parti.
 
 ---
@@ -47,44 +47,44 @@
 
 ---
 
-## 5. Cecilia
+## 5. Nina
 
-- Cecilia è consapevole dell’ammanco legato alla coca.
+- Nina è consapevole dell’ammanco legato alla coca.
 - Non è ingenua.
-- Decide di non sparire con Lale.
+- Decide di non sparire con Rami.
 - Crede di poter restare, trattare, reggere la faccia.
 - Il suo errore tragico è credere che la reputazione nella scena valga davanti al sistema.
 - Muore quasi alla fine del romanzo.
 
 ---
 
-## 6. Lale
+## 6. Rami
 
-- Lale arriva a Napoli come figura laterale, schiva, talentuosa.
+- Rami arriva a Napoli come figura laterale, schiva, talentuosa.
 - Porta un fumo eccezionale e diventa centro di un giro fiduciario.
 - Raccoglie soldi prima dei viaggi.
 - L’ultimo giro diventa il punto di collasso.
-- Lale fugge.
+- Rami fugge.
 - Non deve ricomparire fisicamente nel finale.
 - Non deve lasciare prove stupide o taccuini compromettenti.
 
 ---
 
-## 7. Sara e Gab
+## 7. Ari e Dile
 
-- Sara e Gab sono giovani, intelligenti, ingenue ma non stupide.
-- Sono attratte dai due sardi e dall’idea di radicalità irreversibile.
-- Chiedono a Elia di entrare nel giro di Lale per aiutare la latitanza.
+- Ari e Dile sono giovani, intelligenti, ingenue ma non stupide.
+- Sono attratte da Corvo e Nurra e dall’idea di radicalità irreversibile.
+- Chiedono a Elia di entrare nel giro di Rami per aiutare la latitanza.
 - La richiesta non deve sembrare puramente criminale, ma una razionalizzazione politica e affettiva.
 
 ---
 
-## 8. I due sardi
+## 8. Corvo e Nurra
 
-- I due sardi sono mito radioattivo, non protagonisti d’azione.
+- Corvo e Nurra sono mito radioattivo, non protagonisti d’azione.
 - Non devono essere romanticizzati.
 - Rappresentano il punto in cui la radicalità smette di essere posa e diventa irreversibile.
-- Vengono arrestati dopo la morte di Cecilia.
+- Vengono arrestati dopo la morte di Nina.
 - L’arresto non deriva da un unico tradimento, ma dalla somma di crepe, panico, attenzioni e movimenti sbagliati.
 
 ---
@@ -93,12 +93,12 @@
 
 - De Bonis è capo Digos, archivista dell’ordine.
 - Non è soltanto uno sbirro violento.
-- Usa la scena, le sostanze, i legami e la morte di Cecilia per costruire una cornice utile.
+- Usa la scena, le sostanze, i legami e la morte di Nina per costruire una cornice utile.
 - Non cerca solo reati: cerca una storia da far vincere.
 - La sua catena narrativa è:
 
 ```text
-ketamina → Cecilia/Lale → Sara/Gab → sardi
+ketamina → Nina/Rami → Ari/Dile → Corvo/Nurra
 ```
 
 - La sua funzione è trasformare una rete confusa in una versione istituzionale.
@@ -111,7 +111,7 @@ ketamina → Cecilia/Lale → Sara/Gab → sardi
 - È stato mentore di Elia.
 - La sua uscita dalla militanza ha influenzato l’intiepidimento di Elia verso Presidio Sud.
 - Sa più di quanto possa scrivere.
-- La sua tragedia è capire che ogni versione pubblica può tradire Cecilia.
+- La sua tragedia è capire che ogni versione pubblica può tradire Nina.
 
 ---
 
