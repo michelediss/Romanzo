@@ -10,13 +10,15 @@ La domanda della relazione è:
 
 > cosa succede quando il desiderio di politica vera incontra persone reali, opache, forse più piccole del mito che le circonda?
 
+Con Rami, questa relazione trova il suo test materiale: non basta desiderare il rischio, bisogna decidere chi paga quando il rischio diventa debito, fuga e menzogna.
+
 ---
 
 ## Configurazione iniziale
 
 - **Ari e Dile** gravitano intorno alla Deriva e desiderano smettere di essere spettatrici.
 - **Corvo e Nurra** arrivano come figure sarde, legate alla latitanza, al rischio e a una radicalità già compromessa con la vita materiale.
-- **Elia e Rami** restano sullo sfondo operativo: il passaggio verso il giro del fumo e delle risorse viene trattato nella relazione `elia_ari_dile.md`.
+- **Elia e Rami** restano sullo sfondo operativo: il passaggio verso il giro del fumo e delle risorse viene trattato nella relazione `elia_ari_dile.md`, ma qui importa la sua ricaduta politica ed emotiva.
 
 Ari e Dile non devono apparire manipolate in modo semplice. Sono attratte, sì, ma il loro desiderio è attivo. Vogliono essere all'altezza di ciò che immaginano.
 
@@ -66,6 +68,8 @@ Il suo conflitto è più tragico:
 
 Dile può essere quella che tiene i conti, misura i passaggi, controlla i telefoni, chiede chi deve sapere cosa. La sua lucidità la rende più responsabile, non più innocente.
 
+Proprio per questo Dile può essere la prima a capire che Rami non è solo un buco logistico, ma un problema narrativo: qualcuno sta costruendo una versione, e quella versione serve a spostare la colpa.
+
 ---
 
 ## Il desiderio spostato
@@ -104,6 +108,8 @@ Il dettaglio operativo sta nella relazione `elia_ari_dile.md`; qui conta l'origi
 
 > Ari e Dile vogliono dimostrare di essere all'altezza di Corvo e Nurra.
 
+Questa richiesta è il punto in cui il mito produce contabilità. Finché si parla di sostegno, Ari e Dile possono sentirsi dentro una storia grande. Quando mancano soldi, fumo, telefoni o consegne, la storia grande diventa una lista di nomi da chiamare.
+
 ---
 
 ## Corvo e Nurra rispetto ad Ari e Dile
@@ -123,11 +129,33 @@ Possibili livelli:
 
 ---
 
+## Corvo e Nurra davanti al caso Rami
+
+Quando Rami sparisce, tradisce o lascia un ammanco, Corvo e Nurra non devono reagire come due cattivi da genere. Devono reagire come persone in latitanza che vedono una rete diventare rumorosa.
+
+Per loro Rami è meno una persona che un rischio:
+
+- se è scappato, qualcuno ha sbagliato a garantirlo;
+- se qualcuno lo copre, la rete è compromessa;
+- se Nina resta esposta, può parlare o essere usata;
+- se Elia mente, allora Elia non è più solo un contatto utile;
+- se Ari e Dile non reggono la pressione, la loro devozione diventa pericolosa.
+
+Corvo e Nurra possono quindi chiedere conto a Elia non per crudeltà, ma per necessità:
+
+> Tu ce l'hai portato. Tu sai dove cercarlo.
+
+Questo sposta Rami da assenza a prova di lealtà.
+
+---
+
 ## Deformazione tragica
 
 Ciò che nasce come sostegno politico entra in una rete non controllabile.
 
-Il mito di Corvo e Nurra spinge Ari e Dile a chiedere un passaggio materiale. Il passaggio materiale passa per Elia. Elia garantisce Rami. Rami diventa il punto in cui la fiducia si trasforma in fuga, debito, tradimento o sparizione.
+Il mito di Corvo e Nurra spinge Ari e Dile a chiedere un passaggio materiale. Il passaggio materiale passa per Elia. Elia garantisce Rami. Rami diventa il punto in cui la fiducia si trasforma in fuga, debito, tradimento, sparizione e ricatto.
+
+La svolta più grave non è soltanto che Rami sparisce. È che Elia lo trova e non lo consegna. Da quel momento il problema non è più solo operativo: diventa morale e narrativo. Tutti possono sospettare che qualcuno sappia più di quanto dice.
 
 Ari e Dile non sono semplicemente ingannate: partecipano alla costruzione del proprio inganno, perché desiderano troppo che quella storia significhi qualcosa.
 
@@ -139,6 +167,7 @@ Ari e Dile non sono semplicemente ingannate: partecipano alla costruzione del pr
 - Il sostegno alla latitanza diventa contaminato da passaggi privati, debiti, fughe e vanità.
 - La rete che doveva proteggere diventa rumorosa.
 - Corvo e Nurra vengono esposti non da un singolo tradimento, ma da un sistema di relazioni che nessuno controlla più.
+- Rami diventa il nome su cui tutti misurano la lealtà degli altri.
 - Ari e Dile devono decidere se accusare Elia, Rami, i due sardi, la Deriva o sé stesse.
 
 ---
@@ -153,6 +182,10 @@ Ari e Dile non sono semplicemente ingannate: partecipano alla costruzione del pr
 
 > Dile aveva capito che non era una soglia. Ma Ari era già dall'altra parte.
 
+> Rami fu il momento in cui la soglia chiese uno scontrino.
+
+> Non era più importante solo trovarlo. Era importante capire chi lo aveva già trovato.
+
 ---
 
 ## Questioni aperte
@@ -162,3 +195,5 @@ Ari e Dile non sono semplicemente ingannate: partecipano alla costruzione del pr
 - Una delle due ha una relazione erotica con uno dei sardi, o il desiderio resta più politico che sessuale?
 - Dopo l'arresto, Ari e Dile si accusano a vicenda o restano unite?
 - Boy capisce prima di Elia che questa fascinazione sta diventando una trappola?
+- Chi tra Corvo e Nurra pretende da Elia una risposta più dura su Rami?
+- Dile sospetta che Elia abbia trovato Rami prima degli altri?
