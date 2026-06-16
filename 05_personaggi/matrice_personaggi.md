@@ -15,6 +15,7 @@
 | Gab | La Deriva | Giovane più lucida o più inquieta | Capire se la politica può essere vera | Entra in una rete più grande di lei | Si spezza o resta muta |
 | Due sardi | Mito anarchico | Radicalità come conseguenza | Restare fuori dalla cattura | Diventano simbolo prima che persone | Arrestati dopo Cecilia |
 | Sarnelli | Giornalismo / ex Presidio | Verità raccontabile, limite deontologico | Scrivere senza tradire | Sa più di quanto possa pubblicare | Impotenza lucida |
+| Boy | Movimento / fotografia | Occhio morale, archivio negativo | Guardare senza tradire | Non fotografare può essere complicità | Lascia un buco più forte di una prova |
 | De Bonis | Digos | Verità utilizzabile, cornice istituzionale | Mappare e delegittimare | Usa fatti parziali per costruire ordine | Vittoria fredda |
 | Azzurra | Presidio Sud | Ferita politica/sentimentale | Difendere la mediazione come tattica | Fedeltà che diventa copertura | Resta forte ma incrinata |
 | Franchino | Presidio Sud | Eminenza grigia | Sopravvivere alla marginalità | Trasforma ogni crisi in vantaggio | Sopravvive e riscrive |
@@ -48,6 +49,18 @@ Tre forme di montaggio della verità:
 - Sarnelli monta per raccontare.
 - De Bonis monta per usare.
 
+### Elia — Boy — Sarnelli
+
+Tre etiche dell’archivio:
+
+- Elia archivia per rimandare la colpa.
+- Boy fotografa o non fotografa per non consegnare tutto.
+- Sarnelli scrive o non scrive perché sa che la verità pubblicata cambia padrone.
+
+### Boy — De Bonis
+
+La relazione della prova mancante. Boy pensa che non fotografare protegga qualcuno; De Bonis capisce che anche l’assenza è informazione.
+
 ### Presidio Sud — La Deriva
 
 Conflitto tra radicamento e mobilità, mediazione e purezza, gestione e desiderio di irreversibile.
@@ -80,6 +93,14 @@ Tre livelli di Presidio Sud:
 
 Entrambi osservano e montano. Differenza: Sarnelli ha scelto una disciplina esterna; Elia conserva l’ambiguità.
 
+### Boy e Sarnelli
+
+Entrambi hanno un’etica del documento trattenuto. Differenza: Boy lavora con immagini e assenze; Sarnelli con parole, fonti e pubblicabilità.
+
+### Boy e Globo
+
+Entrambi sono memorie dolenti. Differenza: Globo custodisce la memoria orale della scena; Boy custodisce la memoria visiva e i suoi buchi.
+
 ### De Bonis e Franchino
 
 Entrambi producono cornici. Differenza: De Bonis usa l’ordine; Franchino usa la storia del movimento.
@@ -108,6 +129,7 @@ Ogni personaggio deve rispondere a una domanda diversa:
 - Sara/Gab: quando il desiderio politico diventa ingenuità pericolosa?
 - Sardi: che cosa succede quando il mito diventa persona e poi fascicolo?
 - Sarnelli: che cosa si può raccontare senza tradire?
+- Boy: quando non documentare è etica e quando diventa complicità?
 - De Bonis: come lo Stato usa una storia parziale?
 - Azzurra: quando la fedeltà diventa copertura?
 - Franchino: quando la memoria diventa proprietà?
