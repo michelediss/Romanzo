@@ -250,7 +250,7 @@ Lo sfondo storico resta riconoscibile come clima, ma non diventa cronaca o pamph
 
 ### Modifica
 
-Ivan viene cassato dal sistema dei personaggi. La sua scheda è stata eliminata e il riferimento diretto nella scena d’apertura è stato rimosso.
+Ivan viene cassato dal sistema dei personaggi. La sua scheda è stata eliminata, il riferimento diretto nella scena d’apertura è stato rimosso e il residuo nel frammento d’archivio sulla Battaglia è stato reso anonimo.
 
 ### Motivo
 
@@ -260,8 +260,48 @@ Il personaggio non è più necessario: la funzione di coscienza fisica di Presid
 
 - `05_personaggi/ivan.md`
 - `08_scene_chiave/apertura_dopo_battaglia.md`
+- `09_documenti_interni/file_archivio_elia.md`
 - `10_domande_aperte/registro_modifiche.md`
 
 ### Effetto sul romanzo
 
 Presidio Sud perde una figura laterale autonoma e diventa più compatto. La Battaglia resta leggibile senza aggiungere un altro testimone morale nominale.
+
+---
+
+## 2026-06-16 — Rinomina sistema personaggi
+
+### Modifica
+
+È stata applicata una rinomina strutturale del sistema dei personaggi:
+
+- Cecilia → Nina
+- Lale → Rami
+- Stefano → Tancredi
+- Elio → Arturo
+- Egidio / Eleonora → Mauro / Costanza
+- Johnny → Mazza
+- Globo → Onda
+- Sara / Gab → Ari / Dile
+- i due sardi → Corvo / Nurra
+
+### Motivo
+
+La nuova nomenclatura rende il cast più netto, meno generico e più coerente con funzioni, suono e tono del romanzo. Riduce inoltre alcune prossimità sonore o nominali che potevano generare confusione.
+
+### File coinvolti
+
+- `02_struttura/struttura_in_atti.md`
+- `02_struttura/cronologia_presente.md`
+- `04_trame/nina_rami.md`
+- `04_trame/corvo_nurra.md`
+- `04_trame/ketamina_amsterdam.md`
+- `05_personaggi/`
+- `06_relazioni/`
+- `08_scene_chiave/`
+- `09_documenti_interni/`
+- `10_domande_aperte/`
+
+### Effetto sul romanzo
+
+Il sistema dei nomi viene ricentrato. Nina e Rami diventano la coppia tragica principale; Ari e Dile sostituiscono Sara e Gab come giovani della Deriva; Corvo e Nurra danno identità al mito sardo senza trasformarlo in protagonismo d’azione; Onda e Mazza rendono più fisica e meno generica la scena SubBasso.
