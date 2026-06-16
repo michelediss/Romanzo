@@ -115,19 +115,19 @@ E un passaggio muore quando qualcuno decide chi può attraversarlo.
 
 ---
 
-### 3. Dopo la morte di Cecilia
+### 3. Dopo la morte di Nina
 
 > **Nessuna santa, nessun caso**
 
 La città ha già cominciato a masticarla.
 
-I giornali cercano una parola facile. La questura cerca una cornice. I compagni cercano una distanza. I vecchi cercano una conferma. Tutti vogliono che Cecilia serva a qualcosa.
+I giornali cercano una parola facile. La questura cerca una cornice. I compagni cercano una distanza. I vecchi cercano una conferma. Tutti vogliono che Nina serva a qualcosa.
 
 Noi diciamo che non deve servire.
 
 Non deve servire a dimostrare che le notti sono marce. Non deve servire a dimostrare che avevamo ragione. Non deve servire a pulire chi l’ha conosciuta, chi l’ha amata male, chi l’ha usata come leggenda, chi adesso scopre di avere una morale perché ha paura.
 
-Cecilia era una persona, non una prova.
+Nina era una persona, non una prova.
 
 E se questa città è capace di trasformare anche una morta in categoria, allora forse la categoria è il problema.
 
@@ -140,7 +140,7 @@ Non chiedeteci lutti ordinati.
 I comunicati della Deriva possono comparire:
 
 - stampati male e attaccati in uno spazio temporaneo;
-- letti da Sara o Gab come se fossero quasi poesia;
+- letti da Ari o Dile come se fossero quasi poesia;
 - liquidati da Franchino come adolescenza politica;
 - citati da Sarnelli con disagio, perché dentro la retorica c’è una ferita reale;
 - usati da De Bonis come prova di irresponsabilità e opacità.
@@ -149,4 +149,4 @@ I comunicati della Deriva possono comparire:
 
 ## Rischio
 
-Non farli diventare solo belli. La lingua della Deriva deve sedurre e insieme rivelare la propria insufficienza. Deve far capire perché Sara e Gab ci credono, e perché Elia diffida.
+Non farli diventare solo belli. La lingua della Deriva deve sedurre e insieme rivelare la propria insufficienza. Deve far capire perché Ari e Dile ci credono, e perché Elia diffida.
