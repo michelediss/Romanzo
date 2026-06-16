@@ -138,25 +138,17 @@ La festa non deve finire come tragedia immediata. Deve finire come esposizione: 
 
 ---
 
-### Giorni +1 / +2 — Dopo Black Convoy: il racconto addosso a Elia
+### Giorno +1 — La sera dopo Black Convoy: racconto, richiesta, Rami, notte
 
-Funzione: far rientrare la festa nella linea Elia/Ari/Dile.
+Funzione: concentrare in una sola serata il rientro della festa nella linea Elia/Ari/Dile, il peccato attuale di Elia, l’accesso a Rami e la notte sessuale.
+
+Questa sequenza non va distribuita su più giorni. Deve avere la forma di una serata che scivola da una cosa all’altra, senza che nessuno possa dire esattamente quando il racconto diventa richiesta, quando la richiesta diventa passaggio e quando il passaggio diventa intimità.
 
 Dopo Black Convoy, Elia porta addosso quella notte. È stanco, eccitato, sporco di racconto. Si sente più dentro Bass Unit di quanto sia davvero.
 
-Quando rivede Ari e Dile, può raccontare pezzi della festa. Loro ascoltano, lo prendono in giro, ne colgono il fascino e la ridicolaggine senza aver partecipato alla liturgia.
+Quando rivede Ari e Dile, racconta pezzi della festa. Loro ascoltano, lo prendono in giro, ne colgono il fascino e la ridicolaggine senza aver partecipato alla liturgia. La festa diventa così l’intermezzo che modifica Elia prima che Ari e Dile tornino davvero nella sua traiettoria.
 
-La festa diventa così un intermezzo che modifica Elia prima che Ari e Dile tornino davvero nella sua traiettoria.
-
----
-
-### Giorno +3 — La richiesta di Ari e Dile
-
-Funzione: creare il peccato attuale di Elia.
-
-Ari e Dile chiedono a Elia di aprire loro un accesso al giro di Rami. La richiesta deve emergere di lato, non come piano criminale esplicito.
-
-La cornice è politica, idealizzata, piena di omissioni:
+Dentro questa stessa serata emerge la richiesta. Deve uscire di lato, non come piano criminale esplicito. La cornice è politica, idealizzata, piena di omissioni:
 
 > Ci serve un modo per raccogliere soldi fuori dalle solite collette.
 
@@ -164,25 +156,13 @@ Elia capisce abbastanza da sapere che è una richiesta delicata, ma non abbastan
 
 La sua colpa non è organizzare tutto. La sua colpa è rendere possibile il passaggio.
 
----
-
-### Giorno +4 — L’incontro con Rami va bene
-
-Funzione: trasformare l’accesso in contaminazione.
-
-Elia presenta Ari e Dile a Rami.
+La serata continua verso Rami. Elia presenta Ari e Dile a Rami, oppure rende possibile un incontro immediato, quasi naturale: un altro posto, un altro bar, una casa, una macchina, una telefonata che diventa appuntamento.
 
 L’incontro va bene. Anzi, va troppo bene.
 
 Rami piace perché non parla più del necessario. Non recita il criminale, non vende mitologia, non cerca consenso. Proprio questa sottrazione lo rende credibile.
 
 Per Ari e Dile, l’incontro sembra una porta che si apre. Per Elia, sembra la conferma di essere stato utile senza sporcarsi troppo. Per il romanzo, è l’inizio della contaminazione.
-
----
-
-### Giorno +4 / +5 — La notte sessuale
-
-Funzione: legare desiderio, fiducia e responsabilità.
 
 Dopo l’incontro con Rami, Elia, Ari e Dile continuano a bere. Il sesso non deve sembrare un premio né una conquista.
 
@@ -192,9 +172,11 @@ Questa differenza è decisiva.
 
 Elia non pensa razionalmente che Ari e Dile siano sue. Però trasforma quella notte in credito emotivo, in promessa non detta, in porta che potrà riaprire.
 
+La compressione temporale è importante: Elia non ha il tempo di distinguere desiderio, fiducia, racconto e responsabilità. Tutto gli arriva addosso come una stessa corrente. Per questo, più avanti, non riuscirà a separare la propria colpa dal proprio desiderio.
+
 ---
 
-### Giorni +6 / +7 — Fiducia materiale, credito emotivo
+### Giorni +2 / +3 — Fiducia materiale, credito emotivo
 
 Funzione: lasciare che l’errore di Elia maturi.
 
@@ -206,7 +188,7 @@ Nina può già percepire che qualcosa, nel giro di Rami, non è pulito come semb
 
 ---
 
-### Giorno +8 — Il mancato bis: entrano Corvo e Nurra
+### Giorno +4 — Il mancato bis: entrano Corvo e Nurra
 
 Funzione: trasformare il desiderio di Elia in umiliazione.
 
@@ -224,7 +206,7 @@ Corvo e Nurra sono soglia.
 
 ---
 
-### Giorno +8 / +9 — Il bar e la battuta di Boy
+### Giorno +4 / +5 — Il bar e la battuta di Boy
 
 Funzione: nominare il ridicolo di Elia senza consolarlo.
 
@@ -240,7 +222,7 @@ Questa frase smaschera l’illusione di possesso che Elia non avrebbe mai ammess
 
 ---
 
-### Giorni +10 / +12 — Rami raccoglie fiducia
+### Giorni +6 / +8 — Rami raccoglie fiducia
 
 Funzione: trasformare la fiducia in credito.
 
@@ -252,7 +234,7 @@ Nina sa che la situazione è già compromessa. Elia interpreta ancora tutto come
 
 ---
 
-### Giorno +13 — Sarnelli avverte Elia
+### Giorno +9 — Sarnelli avverte Elia
 
 Funzione: introdurre il conflitto tra verità raccontabile e verità usabile.
 
@@ -262,7 +244,7 @@ Black Convoy ha reso Bass Unit raccontabile dall’esterno. La sparizione o il t
 
 ---
 
-### Giorno +14 — Mastantuono stringe, De Bonis legge
+### Giorno +10 — Mastantuono stringe, De Bonis legge
 
 Funzione: distinguere pressione operativa e intelligenza di rete.
 
@@ -274,7 +256,7 @@ Elia diventa leggibile anche quando tace.
 
 ---
 
-### Giorno +15 — Ultimi segnali di Rami
+### Giorno +11 — Ultimi segnali di Rami
 
 Funzione: creare sospensione.
 
@@ -284,7 +266,7 @@ Ari e Dile non devono sembrare ingenue: possono capire che qualcosa non torna, m
 
 ---
 
-### Giorno +16 — Rami esce dalla mappa
+### Giorno +12 — Rami esce dalla mappa
 
 Funzione: trasformare l’assenza in prova.
 
@@ -296,7 +278,7 @@ Per Elia, la sparizione di Rami sporca retroattivamente tutto: la richiesta di A
 
 ---
 
-### Giorno +17 — Nina sapeva
+### Giorno +13 — Nina sapeva
 
 Funzione: impedire che Nina sia letta come ingenua.
 
@@ -306,7 +288,7 @@ Nina deve essere lucidissima, stanca, feroce. Il suo rapporto con Elia non si ri
 
 ---
 
-### Giorno +18 — Ultimo incontro Elia/Nina
+### Giorno +14 — Ultimo incontro Elia/Nina
 
 Funzione: chiudere il rapporto vivo tra Elia e Nina.
 
@@ -316,7 +298,7 @@ Questo incontro deve preparare il climax senza spiegarlo del tutto.
 
 ---
 
-### Giorno +19 — Climax Nina
+### Giorno +15 — Climax Nina
 
 Funzione: climax emotivo.
 
@@ -328,7 +310,7 @@ Black Convoy era il centro della successione. Nina è il centro della perdita.
 
 ---
 
-### Giorno +20 — Dopo Nina
+### Giorno +16 — Dopo Nina
 
 Funzione: mostrare il dolore mentre diventa materiale narrativo e politico.
 
@@ -338,7 +320,7 @@ Ari e Dile devono essere esposte alla contraddizione tra il loro bisogno di cons
 
 ---
 
-### Giorni +21 / +22 — Arresto di Corvo e Nurra
+### Giorni +17 / +18 — Arresto di Corvo e Nurra
 
 Funzione: climax istituzionale.
 
@@ -348,7 +330,7 @@ Può essere mostrato direttamente o tramite notizia, immagine, comunicato, voce.
 
 ---
 
-### Giorno +23 — Le versioni
+### Giorno +19 — Le versioni
 
 Funzione: epilogo morale.
 
@@ -393,17 +375,19 @@ Se una scena non aumenta nessuna pressione, va tagliata o spostata.
 
 ## 5. Regola specifica Elia/Ari/Dile
 
-La linea Elia/Ari/Dile deve scandire il romanzo dopo Black Convoy in questo ordine:
+La linea Elia/Ari/Dile deve scandire il romanzo intorno a Black Convoy in questo ordine:
 
 1. Boy presenta Elia ad Ari e Dile: non succede nulla.
 2. Black Convoy modifica Elia, non Ari e Dile.
-3. Ari e Dile chiedono l’accesso a Rami.
-4. L’incontro con Rami va bene.
-5. La notte sessuale avviene come sospensione dopo il passaggio riuscito.
-6. Elia trasforma quella sospensione in credito emotivo.
-7. Ari e Dile non concedono il bis.
-8. Corvo e Nurra entrano come soglia più forte di Elia.
-9. Rami sporca retroattivamente la notte.
-10. Elia capisce troppo tardi che aveva scambiato il passaggio per appartenenza.
+3. La sera dopo Black Convoy, Elia porta addosso il racconto della festa davanti ad Ari e Dile.
+4. Nella stessa serata Ari e Dile chiedono l’accesso a Rami.
+5. Nella stessa serata Elia rende possibile l’incontro con Rami.
+6. Nella stessa serata l’incontro con Rami va bene.
+7. Nella stessa serata avviene la notte sessuale come sospensione dopo il passaggio riuscito.
+8. Elia trasforma quella sospensione in credito emotivo.
+9. Ari e Dile non concedono il bis.
+10. Corvo e Nurra entrano come soglia più forte di Elia.
+11. Rami sporca retroattivamente la notte.
+12. Elia capisce troppo tardi che aveva scambiato il passaggio per appartenenza.
 
 Questa linea non è una sottotrama sentimentale. È una struttura di responsabilità.
