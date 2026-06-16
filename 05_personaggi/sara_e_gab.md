@@ -1,0 +1,71 @@
+# Sara e Gab
+
+## Funzione narrativa
+
+Sara e Gab incarnano la seduzione dell’irreversibile. Sono giovani, intelligenti, affascinate dall’idea che la politica possa ancora produrre conseguenze reali.
+
+Non devono essere stupide. Il loro errore nasce da una logica precisa: se la scena muove già denaro, fiducia e passaggi, allora forse quella stessa economia può essere piegata a qualcosa di più grande.
+
+## Ambiente
+
+- Area: La Deriva / nomadi.
+- Origine: provincia, università, case temporanee, assemblee irregolari.
+- Posizione: non ancora centrali, ma desiderose di esserlo.
+
+## Desiderio
+
+Vogliono smettere di essere spettatrici. Vogliono essere all’altezza di un mito politico che non sia solo posa, linguaggio o appartenenza estetica.
+
+## Paura
+
+Temono di essere solo ragazze di passaggio nella storia degli altri. Temono di non avere mai un gesto vero, una prova, una conseguenza.
+
+## Rapporto con i sardi
+
+I due latitanti sardi sono per loro figure quasi iniziatiche. Non necessariamente eroi, ma prove viventi che esiste una soglia oltre la retorica.
+
+Sara e Gab non vedono subito la miseria attorno al mito. Vedono l’aura.
+
+## Rapporto con Elia
+
+Elia è il ponte praticabile: abbastanza vecchio da conoscere tutti, abbastanza laterale da non sembrare un capo, abbastanza affidabile da poter introdurre.
+
+La loro richiesta a Elia è uno snodo centrale: gli chiedono di farle entrare nel giro di Lale per raccogliere risorse da destinare alla latitanza.
+
+## Differenza tra le due
+
+Da definire meglio. Possibile ipotesi:
+
+- Sara: più luminosa, seduttiva, impulsiva, innamorata dell’epica.
+- Gab: più silenziosa, più lucida, più inquieta, capisce prima che qualcosa non torna.
+
+Oppure il contrario, se serve ribaltare le aspettative.
+
+## Arco
+
+Da entusiasmo politico a disincanto sporco. Capiscono che il loro desiderio di politica vera ha attraversato una rete già contaminata da debiti privati, vanità adulte e fughe individuali.
+
+## Scene chiave
+
+- Prima apparizione con Elia.
+- Sera dell’incontro con i sardi.
+- Richiesta a Elia.
+- Confronto tra loro dopo la sparizione di Lale.
+- Reazione alla morte di Cecilia.
+- Reazione all’arresto dei sardi.
+
+## Frasi possibili
+
+> Se tutti fumano comunque, almeno facciamoci uscire qualcosa di vero.
+
+> Non è per noi.
+
+> Lale parte, no? È affidabile?
+
+## Questioni aperte
+
+- Chi delle due formula la richiesta?
+- Chi è più sedotta dai sardi?
+- Chi capisce prima il tradimento di Lale?
+- Una delle due accusa Elia alla fine?
+- Dopo l’arresto, una resta nella scena e l’altra scompare?
