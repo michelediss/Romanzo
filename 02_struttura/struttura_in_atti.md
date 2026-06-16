@@ -39,8 +39,8 @@ Questa parte deve presentare i mondi senza spiegoni:
 - SubBasso;
 - Sarnelli;
 - De Bonis in controluce;
-- Cecilia e Lale già mitizzati;
-- Sara e Gab già attratte dal salto radicale.
+- Nina e Rami già mitizzati;
+- Ari e Dile già attratte dal salto radicale.
 
 ### Movimento interno
 
@@ -48,7 +48,7 @@ Elia crede che il suo talento sia passare da un ambiente all’altro senza appar
 
 ### Snodo finale della parte
 
-Elia incontra i sardi con Sara e Gab senza capirne il peso.
+Elia incontra Corvo e Nurra con Ari e Dile senza capirne il peso.
 
 ---
 
@@ -58,15 +58,15 @@ Elia incontra i sardi con Sara e Gab senza capirne il peso.
 
 Mettere in moto la trama attuale.
 
-Sara e Gab chiedono a Elia di aprire loro un accesso al giro di Lale. La richiesta è formulata in modo ambiguo, politico, quasi pudico. Elia non vuole sapere troppo.
+Ari e Dile chiedono a Elia di aprire loro un accesso al giro di Rami. La richiesta è formulata in modo ambiguo, politico, quasi pudico. Elia non vuole sapere troppo.
 
 ### Movimento interno
 
-- Sara e Gab entrano nella zona grigia tra solidarietà politica e credito informale.
+- Ari e Dile entrano nella zona grigia tra solidarietà politica e credito informale.
 - Elia garantisce.
-- Lale accetta o lascia che il giro si allarghi.
-- Cecilia capisce il pericolo meglio di quanto dica.
-- Zed alimenta il mito dei sardi senza sporcarsi direttamente.
+- Rami accetta o lascia che il giro si allarghi.
+- Nina capisce il pericolo meglio di quanto dica.
+- Zed alimenta il mito di Corvo e Nurra senza sporcarsi direttamente.
 
 ### Snodo finale della parte
 
@@ -80,7 +80,7 @@ Elia ha ormai reso possibile il passaggio. Non può più fingere di essere solo 
 
 Trasformare fiducia, reputazione e desiderio politico in conto.
 
-Lale raccoglie più del solito. Tutti proiettano su di lui qualcosa:
+Rami raccoglie più del solito. Tutti proiettano su di lui qualcosa:
 
 - qualità;
 - affidabilità;
@@ -96,16 +96,16 @@ La parte deve avere ritmo di attesa.
 
 Ogni personaggio pensa di controllare un pezzo:
 
-- Sara e Gab pensano di finanziare qualcosa di serio;
+- Ari e Dile pensano di finanziare qualcosa di serio;
 - Elia pensa di aver fatto solo da ponte;
-- Cecilia pensa di poter reggere;
-- Lale prepara la fuga;
+- Nina pensa di poter reggere;
+- Rami prepara la fuga;
 - De Bonis inizia a vedere una rete;
 - Sarnelli sente odore di versione pubblica.
 
 ### Snodo finale della parte
 
-Lale esce dalla mappa.
+Rami esce dalla mappa.
 
 ---
 
@@ -115,20 +115,20 @@ Lale esce dalla mappa.
 
 Correggere tutte le interpretazioni precedenti.
 
-All’inizio Lale sembra solo in ritardo. Poi sembra nei guai. Poi appare sempre più chiaro che la sua assenza è scelta.
+All’inizio Rami sembra solo in ritardo. Poi sembra nei guai. Poi appare sempre più chiaro che la sua assenza è scelta.
 
 ### Movimento interno
 
 - Le versioni si moltiplicano.
-- Cecilia resta e tiene la faccia.
-- Elia capisce che Cecilia sapeva.
-- Sara e Gab iniziano a vedere il proprio desiderio politico contaminato.
+- Nina resta e tiene la faccia.
+- Elia capisce che Nina sapeva.
+- Ari e Dile iniziano a vedere il proprio desiderio politico contaminato.
 - De Bonis stringe la cornice.
 - Sarnelli è preso tra ciò che sa, ciò che può scrivere e ciò che rischia di produrre.
 
 ### Snodo finale della parte
 
-Ultimo incontro vivo tra Elia e Cecilia.
+Ultimo incontro vivo tra Elia e Nina.
 
 ---
 
@@ -138,15 +138,15 @@ Ultimo incontro vivo tra Elia e Cecilia.
 
 Portare il romanzo al climax emotivo e poi al gelo istituzionale.
 
-### Primo colpo: Cecilia
+### Primo colpo: Nina
 
-La vicenda di Cecilia chiude la linea emotiva. Non deve esserci catarsi. Deve esserci riconoscimento tardivo.
+La vicenda di Nina chiude la linea emotiva. Non deve esserci catarsi. Deve esserci riconoscimento tardivo.
 
-Elia capisce che il problema non è soltanto Lale: il problema è tutta la rete di garanzie, silenzi e reputazioni che ha reso possibile il disastro.
+Elia capisce che il problema non è soltanto Rami: il problema è tutta la rete di garanzie, silenzi e reputazioni che ha reso possibile il disastro.
 
-### Secondo colpo: i sardi
+### Secondo colpo: Corvo e Nurra
 
-Dopo Cecilia, il sistema istituzionale agisce. L’arresto dei sardi non deve sembrare una vittoria morale, ma la trasformazione del dolore in fascicolo e versione pubblica.
+Dopo Nina, il sistema istituzionale agisce. L’arresto di Corvo e Nurra non deve sembrare una vittoria morale, ma la trasformazione del dolore in fascicolo e versione pubblica.
 
 ### Movimento interno
 
@@ -163,19 +163,19 @@ Dopo Cecilia, il sistema istituzionale agisce. L’arresto dei sardi non deve se
 
 ### Funzione
 
-Chiudere sul fatto che tutti raccontano, ma nessuno restituisce Cecilia intera.
+Chiudere sul fatto che tutti raccontano, ma nessuno restituisce Nina intera.
 
 Possibili forme:
 
 - frammento d’archivio di Elia;
 - pezzo non pubblicato di Sarnelli;
-- notizia sull’arresto dei sardi;
+- notizia sull’arresto di Corvo e Nurra;
 - Elia che cancella o rinomina un file;
 - ritorno in uno spazio dopo il disastro.
 
 ### Frase-guida
 
-> Cecilia non era una prova.
+> Nina non era una prova.
 
 ---
 
@@ -197,11 +197,11 @@ Ogni parte deve avere:
 
 Soluzione: rivelare tramite scene, gesti, silenzi, documenti parziali.
 
-### Rischio 2: Cecilia ridotta a simbolo
+### Rischio 2: Nina ridotta a simbolo
 
 Soluzione: tenerla viva e agente fino quasi alla fine.
 
-### Rischio 3: sardi troppo romanzeschi
+### Rischio 3: Corvo e Nurra troppo romanzeschi
 
 Soluzione: apparizione anti-epica, peso retroattivo, nessuna glorificazione.
 
