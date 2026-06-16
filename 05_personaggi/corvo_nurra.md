@@ -36,9 +36,11 @@ Per Ari e Dile sono figure iniziatiche. Non tanto modelli morali, quanto prove v
 
 Zed li usa come capitale simbolico. La loro presenza, anche solo evocata, gli permette di parlare di serietà, conseguenza, salto, rischio. Il problema è che più li trasforma in mito, più li espone.
 
-## Rapporto con De Bonis
+## Rapporto con l'apparato senza volto
 
-Per De Bonis sono un bersaglio e una cornice. L’arresto di Corvo e Nurra gli permette di saldare politicamente ciò che stava già mappando: nomadi, rave, sostanze, case, relazioni, opacità.
+Per l'apparato sono un bersaglio e una cornice. L'arresto di Corvo e Nurra permette di saldare politicamente ciò che stava già diventando leggibile: nomadi, rave, sostanze, case, relazioni, opacità.
+
+Non devono essere inseguiti da un antagonista riconoscibile. Devono diventare, poco alla volta, materiale ordinabile: nomi, foto, legami, indirizzi, passaggi, versioni.
 
 ## Arco
 
