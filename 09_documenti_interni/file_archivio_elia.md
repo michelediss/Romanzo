@@ -14,7 +14,7 @@ L’archivio di Elia serve a mostrare:
 - il suo mestiere mentale di montatore;
 - la distanza tra memoria e verità;
 - il tentativo di trasformare la colpa in ordine;
-- la permanenza di Cecilia dopo la morte.
+- la permanenza di Nina dopo la morte.
 
 Regola fondamentale:
 
@@ -29,7 +29,7 @@ Regola fondamentale:
 ```
 
 ```text
-/backup_elia/NON_USARE/cecilia_versione2.rtf
+/backup_elia/NON_USARE/nina_versione2.rtf
 ```
 
 ```text
@@ -68,7 +68,7 @@ Dopo la Battaglia tutti iniziarono a parlare di quella notte come se fosse stata
 
 Non lo era.
 
-Era stata almeno dodici cose, forse tredici, dipende se conti anche quello che non ho visto ma ho capito lo stesso. Una porta. Una scala. Due facce che non dovevano stare dalla stessa parte del corridoio. Azzurra con la voce rotta ma non abbastanza da smettere di comandare. Ivan che teneva fermo uno più per salvarlo che per bloccarlo. Io con una mano sul telefono e una sul gomito di qualcuno.
+Era stata almeno dodici cose, forse tredici, dipende se conti anche quello che non ho visto ma ho capito lo stesso. Una porta. Una scala. Due facce che non dovevano stare dalla stessa parte del corridoio. Azzurra con la voce rotta ma non abbastanza da smettere di comandare. Qualcuno che teneva fermo uno più per salvarlo che per bloccarlo. Io con una mano sul telefono e una sul gomito di qualcuno.
 
 Questo l’ho sempre ricordato: il gomito.
 
@@ -84,27 +84,27 @@ E quella, col tempo, si è rivelata la mia specialità peggiore.
 
 ---
 
-## Frammento 2 — I sardi
+## Frammento 2 — Corvo e Nurra
 
 ```text
-/backup_elia/archivio_magnetico/007_sardi.txt
+/backup_elia/archivio_magnetico/007_corvo_nurra.txt
 ```
 
-Quella sera Sara rideva troppo e Gab non rideva per niente. Già questo bastava.
+Quella sera Ari rideva troppo e Dile non rideva per niente. Già questo bastava.
 
 Ma io ero nella mia fase antropologo dei cazzi altrui, quella in cui scambiavo ogni allarme per colore locale.
 
-I due sardi sembravano due compagni come gli altri: giacche nere, tabacco, occhi da traghetto, la capacità tutta anarchica di occupare una cucina come se fosse una frontiera.
+Corvo e Nurra sembravano due compagni come gli altri: giacche nere, tabacco, occhi da traghetto, la capacità tutta anarchica di occupare una cucina come se fosse una frontiera.
 
-Lui parlava poco.
+Corvo parlava poco.
 
-Lei guardava la porta.
+Nurra guardava la porta.
 
 Io pensai: paranoia.
 
 Dopo avrei capito che non era paranoia. Era curriculum.
 
-Sara mi disse: «Sono seri.»
+Ari mi disse: «Sono seri.»
 
 Io feci la faccia di quello che sa distinguere i seri dai teatranti.
 
@@ -112,17 +112,17 @@ Era una delle mie facce peggiori, infatti funzionava benissimo.
 
 ---
 
-## Frammento 3 — Lale
+## Frammento 3 — Rami
 
 ```text
-/backup_elia/appunti/lale_non_disegnava_prove.txt
+/backup_elia/appunti/rami_non_disegnava_prove.txt
 ```
 
-Lale disegnava tutto tranne quello che poteva servire.
+Rami disegnava tutto tranne quello che poteva servire.
 
 Questa cosa avrei dovuto capirla prima.
 
-Disegnava mani, facce, cani magrissimi, madonne con le Adidas, mostri usciti dalle tapparelle, mappe di città inesistenti. Ma non disegnava mai il giro. Non disegnava mai i soldi. Non disegnava mai Cecilia quando contava.
+Disegnava mani, facce, cani magrissimi, madonne con le Adidas, mostri usciti dalle tapparelle, mappe di città inesistenti. Ma non disegnava mai il giro. Non disegnava mai i soldi. Non disegnava mai Nina quando contava.
 
 Dicevamo che era discreto.
 
@@ -134,10 +134,10 @@ Lui aveva capito che passare era un mestiere.
 
 ---
 
-## Frammento 4 — Sara e Gab
+## Frammento 4 — Ari e Dile
 
 ```text
-/backup_elia/NON_USARE/sara_gab_favore.txt
+/backup_elia/NON_USARE/ari_dile_favore.txt
 ```
 
 Non mi chiesero una cosa enorme.
@@ -154,13 +154,13 @@ Una parola.
 
 Una garanzia detta senza chiamarla garanzia.
 
-Lale è serio.
+Rami è serio.
 
 Questa frase l’ho detta io.
 
 Non ricordo dove. Forse fuori al bar. Forse in macchina. Forse in un messaggio che poi ho cancellato perché cancellare i messaggi, dopo, sembra sempre una forma di intelligenza e invece è solo superstizione.
 
-Lale è serio.
+Rami è serio.
 
 Era la frase più stupida e più potente che potessi dire.
 
@@ -170,23 +170,23 @@ E proprio per questo poteva reggere tutto.
 
 ---
 
-## Frammento 5 — Cecilia consapevole
+## Frammento 5 — Nina consapevole
 
 ```text
-/backup_elia/cecilia_sapeva.txt
+/backup_elia/nina_sapeva.txt
 ```
 
-La cosa più comoda sarebbe dire che Cecilia non sapeva.
+La cosa più comoda sarebbe dire che Nina non sapeva.
 
-Che era innamorata. Che era fatta. Che Lale l’aveva usata. Che lei stava dentro una storia più grande di lei e quando se n’è accorta era troppo tardi.
+Che era innamorata. Che era fatta. Che Rami l’aveva usata. Che lei stava dentro una storia più grande di lei e quando se n’è accorta era troppo tardi.
 
 Comoda, pulita, quasi cantabile.
 
 Falsa.
 
-Cecilia sapeva abbastanza.
+Nina sapeva abbastanza.
 
-Non tutto, forse. Nessuno sapeva tutto, nemmeno Lale, e chi dice di sapere tutto di una rovina di solito sta già vendendo una versione.
+Non tutto, forse. Nessuno sapeva tutto, nemmeno Rami, e chi dice di sapere tutto di una rovina di solito sta già vendendo una versione.
 
 Ma sapeva il numero che mancava.
 
@@ -206,10 +206,10 @@ E una scelta sbagliata è ancora una scelta.
 
 ---
 
-## Frammento 6 — Dopo Cecilia
+## Frammento 6 — Dopo Nina
 
 ```text
-/backup_elia/NON_USARE/cecilia.txt
+/backup_elia/NON_USARE/nina.txt
 ```
 
 Non era una santa.
@@ -218,11 +218,11 @@ Non era una prova.
 
 Non era una scena.
 
-Non era la fidanzata di Lale.
+Non era la fidanzata di Rami.
 
 Non era la ragazza morta per far capire qualcosa a me.
 
-Era Cecilia.
+Era Nina.
 
 E io questa cosa l’ho capita solo quando non serviva più a nessuno.
 
@@ -231,7 +231,7 @@ E io questa cosa l’ho capita solo quando non serviva più a nessuno.
 ## Frammento 7 — Dopo l’arresto
 
 ```text
-/finale_def_def/sardi_arresto_versioni.txt
+/finale_def_def/corvo_nurra_arresto_versioni.txt
 ```
 
 Quando li presero, tutti migliorarono la propria postura.
@@ -244,9 +244,9 @@ Sarnelli disse: aspettiamo i fatti, e intanto faceva la faccia di chi sa che i f
 
 De Bonis non disse niente, che era il suo modo più elegante di pubblicare.
 
-Sara non rispose per due giorni.
+Ari non rispose per due giorni.
 
-Gab mi mandò un messaggio con scritto: non ti ho chiesto una bugia.
+Dile mi mandò un messaggio con scritto: non ti ho chiesto una bugia.
 
 Io non avevo più bugie buone.
 
@@ -268,11 +268,11 @@ Invece certe verità sono stanze più piccole.
 
 Ci entri e capisci che non puoi portarci nessuno.
 
-Cecilia era morta.
+Nina era morta.
 
-Lale era fuori mappa.
+Rami era fuori mappa.
 
-I sardi erano diventati fotografie.
+Corvo e Nurra erano diventati fotografie.
 
 I compagni erano tornati a parlare come se le parole fossero garze.
 
@@ -297,7 +297,7 @@ I frammenti possono comparire:
 - come intermezzi tra capitoli;
 - come apertura di parte;
 - dopo una scena che Elia ha frainteso;
-- dopo la morte di Cecilia;
+- dopo la morte di Nina;
 - nel finale, come file che non chiude davvero.
 
 ---
