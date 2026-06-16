@@ -33,9 +33,9 @@ Non devono mai diventare spiegoni.
 ## Convenzioni possibili
 
 ```text
-[02:13] Sara: sei sveglio?
+[02:13] Ari: sei sveglio?
 [02:14] Elia: dipende
-[02:14] Sara: risposta da vecchio
+[02:14] Ari: risposta da vecchio
 [02:15] Elia: che succede
 ```
 
@@ -52,36 +52,36 @@ ultima visualizzazione: ieri 03:41
 ## Frammenti prima della richiesta
 
 ```text
-[23:48] Sara: tu lo conosci bene Lale?
+[23:48] Ari: tu lo conosci bene Rami?
 [23:51] Elia: abbastanza
-[23:51] Sara: abbastanza quanto?
+[23:51] Ari: abbastanza quanto?
 [23:52] Elia: perché
-[23:53] Sara: niente, poi ti dico
+[23:53] Ari: niente, poi ti dico
 ```
 
 ```text
-[00:07] Gab: non farle fare la vaga
-[00:07] Sara: non sto facendo la vaga
-[00:08] Gab: sì
-[00:08] Sara: Elia capisce
+[00:07] Dile: non farle fare la vaga
+[00:07] Ari: non sto facendo la vaga
+[00:08] Dile: sì
+[00:08] Ari: Elia capisce
 [00:10] Elia: Elia vorrebbe dormire
 ```
 
 ---
 
-## Frammenti dopo l’incontro coi sardi
+## Frammenti dopo l’incontro con Corvo e Nurra
 
 ```text
-[03:22] Sara: allora?
+[03:22] Ari: allora?
 [03:24] Elia: allora cosa
-[03:24] Sara: non hai capito chi erano
+[03:24] Ari: non hai capito chi erano
 [03:25] Elia: dovevo?
-[03:26] Gab: sì
+[03:26] Dile: sì
 ```
 
 ```text
 [03:31] Elia: mi sembravano due compagni come altri
-[03:32] Sara: appunto, tu non capisci mai quando una cosa è seria
+[03:32] Ari: appunto, tu non capisci mai quando una cosa è seria
 ```
 
 ---
@@ -89,70 +89,70 @@ ultima visualizzazione: ieri 03:41
 ## Frammenti sull’ultimo giro
 
 ```text
-[18:09] Globo: Lale parte quando?
+[18:09] Onda: Rami parte quando?
 [18:14] Elia: credo domani
-[18:15] Globo: credi
+[18:15] Onda: credi
 [18:15] Elia: non sono il suo segretario
-[18:16] Globo: no, sei peggio
+[18:16] Onda: no, sei peggio
 ```
 
 ```text
-[21:02] Cecilia: non fare il padre
+[21:02] Nina: non fare il padre
 [21:03] Elia: non so fare neanche quello
-[21:04] Cecilia: appunto
+[21:04] Nina: appunto
 ```
 
 ```text
-[22:47] Sara: i soldi li ha presi?
+[22:47] Ari: i soldi li ha presi?
 [22:51] Elia: sì
-[22:52] Sara: quindi ok
+[22:52] Ari: quindi ok
 [22:54] Elia: niente è quindi ok
 ```
 
 ---
 
-## Frammenti durante la sparizione di Lale
+## Frammenti durante la sparizione di Rami
 
 ```text
-[11:37] Globo: hai sentito Lale?
+[11:37] Onda: hai sentito Rami?
 [11:40] Elia: no
-[11:40] Globo: neanche Cecilia?
+[11:40] Onda: neanche Nina?
 [11:42] Elia: no
-[11:43] Globo: male
+[11:43] Onda: male
 ```
 
 ```text
-[14:06] Sara: dimmi che non è come sembra
+[14:06] Ari: dimmi che non è come sembra
 [14:09] Elia: non so come sembra
-[14:11] Sara: allora è peggio
+[14:11] Ari: allora è peggio
 ```
 
 ```text
-[16:28] Cecilia: non venire
+[16:28] Nina: non venire
 [16:29] Elia: dove
-[16:31] Cecilia: bravo
+[16:31] Nina: bravo
 ```
 
 ```text
 [17:02] messaggio eliminato
 [17:03] messaggio eliminato
-[17:04] Cecilia: lascia stare
+[17:04] Nina: lascia stare
 ```
 
 ---
 
-## Frammenti dopo la morte di Cecilia
+## Frammenti dopo la morte di Nina
 
 ```text
-[07:18] Globo: chiamami
-[07:19] Globo: elia
-[07:19] Globo: chiamami adesso
+[07:18] Onda: chiamami
+[07:19] Onda: elia
+[07:19] Onda: chiamami adesso
 ```
 
 ```text
-[07:42] Sara: non è vero
-[07:43] Sara: dimmi che non è vero
-[07:44] Sara: per favore
+[07:42] Ari: non è vero
+[07:43] Ari: dimmi che non è vero
+[07:44] Ari: per favore
 ```
 
 ```text
@@ -169,18 +169,18 @@ ultima visualizzazione: ieri 03:41
 
 ---
 
-## Frammenti dopo l’arresto dei sardi
+## Frammenti dopo l’arresto di Corvo e Nurra
 
 ```text
-[06:33] Gab: li hanno presi
+[06:33] Dile: li hanno presi
 [06:35] Elia: chi
-[06:35] Gab: non fare così
+[06:35] Dile: non fare così
 ```
 
 ```text
-[06:41] Sara: è colpa nostra?
+[06:41] Ari: è colpa nostra?
 [06:44] Elia: no
-[06:46] Sara: non ti ho chiesto una bugia
+[06:46] Ari: non ti ho chiesto una bugia
 ```
 
 ```text
@@ -197,16 +197,16 @@ Le note vocali sono utili perché possono restare non trascritte o essere ricord
 Esempi:
 
 ```text
-nota vocale di Cecilia, 00:17, non salvata
+nota vocale di Nina, 00:17, non salvata
 ```
 
 ```text
-nota vocale di Sara, 01:42, trascrizione incompleta:
+nota vocale di Ari, 01:42, trascrizione incompleta:
 “...non era per noi, cioè era anche per noi ma non così, tu lo sai, tu devi saperlo...”
 ```
 
 ```text
-nota vocale di Globo, 00:29:
+nota vocale di Onda, 00:29:
 “Fra’, non mi piace l’odore. Non quello delle casse, non quello della mattina. L’altro.”
 ```
 
