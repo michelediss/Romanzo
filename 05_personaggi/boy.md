@@ -187,7 +187,7 @@ La radio permette di far sentire la sua voce senza trasformarlo in spiegone.
 
 Boy non è fan della tekno.
 
-Non frequenta la scena rave per appartenenza o passione. Ci va quasi solo quando è con Elia. Questo è importante: Boy non deve diventare un personaggio organico alla SubBasso.
+Non frequenta la scena rave per appartenenza o passione. Ci va quasi solo quando è con Elia. Questo è importante: Boy non deve diventare un personaggio organico a Bass Unit.
 
 Quando è ai rave:
 
