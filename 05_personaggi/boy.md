@@ -1,194 +1,334 @@
 # Boy
 
-> Scheda personaggio. Boy è l’occhio morale della scena: fotografa quasi tutto, ma il suo vero peso narrativo sta in ciò che decide di non fotografare.
+> Scheda personaggio aggiornata. Boy è il migliore amico di Elia: coetaneo, anarchico, fotografo, conduttore radio, bevitore quasi patologico, nomade rispettato ma critico verso la linea di Zed. Non è l’occhio morale del romanzo.
 
 ---
 
 ## Identità
 
 - **Nome:** Boy.
-- **Età:** più grande di Elia, probabilmente tra i 38 e i 45 anni.
-- **Origine:** viene dal Nord, ma ha attraversato abbastanza Napoli da non essere più percepito solo come forestiero.
-- **Ambiente:** movimento, centri sociali, cortei, feste, assemblee, notti di passaggio.
-- **Mestiere / funzione apparente:** fotografo militante, documentarista informale, archivista involontario.
-- **Ferita visibile:** alcol, stanchezza, disincanto, corpo trascurato.
+- **Età:** 27 anni.
+- **Origine:** Nord Italia.
+- **Arrivo a Napoli:** si stabilisce in città verso i vent’anni.
+- **Ambiente politico:** La Deriva / area nomade-anarchica.
+- **Rapporto con Elia:** migliore amico, compagno di notti e bevute, nonostante l’appartenenza a collettivi rivali.
+- **Attività:** fotografo, militante, conduttore radio, frequentatore di cortei e contesti internazionali.
+- **Immagine fisica:** molto bello, magnetico, grande successo con le ragazze.
+- **Musica:** punk, metal, noise, hip-hop.
+- **Corpo / gesto:** skate, macchina fotografica, radio, bicchieri, giacche consumate, postura da chi non chiede permesso.
 
-Boy non deve essere pittoresco. Il suo alcolismo non è colore, non è romanticismo da artista maledetto: è erosione, perdita di margine, modo storto di reggere ciò che ha visto.
+Boy non è un reduce più grande né un maestro laterale. È dentro la stessa generazione di Elia: stessa età, stessa fame di notte, stesso bisogno di non diventare adulti troppo presto, ma con una postura politica più netta.
 
 ---
 
 ## Funzione narrativa
 
-Boy serve a introdurre una domanda centrale del romanzo:
+Boy è il controcampo anarchico di Elia.
 
-> quando documentare diventa tradire, e quando non documentare diventa complicità?
+Elia appartiene ai territorialisti, Boy ai nomadi. La loro amicizia è uno dei ponti più importanti del romanzo: non un ponte pacificato, ma una contraddizione vivente. Escono sempre insieme, bevono insieme, si proteggono, si insultano, si trascinano in luoghi che l’altro non frequenterebbe da solo.
 
-È uno dei pochi personaggi che capisce il valore politico delle immagini. Sa che una fotografia può salvare una versione, ma può anche consegnare qualcuno a una cornice che non controlli più.
+La funzione di Boy non è fare da coscienza morale. Boy non giudica dall’alto. È dentro la confusione, dentro il desiderio, dentro l’alcol, dentro le fedeltà sbagliate. Serve a mostrare che l’amicizia può sopravvivere alla guerra tra collettivi, ma anche diventare una falla politica.
 
-La sua funzione non è risolvere il mistero. È produrre un buco: una foto non scattata, cancellata, tagliata, mai consegnata. Quel buco diventa più importante di una prova.
+Domanda che porta con sé:
 
----
-
-## Desiderio
-
-Boy vuole ancora credere che guardare serva a qualcosa.
-
-Non vuole diventare né propagandista né delatore. Vorrebbe conservare una forma di lealtà verso le persone senza rinunciare alla verità dei fatti.
-
-Il suo desiderio è impossibile: vuole un archivio innocente.
+> quanto può reggere un’amicizia quando i mondi che la circondano si sono dichiarati nemici?
 
 ---
 
-## Paura / colpa
+## Politica
 
-La sua paura è aver protetto la persona sbagliata, o aver protetto la versione sbagliata.
+Boy è un anarchico convinto. Non lo è per estetica, né per moda di scena: ha una formazione politica reale, letture, ossessioni, riferimenti.
 
-La sua colpa possibile riguarda la Battaglia: Boy era presente, ha visto qualcosa, forse ha alzato la macchina fotografica, forse l’ha abbassata. Oppure ha scattato e poi ha cancellato. Oppure ha tenuto una foto fuori dall’archivio pubblico.
+Cita spesso **L’unico e la sua proprietà** di Max Stirner. Non sempre lo cita bene, non sempre lo cita nel momento giusto, ma Stirner è parte della sua lingua privata: l’io, la proprietà di sé, il rifiuto delle cause superiori, la diffidenza verso ogni struttura che chiede sacrificio in nome del collettivo.
 
-La questione deve restare ambigua abbastanza a lungo:
+Possibili usi:
 
-- Boy ha omesso per etica militante?
-- per paura?
-- per affetto verso Elia?
-- per proteggere qualcuno di Presidio Sud?
-- per non consegnare materiale a De Bonis?
+- durante le discussioni coi territorialisti, Boy usa Stirner per attaccare l’idea di disciplina, organizzazione, rappresentanza;
+- con Elia, lo cita più per provocazione che per lezione;
+- con Zed, la sua cultura anarchica diventa un punto di attrito: Boy è radicale, ma non subalterno al carisma di Zed.
+
+---
+
+## Rapporto con La Deriva
+
+Boy è dei nomadi, ma non è un soldatino di Zed.
+
+È rispettato da tutti perché:
+
+- ha presenza;
+- sa parlare;
+- fotografa bene;
+- ha esperienza di piazza;
+- conduce trasmissioni radio;
+- conosce la questione palestinese;
+- ha visto contesti fuori Napoli, anche in Francia e in Medio Oriente;
+- non ha bisogno di recitare l’anarchico, perché lo è già.
+
+È tendenzialmente critico verso la linea di Zed. Non necessariamente lo sfida in assemblea ogni volta, ma non ne subisce il fascino in modo cieco. Può trovare Zed intelligente, pericoloso, a tratti necessario, ma non gli concede il monopolio della radicalità.
+
+La sua posizione è preziosa: è interno ai nomadi, ma può guardarli storto.
 
 ---
 
 ## Rapporto con Elia
 
-Boy è un amico più grande, una figura laterale di maestro sporco.
+Boy ed Elia hanno 27 anni e sono migliori amici.
 
-Con Elia non ha il rapporto disciplinante di Sarnelli né quello manipolatorio di Franchino. Ha un rapporto fatto di notti, bevute, hard disk, passaggi in macchina, frasi buttate via.
+Escono sempre insieme. Bevono insieme. Si cercano quando la notte è già cominciata male. Si coprono nei bar, nei vicoli, alle feste, dopo le assemblee, nei ritorni a piedi all’alba.
 
-Boy vede in Elia una forma più giovane della propria ambiguità: uno che sa montare, tagliare, ordinare i materiali, ma continua a fingere che il montaggio non sia una scelta morale.
+La loro amicizia è politicamente scandalosa in modo silenzioso:
+
+- Elia appartiene ai territorialisti / Presidio Sud;
+- Boy appartiene ai nomadi / La Deriva;
+- i due collettivi sono rivali, poi nemici;
+- loro due continuano a uscire insieme.
+
+Per Elia, Boy è la prova vivente che l’altra parte non coincide mai del tutto con il nemico.
+
+Per Boy, Elia è il territorialista che non riesce a odiare davvero, l’amico che gli impedisce di ridurre Presidio Sud a una categoria comoda.
 
 Possibile frase di Boy a Elia:
 
-> Tu pensi che non scegliere sia lasciare le cose come stanno. No. Non scegliere è montarle senza firmare.
+> Tu sei il mio catastale preferito. Che è comunque un insulto.
+
+Possibile frase di Elia su Boy:
+
+> Boy era dei nomadi come certi cani sono di qualcuno: tornava, ma non apparteneva.
 
 ---
 
-## Rapporto con Sarnelli
+## Alcol
 
-Boy e Sarnelli si assomigliano più di quanto vogliano ammettere.
+Boy beve molto. Più di Elia. In lui il bere tende quasi all’alcolismo patologico.
 
-Sarnelli lavora con parole, fonti, bozze non pubblicate. Boy lavora con immagini, provini, cartelle non consegnate. Entrambi sanno che la verità, una volta resa pubblica, cambia padrone.
+Non deve essere trattato come colore pittoresco o romanticismo da artista maledetto. Il suo bere è:
 
-Sarnelli può stimare Boy proprio perché Boy conosce il peso dell’omissione. Ma può anche disprezzarlo per la sua fuga nell’alcol e nel silenzio.
+- compulsione;
+- accelerazione;
+- autodistruzione quotidiana;
+- modo per restare nella notte anche quando la notte è finita;
+- sistema per non fermarsi troppo a pensare.
 
-Possibile frase di Sarnelli:
-
-> Il problema non è che non hai la foto. Il problema è che sai perché non ce l’hai.
-
----
-
-## Rapporto con De Bonis
-
-De Bonis non ha bisogno che Boy parli. Gli basta guardare le sue assenze.
-
-Se Boy è noto per fotografare tutto, la notte in cui non fotografa diventa informazione. Un buco nell’archivio è una pista narrativa, non investigativa in senso stretto.
-
-De Bonis può intuire che Boy ha visto qualcosa dalla forma negativa del suo archivio: una sequenza interrotta, una cartella vuota, un rullino mancante, un file rinominato male, una data senza immagini.
-
-Possibile frase di De Bonis:
-
-> Quelli come lei sono utili anche quando non fotografano. Soprattutto quando non fotografano.
+Elia beve con lui, ma Boy va oltre: cerca il punto in cui il corpo smette di fare domande.
 
 ---
 
-## Rapporto con la Battaglia
+## Rapporto con le sostanze
 
-Boy è legato alla Battaglia come testimone imperfetto.
+Boy, a differenza di Elia, non usa sostanze.
 
-Non deve diventare il personaggio che spiega finalmente cosa è successo. Deve invece incarnare la domanda: che cosa resta di un evento quando tutti hanno interesse a tagliarne un pezzo?
+Eccezione: qualche canna ogni tanto, ma mai in pubblico o comunque mai come gesto identitario. Non vuole essere letto dentro quella grammatica. Non vuole essere il militante che predica purezza, ma nemmeno il personaggio che si lascia trascinare nel consumo di scena.
 
-Opzioni narrative:
+Questa distanza lo rende particolare:
 
-1. Boy ha una foto che non mostra il colpo, ma mostra chi c’era.
-2. Boy ha cancellato una sequenza dopo averla rivista da sobrio.
-3. Boy ha fotografato prima e dopo, ma non durante.
-4. Boy ha coperto Elia, o crede di averlo fatto.
-5. Boy non ha scattato per non produrre una prova contro qualcuno che detestava ma riconosceva ancora come compagno.
+- è dentro la notte ma non dentro la sua chimica;
+- beve troppo, quindi non è “pulito”;
+- però non partecipa al circuito di sostanze che attraversa rave, economie informali e debiti;
+- può vedere certe dinamiche senza esserne completamente preso.
+
+Non è moralismo: è idiosincrasia, controllo, rifiuto, forse anche paura.
 
 ---
 
-## Rapporto con Cecilia e Lale
+## Fotografia
 
-Boy può aver fotografato Cecilia molte volte: non come icona tragica, ma come presenza reale dentro la scena. Dopo la morte, quelle immagini rischiano di diventare santini, prove, pornografia del dolore, materiale da comunicato.
+Boy è un bravo fotografo.
 
-Boy capisce questo rischio prima di altri.
+Non è solo “quello con la macchina fotografica”. Ha occhio, tempi, coraggio fisico. Sa stare vicino ai corpi quando una piazza si muove. Segue manifestazioni, cortei, situazioni politiche anche fuori Italia: Francia, Medio Oriente, contesti legati alla questione palestinese.
 
-Con Lale il rapporto può essere più laterale. Lale non ama essere fotografato; Boy lo nota. Questa ritrosia può diventare, a posteriori, un segno che Elia non aveva saputo leggere.
+La sua fotografia deve avere tre funzioni narrative:
+
+1. **Presenza:** Boy è spesso dove succedono le cose.
+2. **Accesso:** la macchina fotografica gli permette di entrare in situazioni dove altri sarebbero respinti.
+3. **Archivio parziale:** non tutto quello che vede diventa immagine pubblica.
+
+Attenzione: non farne l’occhio morale. Boy non fotografa per custodire una verità superiore. Fotografa perché è bravo, perché gli serve, perché lo eccita, perché la politica ha bisogno di immagini, perché una piazza senza immagini scompare troppo in fretta.
+
+---
+
+## Palestina e sguardo internazionale
+
+Boy è esperto di questione palestinese.
+
+Questa competenza non deve diventare esposizione didascalica. Serve a dargli spessore politico e biografico: ha letto, viaggiato, seguito reti, campagne, manifestazioni, discussioni internazionali.
+
+Può portare nel romanzo:
+
+- un lessico politico più ampio di quello napoletano;
+- una diffidenza verso il provincialismo dei collettivi;
+- un rapporto serio con immagini, testimonianze, propaganda, vittime, cornici mediatiche;
+- una frizione con chi usa la radicalità solo come estetica locale.
+
+Possibile frase:
+
+> Voi pensate che una foto serva a far vedere. No. Una foto serve a decidere che cosa potete permettervi di non guardare.
+
+---
+
+## Radio
+
+Dentro La Deriva, Boy conduce trasmissioni radio.
+
+La radio è il suo luogo politico più naturale: meno disciplinata di un comunicato, più viva di un’assemblea, più sporca di un articolo.
+
+Possibili trasmissioni:
+
+- punk e controculture;
+- Palestina e internazionalismo;
+- racconti di cortei;
+- rumore, metal, hip-hop, frammenti teorici;
+- telefonate notturne, dischi messi male, sigle improvvisate.
+
+La radio permette di far sentire la sua voce senza trasformarlo in spiegone.
+
+---
+
+## Rapporto con la tekno e la scena rave
+
+Boy non è fan della tekno.
+
+Non frequenta la scena rave per appartenenza o passione. Ci va quasi solo quando è con Elia. Questo è importante: Boy non deve diventare un personaggio organico alla SubBasso.
+
+Quando è ai rave:
+
+- sembra leggermente fuori posto;
+- beve;
+- osserva;
+- magari fotografa, ma senza innamorarsi della cassa;
+- ascolta la musica come una cosa che non gli appartiene;
+- si rompe le palle e poi resta lo stesso perché c’è Elia.
+
+Per lui la musica vera resta altrove: punk, metal, noise, hip-hop.
+
+---
+
+## Desiderio
+
+Boy vuole essere libero senza diventare utile a nessuna struttura.
+
+Vuole amicizie vere, politica vera, corpi veri, immagini vere, ma rifiuta ogni forma di appartenenza che gli chieda di smettere di essere contraddittorio.
+
+Vuole anche essere desiderato: dalle ragazze, dai compagni, dai contesti che attraversa. Il suo carisma non è accessorio; è parte del suo potere e del suo rischio.
+
+---
+
+## Paura / colpa
+
+La sua paura non è essere immorale. È essere catturato.
+
+Catturato da una linea politica, da Zed, da un collettivo, da un archivio, da un amore, da un’immagine di sé, dall’alcol.
+
+Possibile colpa:
+
+- beve quando dovrebbe esserci davvero;
+- protegge Elia anche quando Elia sta sbagliando;
+- critica Zed ma non sempre abbastanza forte;
+- usa il proprio fascino per scappare da conversazioni che richiederebbero responsabilità;
+- vede il rischio dei sardi o della linea nomade, ma non riesce o non vuole fermarlo.
+
+---
+
+## Rapporto con Zed
+
+Boy rispetta Zed ma non gli appartiene.
+
+Zed può considerarlo utile, brillante, troppo individualista, troppo indisciplinato. Boy può considerare Zed intelligente ma pericoloso, uno che trasforma la radicalità altrui in materiale per la propria leggenda.
+
+La tensione tra i due deve restare sottile:
+
+- Zed non può trattare Boy come tratta i più giovani;
+- Boy non può fingere che Zed sia solo un buffone;
+- entrambi sanno che l’altro capisce più di quanto dica.
+
+Possibile frase di Boy su Zed:
+
+> Zed non vuole compagni. Vuole prove viventi della sua teoria.
+
+---
+
+## Rapporto con Sara, Gab e i sardi
+
+Boy conosce l’ambiente in cui Sara e Gab vengono attratte dal mito dell’irreversibile.
+
+Può non essere centrale nella loro scelta, ma ne intuisce la temperatura. La sua competenza politica gli permette di vedere quando una fascinazione sta diventando posa pericolosa.
+
+Con i sardi può avere un rapporto di rispetto freddo: non li mitizza come Sara e Gab, ma non li liquida come folklore. Capisce che hanno fatto un passo che gli altri evocano soltanto.
+
+Domanda narrativa:
+
+> Boy capisce prima di Elia che il mito dei sardi sta diventando una trappola?
 
 ---
 
 ## Arco possibile
 
-Boy parte come figura di sfondo: fotografo ubriaco, reduce, memoria ambulante.
+Boy parte come migliore amico di Elia: bello, anarchico, fotografo, alcolico, seduttivo, brillante, ingestibile.
 
-Poi diventa figura chiave non perché riveli qualcosa, ma perché si capisce che il suo silenzio ha una forma.
+Nel corso del romanzo diventa sempre più importante perché la sua amicizia con Elia mostra il punto cieco della guerra politica: i collettivi si odiano, ma le persone continuano a desiderarsi, proteggersi, uscire insieme.
 
-Il suo arco può chiudersi in tre modi:
+Il suo arco non deve trasformarlo in salvatore o coscienza del romanzo. Deve piuttosto mostrare una contraddizione che non si risolve:
 
-- consegna a Elia una foto inutile ma emotivamente devastante;
-- ammette di non aver fotografato qualcosa e non chiede assoluzione;
-- sparisce dalla scena lasciando un archivio incompleto.
-
-In ogni caso non deve diventare salvatore. Boy non salva. Al massimo lascia a Elia un altro pezzo impossibile da montare.
+- è radicale ma non settario;
+- è lucidissimo ma beve troppo;
+- è critico verso Zed ma resta nella Deriva;
+- ama Elia ma appartiene al campo opposto;
+- non usa sostanze ma si distrugge comunque.
 
 ---
 
 ## Scene chiave possibili
 
+### Boy ed Elia fuori insieme
+
+Una notte qualunque: bevono, litigano di politica, ridono, si insultano usando i soprannomi dei collettivi. Da fuori sembrano due amici qualsiasi. In realtà sono due falle nei rispettivi schieramenti.
+
+### Alla radio
+
+Boy conduce una trasmissione notturna: punk, Palestina, Stirner, telefonate mezze ubriache, rumori di sedie, dischi messi troppo forti. La sua voce arriva prima della sua presenza fisica.
+
+### A un rave con Elia
+
+Boy è fuori posto. Non ama la tekno, non capisce la devozione per la cassa, ma resta perché c’è Elia. Beve, guarda, forse scatta qualche foto, poi dice che sembra una fabbrica occupata da gente che vuole diventare lavatrice.
+
+### Con Zed
+
+Zed fa un discorso seduttivo sulla necessità di spingersi oltre. Boy non lo smonta frontalmente, ma fa una battuta che basta a incrinare il carisma.
+
 ### Dopo la Battaglia
 
-Boy seduto con la macchina al collo, troppo sobrio per fingere di essere ubriaco. Elia gli chiede se ha foto. Boy risponde in modo laterale.
-
-> Ho foto di tutti prima. Ho foto di tutti dopo. In mezzo ci stava la storia, e la storia non voleva farsi fotografare.
-
-### Dopo la morte di Cecilia
-
-Qualcuno gli chiede immagini belle di Cecilia. Boy reagisce male. Non vuole che la scena trasformi Cecilia in martire estetica.
-
-> Da viva non l’avete guardata così tanto.
-
-### Con De Bonis
-
-De Bonis gli fa capire che conosce il buco nell’archivio. Boy capisce che anche il silenzio è stato schedato.
-
-### Con Elia
-
-Elia cerca una prova, Boy gli dà una frase peggiore di una prova:
-
-> Una foto dice che una cosa è successa. Una foto mancante dice chi aveva paura che succedesse ancora.
+Boy ed Elia continuano a vedersi anche quando sarebbe politicamente più comodo non farlo. Questo li rende sospetti a entrambi i mondi.
 
 ---
 
 ## Frasi guida
 
-- Boy fotografava tutto, tranne le cose che avrebbero contato davvero.
-- Aveva l’etica dei vecchi compagni e il fegato dei vecchi bar.
-- Per Boy, ogni archivio era una promessa fatta male.
-- La macchina fotografica gli pendeva sul petto come una colpa con la tracolla.
-- Non era un testimone. Era uno che aveva imparato a scegliere cosa non vedere.
+- Boy era l’unico nomade che Elia non riusciva a chiamare “loro”.
+- Avevano ventisette anni entrambi, cioè l’età perfetta per credersi già rovinati e invece essere solo all’inizio del danno.
+- Boy beveva come se il corpo fosse un’istituzione da sabotare.
+- Non gli piaceva la tekno. Ci andava per Elia, che era una forma di amicizia e una forma di autolesionismo.
+- Citava Stirner nei momenti peggiori, spesso per non dire una cosa più semplice.
+- Era troppo bello per non sapere il male che faceva quando sorrideva.
+- La Deriva lo rispettava perché Boy non chiedeva mai il permesso di appartenere.
+- Con Zed non litigava quasi mai: gli bastava non abbassare gli occhi.
 
 ---
 
 ## Rischi
 
-- Farlo diventare detective: da evitare.
-- Farne solo un ubriacone poetico: da evitare.
-- Usarlo come soluzione del mistero: da evitare.
-- Renderlo più brillante di Elia/Sarnelli: controllare.
-- Farlo parlare troppo bene: deve avere frasi forti, ma poche.
+- Farlo diventare coscienza morale: da evitare.
+- Farlo diventare semplice “amico ubriaco”: da evitare.
+- Farne un alter ego più interessante di Elia: controllare.
+- Farlo diventare troppo teorico: Stirner deve entrare come tic, arma, lingua, non come lezione.
+- Farlo diventare troppo organico alla scena rave: no, ci va soprattutto per Elia.
+- Farne solo un seduttore: il successo con le ragazze deve essere potere narrativo, non decorazione.
 
 ---
 
 ## Domande aperte
 
-- Boy ha davvero scattato una foto durante la Battaglia?
-- Se sì, l’ha cancellata, nascosta o mai sviluppata?
-- Il suo silenzio protegge Elia, Presidio Sud, La Deriva o solo se stesso?
-- De Bonis arriva a intuire il buco d’archivio da solo o tramite altri materiali?
-- Boy deve restare vivo e laterale, sparire, o crollare dopo la morte di Cecilia?
+- Boy era presente alla Battaglia? Se sì, quanto ha visto?
+- Quanto la sua amicizia con Elia è tollerata dai rispettivi collettivi?
+- Boy prova a mettere in guardia Sara e Gab, o resta laterale?
+- La critica a Zed resta privata o esplode in una scena pubblica?
+- Il suo alcolismo peggiora dopo la morte di Nina/Cecilia?
+- In che modo la radio può diventare struttura formale del romanzo?
