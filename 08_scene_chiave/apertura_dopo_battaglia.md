@@ -62,7 +62,7 @@ Elia riconosce i luoghi, le facce, i gesti; ma tutto ciò che riconosce gli rito
 - La dinamica precisa della Battaglia.
 - La colpa esatta di Elia.
 - Chi ha iniziato lo scontro.
-- Che ruolo hanno avuto Azzurra, Franchino, Zed, Mano Lesta o Ivan.
+- Che ruolo hanno avuto Azzurra, Franchino, Zed e Mano Lesta.
 
 ## Possibile frase guida
 
