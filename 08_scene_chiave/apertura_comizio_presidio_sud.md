@@ -11,6 +11,8 @@ Serve a introdurre subito:
 - la contrapposizione con i **Nomadi**, presentata senza spiegone attraverso lo sguardo di Boy;
 - **Elia** come presenza laterale, osservatore più che militante;
 - **Azzurra** come apparizione iniziale, già collocata dentro un mondo a cui Elia accede solo parzialmente;
+- **Nina** come intimità tossica e competenza di strada;
+- **Rami** come nome seminato in anticipo, ancora fuori campo, legato a Nina e alla scena rave pugliese;
 - la traiettoria privata di Elia, che dalla piazza politica scivola verso il bar, poi verso Nina e l'eroina.
 
 L'apertura deve dare al lettore la sensazione che il romanzo non parta da un personaggio isolato, ma da una città attraversata da promesse, appartenenze, compromessi e desideri.
@@ -124,19 +126,24 @@ Questo spostamento è importante: dopo la piazza pubblica e il sarcasmo di Boy, 
 
 Nina lo riceve a casa e gli dice di avere una sorpresa. La sorpresa è **eroina gialla thailandese**, che lei presenta come una prelibatezza.
 
+Durante l'incontro, Nina può accennare a Elia di aver conosciuto un ragazzo alla festa in Puglia di pochi mesi prima: **Rami**. Per ora Rami resta fuori campo. Vive ancora fuori Napoli, ma Nina dice che passerà a trovarla a breve.
+
+Il dettaglio deve funzionare come seme narrativo, non come annuncio pesante. Nina può parlarne con naturalezza, quasi mentre prepara o mostra la sostanza, come se Rami fosse una possibilità laterale della notte: un nome nuovo, arrivato da un'altra geografia della scena, destinato però a entrare presto nello spazio di Elia.
+
 La scena non deve trasformare la sostanza in feticcio tecnico. Deve far sentire piuttosto:
 
 - la competenza di Nina;
 - la complicità tra lei ed Elia;
 - la loro intimità non pienamente sentimentale;
 - il passaggio dalla retorica collettiva alla dipendenza privata;
-- la seduzione di qualcosa che viene trattato come raro, prezioso, quasi gastronomico, ma resta pericoloso.
+- la seduzione di qualcosa che viene trattato come raro, prezioso, quasi gastronomico, ma resta pericoloso;
+- l'arrivo imminente di Rami come piccola perturbazione futura, ancora nominata senza essere spiegata.
 
 Possibile chiusura secca:
 
 > Boy gli chiese se voleva continuare a bere o passare a una serata noise dei Nomadi. Elia disse che non poteva. Aveva promesso a Nina che sarebbe passato da lei.
 >
-> Nina aprì la porta scalza, con una maglietta troppo larga e gli occhi già accesi. Disse che aveva una sorpresa. La chiamò una prelibatezza: eroina gialla thailandese.
+> Nina aprì la porta scalza, con una maglietta troppo larga e gli occhi già accesi. Disse che aveva una sorpresa. La chiamò una prelibatezza: eroina gialla thailandese. Poi, come se fosse un dettaglio qualsiasi, gli raccontò di un ragazzo conosciuto pochi mesi prima a una festa in Puglia. Si chiamava Rami. Per adesso viveva fuori, disse, ma sarebbe venuto a trovarla a Napoli a breve.
 
 ## Cosa deve capire il lettore
 
@@ -146,12 +153,13 @@ Possibile chiusura secca:
 - Elia è un attraversatore: piazza, bar, casa di Nina.
 - Azzurra è introdotta come figura di attrazione e distanza.
 - Nina è introdotta come intimità tossica e competenza di strada.
+- Rami viene seminato come presenza futura, legata a Nina e a una geografia rave esterna a Napoli.
 - La traiettoria iniziale di Elia va dal pubblico al privato, dalla città celebrata alla sostanza, dalla promessa collettiva alla vulnerabilità individuale.
 
 ## Rischio da evitare
 
 Non caricare troppo la scena di informazioni.
 
-L'apertura deve far intuire, non spiegare. Presidio Sud, Nomadi, Azzurra, Boy e Nina devono emergere per gesti, luoghi e battute, non per schede narrative.
+L'apertura deve far intuire, non spiegare. Presidio Sud, Nomadi, Azzurra, Boy, Nina e Rami devono emergere per gesti, luoghi e battute, non per schede narrative.
 
-L'ultima immagine con Nina e l'eroina deve essere disturbante proprio perché arriva dopo la celebrazione pubblica: non come scandalo, ma come cambio di temperatura.
+L'ultima immagine con Nina, l'eroina e il nome di Rami deve essere disturbante proprio perché arriva dopo la celebrazione pubblica: non come scandalo, ma come cambio di temperatura e apertura di una perturbazione futura.
