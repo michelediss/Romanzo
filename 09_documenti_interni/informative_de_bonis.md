@@ -96,11 +96,11 @@ Formula di sintesi:
 
 ---
 
-## Documento 3 — Nota su Cecilia
+## Documento 3 — Nota su Nina
 
 > **Oggetto: decesso di giovane donna gravitante nel circuito SubBasso**
 
-Il decesso di Cecilia produce un’evidente accelerazione nelle dinamiche interne agli ambienti osservati.
+Il decesso di Nina produce un’evidente accelerazione nelle dinamiche interne agli ambienti osservati.
 
 La figura della giovane risulta conosciuta in diversi livelli della scena notturna e degli spazi informali. La sua morte ha generato:
 
