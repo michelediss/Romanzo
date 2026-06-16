@@ -5,19 +5,19 @@
 
 ---
 
-## 1. Taccuino compromettente di Lale
+## 1. Taccuino compromettente di Rami
 
 ### Alternativa
 
-Lale lasciava un taccuino, un quaderno di disegni o un archivio pieno di nomi, cifre e prove.
+Rami lasciava un taccuino, un quaderno di disegni o un archivio pieno di nomi, cifre e prove.
 
 ### Perché è stata scartata
 
-Lale è troppo attento per lasciare tracce stupide. La sua forza narrativa è l’assenza, non la prova.
+Rami è troppo attento per lasciare tracce stupide. La sua forza narrativa è l’assenza, non la prova.
 
 ### Decisione attuale
 
-Lale può lasciare tracce estetiche, affettive, ambigue, ma non un oggetto che spieghi la trama.
+Rami può lasciare tracce estetiche, affettive, ambigue, ma non un oggetto che spieghi la trama.
 
 ---
 
@@ -45,7 +45,7 @@ La filiera della ketamina da Amsterdam diventava una grande trama parallela, con
 
 ### Perché è stata scartata
 
-Avrebbe spostato il romanzo verso un’indagine criminale e avrebbe rubato centralità a Cecilia/Lale, alla Battaglia e ai sardi.
+Avrebbe spostato il romanzo verso un’indagine criminale e avrebbe rubato centralità a Nina/Rami, alla Battaglia e a Corvo/Nurra.
 
 ### Decisione attuale
 
@@ -101,11 +101,11 @@ La Battaglia è evento passato, ricostruito per frammenti.
 
 ---
 
-## 7. Cecilia inconsapevole
+## 7. Nina inconsapevole
 
 ### Alternativa
 
-Cecilia non sapeva dell’ammanco ed era vittima indiretta della fuga di Lale.
+Nina non sapeva dell’ammanco ed era vittima indiretta della fuga di Rami.
 
 ### Perché è stata scartata
 
@@ -113,31 +113,31 @@ La rendeva troppo passiva e riduceva la sua grandezza tragica.
 
 ### Decisione attuale
 
-Cecilia sa. Resta comunque. Questa è la sua forza e la sua rovina.
+Nina sa. Resta comunque. Questa è la sua forza e la sua rovina.
 
 ---
 
-## 8. Morte di Cecilia come svolta intermedia
+## 8. Morte di Nina come svolta intermedia
 
 ### Alternativa
 
-Cecilia moriva a metà romanzo e la seconda parte diventava indagine/conseguenza.
+Nina moriva a metà romanzo e la seconda parte diventava indagine/conseguenza.
 
 ### Perché è stata scartata
 
-Avrebbe trasformato Cecilia in detonatore per l’arco di Elia. La sua morte deve restare il centro emotivo, non un dispositivo precoce.
+Avrebbe trasformato Nina in detonatore per l’arco di Elia. La sua morte deve restare il centro emotivo, non un dispositivo precoce.
 
 ### Decisione attuale
 
-Cecilia muore quasi alla fine. Dopo resta solo la coda fredda: arresti, versioni, archivi.
+Nina muore quasi alla fine. Dopo resta solo la coda fredda: arresti, versioni, archivi.
 
 ---
 
-## 9. Arresto dei sardi prima della morte di Cecilia
+## 9. Arresto di Corvo e Nurra prima della morte di Nina
 
 ### Alternativa
 
-I sardi venivano arrestati prima, e la morte di Cecilia seguiva come conseguenza o tragedia privata.
+Corvo e Nurra venivano arrestati prima, e la morte di Nina seguiva come conseguenza o tragedia privata.
 
 ### Perché è stata scartata
 
@@ -145,7 +145,7 @@ L’arresto avrebbe rubato centralità al climax emotivo. Il romanzo deve far se
 
 ### Decisione attuale
 
-Prima muore Cecilia. Poi il mondo la usa. Poi i sardi cadono.
+Prima muore Nina. Poi il mondo la usa. Poi Corvo e Nurra cadono.
 
 ---
 
@@ -153,7 +153,7 @@ Prima muore Cecilia. Poi il mondo la usa. Poi i sardi cadono.
 
 ### Alternativa
 
-Un personaggio tradiva apertamente e consegnava i sardi o Lale.
+Un personaggio tradiva apertamente e consegnava Corvo/Nurra o Rami.
 
 ### Perché è stata scartata
 
