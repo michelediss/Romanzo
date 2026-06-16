@@ -1,117 +1,91 @@
 # De Bonis
 
-## Nome
+## Stato
 
-Nome consigliato: **Vittorio De Bonis**.
+**Cassato come personaggio autonomo.**
 
-## Funzione narrativa
+De Bonis non deve più funzionare come antagonista riconoscibile, capo, stratega o figura ricorrente.
 
-De Bonis è l’adulto che archivia per colpire. È il capo Digos che non cerca solo fatti, ma cornici utilizzabili. La sua funzione non è fare il cattivo poliziesco né l’investigatore antidroga, ma mostrare come lo Stato sappia leggere, attendere e usare le fratture interne di una scena.
+## Motivo della rimozione
 
-Con l’inserimento di Mastantuono, De Bonis deve restare più freddo e più sistemico: non concentra su di sé tutta la violenza, non si sporca necessariamente le mani, non conduce in prima persona la pista della ketamina. La sua forza è trasformare materiali parziali in una versione istituzionale utile.
+La sua funzione era forte, ma troppo incarnata: rischiava di trasformare l’apparato in un personaggio e di aprire un romanzo parallelo sul suo funzionamento interno.
 
-## Età e ambiente
+La nuova direzione è più coerente con il centro dell’opera: non raccontare il mondo della polizia dall’interno, ma raccontare come quel mondo viene percepito da chi ne subisce la pressione.
 
-- Età: cinquanta e qualcosa.
-- Ambiente: Digos, ordine pubblico, prevenzione, questura, informative, rapporti con stampa e altri reparti.
-- Passato possibile: stagioni dure di piazza, contiguità e memoria degli apparati repressivi post-Genova; non è necessario che abbia “fatto Genova” direttamente, dettaglio che può passare a Mastantuono.
+## Cosa resta della funzione
 
-## Caratterizzazione
+Resta la funzione di montaggio, non l’uomo.
 
-Non è solo violento. Anzi, rispetto a Mastantuono deve sembrare quasi civile. È metodico. Non perde facilmente il controllo. La sua forza è la memoria: nomi, soprannomi, famiglie, vecchi fermi, fidanzamenti, scissioni, luoghi, rancori.
+L’apparato deve sembrare capace di:
 
-È un archivista dell’ordine.
+- raccogliere nomi;
+- conservare vecchi dettagli;
+- collegare rapporti personali;
+- trasformare frammenti in versioni;
+- usare le fratture interne della scena;
+- aspettare il momento giusto;
+- rendere leggibile ciò che per i personaggi era vita, amicizia, desiderio, confusione.
 
-La sua violenza è di montaggio: prende ciò che esiste, lo decontestualizza, lo ordina, lo consegna a una cornice che altri potranno usare senza dover mentire del tutto.
+Il punto non è più “De Bonis capisce”.
 
-## Desiderio
+Il punto è:
 
-Vuole dimostrare che la parte non istituzionalizzabile dei movimenti non è più politica, ma ambiente opaco: notti, sostanze, coperture, passaggi, latitanze, relazioni non dichiarate.
+> qualcuno, da qualche parte, sta già mettendo ordine.
 
-Non gli interessa vincere una discussione ideologica. Gli interessa rendere impraticabile il terreno morale dell’avversario.
+## Presenza possibile
 
-## Paura
+Il nome De Bonis può sopravvivere solo come residuo remoto, se serve:
 
-Teme meno i militanti che gli ambienti non leggibili. I territorialisti sono prevedibili, mappabili, spesso mediabili. I nomadi e la scena rave gli interessano perché sfuggono alle forme classiche di rappresentanza.
+- una voce riportata;
+- un cognome sentito una volta;
+- una firma su una carta;
+- un riferimento vago in bocca a Sarnelli;
+- un nome che produce silenzio, ma non una scena.
 
-La sua paura è che esistano ancora zone in cui l’informazione non passa dai canali che conosce.
+Non deve avere punto di vista, arco, dialoghi centrali o psicologia.
 
-## Ketamina come cornice
+## Nuova funzione dell’apparato
 
-De Bonis non conduce un’indagine ufficiale sulla ketamina in quanto tale. La usa come materiale informale di delegittimazione: non cerca solo la sostanza, cerca la fiducia che la fa circolare.
+La polizia diventa presenza percepita, non mondo narrativo.
 
-Con Mastantuono la divisione diventa più chiara:
+Non va raccontata attraverso gerarchie, uffici, strategie interne o scene autonome. Va raccontata attraverso gli effetti che produce sul fiume del romanzo:
 
-- **Mastantuono** segue o maneggia la pista operativa: Mobile, pressioni, interrogatori, sequestri, confidenze sporche, violenza fisica o minacciata.
-- **De Bonis** legge quella pista come materiale politico: non gli serve tutta la verità, gli serve una forma abbastanza vera da reggere pubblicamente.
-
-La catena narrativa:
-
-> ketamina → Nina/Rami → Ari/Dile → Corvo/Nurra
-
-## Rapporto con Mastantuono
-
-Mastantuono è utile a De Bonis proprio perché fa il lavoro che De Bonis non deve fare sulla pagina.
-
-Non devono essere amici. Meglio se si riconoscono senza stimarsi davvero. De Bonis considera Mastantuono rozzo, compromettente, troppo innamorato della propria brutalità. Mastantuono considera De Bonis uno che parla troppo pulito e lascia agli altri la parte sporca.
-
-Ma funzionano insieme:
-
-- Mastantuono produce pressione;
-- De Bonis produce lettura;
-- Mastantuono forza corpi e stanze;
-- De Bonis forza cornici e versioni;
-- Mastantuono cerca colpevoli;
-- De Bonis cerca nessi utilizzabili.
-
-La loro coppia evita di accentrare tutto su De Bonis.
-
-## Rapporto con Elia
-
-Elia è per De Bonis uno snodo, non un nemico. Lo conosce come quello che entra ovunque: ex territorialista, tecnico dei rave, amico di Nina, ponte con i nomadi.
-
-De Bonis non deve necessariamente estorcergli una confessione. Gli basta leggerne le esitazioni.
-
-Mastantuono può spaventare Elia. De Bonis deve ferirlo in modo diverso: facendogli capire che ogni silenzio ha già prodotto informazioni.
+- paura;
+- autocensura;
+- telefonate caute;
+- versioni che circolano;
+- amicizie che diventano nessi;
+- coincidenze che diventano prove;
+- gesti privati che diventano materiale pubblico.
 
 ## Rapporto con Sarnelli
 
-Si usano. Sarnelli cerca conferme e crepe, De Bonis offre cornici e osserva quali domande tornano indietro.
+Sarnelli resta il volto dell’altro argine: il giornalismo, la lingua pubblica, la necessità di scrivere.
 
-Con Mastantuono in scena, Sarnelli può percepire due livelli dello stesso apparato:
+L’apparato è l’argine opposto: non parla davvero, non si racconta, non chiede di essere capito. Ordina.
 
-- Mastantuono come brutalità raccontabile ma difficile da provare;
-- De Bonis come versione pubblicabile, più pulita, più pericolosa.
+La tensione non è più tra Sarnelli e De Bonis come due personaggi, ma tra due modi di trasformare i fatti:
 
-## Arco
+- il giornalismo rende dicibile;
+- l’apparato rende ordinabile e utilizzabile.
 
-De Bonis non ha un arco morale. Ha un arco operativo: da osservatore informale della scena a produttore della versione pubblica finale, in cui la morte di Nina e l’arresto di Corvo e Nurra vengono assorbiti da una cornice utile.
+## Regola narrativa
 
-Mastantuono può accelerare l’indagine e creare danni. De Bonis deve raccogliere quei danni e renderli ordine.
+Nessuna scena deve essere costruita dal punto di vista di De Bonis.
 
-## Scene chiave
+Nessun dialogo centrale con Elia.
 
-- Prima apparizione indiretta: nome, voce, controllo, frase riportata.
-- Dialogo teso con Elia.
-- Telefonata o scambio con Sarnelli.
-- Scambio con Mastantuono sulla pista della ketamina: uno vuole stringere, l’altro vuole capire come usare.
-- Pressione sui nomadi dopo la morte di Nina, anche tramite altri reparti.
-- Arresto di Corvo e Nurra come esito freddo.
+Nessuna scena di coppia con Mastantuono.
 
-## Frasi possibili
+Nessuna sottotrama procedurale.
 
-> Io non cerco la droga. Cerco le porte. La droga passa dove le porte sono già aperte.
+Se compare, deve essere quasi un rumore di fondo: un cognome, una carta, una frase attribuita, una pressione che arriva già filtrata.
 
-> La ketamina è una cosa piccola. La fiducia che la porta in giro è la cosa grossa.
+## Conseguenza strutturale
 
-> Tu non sei mai stato pericoloso. Tu sei utile. È diverso.
+La coppia De Bonis / Mastantuono viene sostituita da una struttura più astratta:
 
-> Mastantuono cercava chi aveva fatto cosa. De Bonis cercava in quale ordine metterlo.
+- **Sarnelli**: volto umano della trasformazione dei fatti in racconto pubblico.
+- **Apparato senza volto**: pressione impersonale che trasforma i fatti in ordine istituzionale.
 
-## Questioni aperte
-
-- Quanto deve apparire direttamente?
-- Ha una scena con Nina prima della morte o la conosce solo come nome?
-- Usa Elia direttamente o solo indirettamente?
-- Quanto è pubblica la sua vittoria dopo l’arresto di Corvo e Nurra?
-- Mastantuono agisce su mandato esplicito di De Bonis o per convergenza di apparato?
+Il centro resta il fiume: Elia, Nina, Rami, Boy, Ari/Dile, Corvo/Nurra, Presidio Sud, La Deriva, la scena rave.
