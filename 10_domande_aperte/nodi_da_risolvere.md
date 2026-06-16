@@ -36,11 +36,11 @@ La sua colpa deve essere morale prima che penale.
 
 ---
 
-## 2. Morte di Cecilia
+## 2. Morte di Nina
 
 ### Domanda centrale
 
-Come muore Cecilia?
+Come muore Nina?
 
 ### Decisione già presa
 
@@ -53,63 +53,63 @@ La morte deve essere quasi conclusiva, non svolta intermedia. Deve essere il cli
 - Elia la vede prima o dopo?
 - Sarnelli arriva sulla notizia da giornalista o da ex compagno?
 - De Bonis usa subito la morte come leva narrativa?
-- Lale apprende la notizia?
+- Rami apprende la notizia?
 
 ### Rischio
 
-Non trasformare Cecilia in “ragazza morta per far capire qualcosa a Elia”.
+Non trasformare Nina in “ragazza morta per far capire qualcosa a Elia”.
 
 ### Regola
 
-Cecilia deve restare persona piena, colpevole, intelligente, tragica. Non simbolo puro.
+Nina deve restare persona piena, colpevole, intelligente, tragica. Non simbolo puro.
 
 ---
 
-## 3. Fuga di Lale
+## 3. Fuga di Rami
 
 ### Domanda centrale
 
-Lale parte davvero per il Marocco o usa il Marocco come copertura?
+Rami parte davvero per il Marocco o usa il Marocco come copertura?
 
 ### Decisione già presa
 
-Lale fugge. Non deve ricomparire fisicamente nel finale.
+Rami fugge. Non deve ricomparire fisicamente nel finale.
 
 ### Da decidere
 
 - quando decide di tradire tutti?
-- lascia un messaggio a Cecilia?
+- lascia un messaggio a Nina?
 - lascia una traccia a Elia?
 - fugge da solo o con aiuto esterno?
 - il lettore deve sapere dove sia davvero?
 
 ### Regola
 
-Lale non deve essere un mostro melodrammatico. Deve restare il buco nella trama: forse ama Cecilia, ma sceglie la fuga.
+Rami non deve essere un mostro melodrammatico. Deve restare il buco nella trama: forse ama Nina, ma sceglie la fuga.
 
 ---
 
-## 4. Sara e Gab
+## 4. Ari e Dile
 
 ### Domanda centrale
 
-Chi delle due spinge davvero per entrare nel giro di Lale?
+Chi delle due spinge davvero per entrare nel giro di Rami?
 
 ### Da decidere
 
-- Sara è più affascinata dal mito o dalla persona?
-- Gab è più lucida o più estrema?
-- chi si spezza dopo la morte di Cecilia?
+- Ari è più affascinata dal mito o dalla persona?
+- Dile è più lucida o più estrema?
+- chi si spezza dopo la morte di Nina?
 - chi accusa Elia?
 - una delle due parla con De Bonis, Sarnelli o Azzurra?
 
 ### Regola
 
-Sara e Gab non devono essere stupide. Devono essere intelligenti ma attraversate dal desiderio di irreversibilità.
+Ari e Dile non devono essere stupide. Devono essere intelligenti ma attraversate dal desiderio di irreversibilità.
 
 ---
 
-## 5. I due sardi
+## 5. Corvo e Nurra
 
 ### Domanda centrale
 
@@ -137,7 +137,7 @@ Non romanticizzarli. Il loro peso nasce dal fatto che hanno attraversato una sog
 
 ### Domanda centrale
 
-Quanto è vicino a Elia prima della morte di Cecilia?
+Quanto è vicino a Elia prima della morte di Nina?
 
 ### Da decidere
 
@@ -161,8 +161,8 @@ Che cosa scrive e che cosa decide di non scrivere?
 
 ### Da decidere
 
-- scrive un pezzo su Cecilia?
-- scrive sui sardi?
+- scrive un pezzo su Nina?
+- scrive su Corvo e Nurra?
 - pubblica una versione dimezzata?
 - protegge Elia o lo mette in difficoltà?
 - ha una scena finale con Elia?
@@ -185,8 +185,8 @@ Il romanzo deve chiudere su una scena nel mondo o su un frammento d’archivio d
 2. Sarnelli che non pubblica la verità intera.
 3. De Bonis che ottiene la sua cornice pubblica.
 4. SubBasso che riparte come se nulla fosse.
-5. Una traccia incerta di Lale fuori mappa.
-6. Un frammento secco su Cecilia.
+5. Una traccia incerta di Rami fuori mappa.
+6. Un frammento secco su Nina.
 
 ### Regola
 
