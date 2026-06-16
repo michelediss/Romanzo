@@ -12,7 +12,7 @@ Questa linea è stata declassata da trama principale a **sfondo sistemico**.
 Non deve occupare il centro del romanzo. Deve però essere sempre percepibile come pressione laterale:
 
 - circola dentro SubBasso;
-- tocca Cecilia;
+- tocca Nina;
 - interessa De Bonis;
 - lega Napoli a un immaginario europeo;
 - fa capire che la scena rave non è solo comunità, ma anche rete.
@@ -38,11 +38,11 @@ SubBasso non è solo musica e corpi. È anche:
 
 La scena crede di essere fuori dalla politica e fuori dal mercato duro. In realtà è attraversata da entrambi.
 
-### 2. Dare a Cecilia un ruolo concreto
+### 2. Dare a Nina un ruolo concreto
 
-Cecilia non è solo fidanzata di Lale. Ha una sua posizione nella notte. È visibile, riconosciuta, temuta. La ketamina contribuisce a costruire questa posizione.
+Nina non è solo fidanzata di Rami. Ha una sua posizione nella notte. È visibile, riconosciuta, temuta. La ketamina contribuisce a costruire questa posizione.
 
-Questo rende la sua morte più tragica: Cecilia non è un corpo laterale, ma una presenza centrale della scena.
+Questo rende la sua morte più tragica: Nina non è un corpo laterale, ma una presenza centrale della scena.
 
 ### 3. Dare a De Bonis una lente di delegittimazione
 
@@ -71,25 +71,25 @@ Amsterdam deve restare più immaginario che procedura.
 - promessa di festival, vinili, sound system, contatti;
 - parola che rende glamour ciò che, visto da vicino, è molto meno romantico.
 
-Stefano può essere il personaggio che estetizza questa dimensione: racconta Amsterdam come capitale della libertà tekno, mentre Elio o Cecilia ne conoscono la parte più fredda.
+Tancredi può essere il personaggio che estetizza questa dimensione: racconta Amsterdam come capitale della libertà tekno, mentre Arturo o Nina ne conoscono la parte più fredda.
 
 ---
 
 ## Personaggi coinvolti
 
-### Cecilia
+### Nina
 
 Presenza di dettaglio e reputazione. Attraverso lei la Regina entra nel corpo della storia.
 
-### Lale
+### Rami
 
-Non è centrale in questa linea, ma la sua rete di fiducia può sovrapporsi a quella di Cecilia.
+Non è centrale in questa linea, ma la sua rete di fiducia può sovrapporsi a quella di Nina.
 
-### Stefano
+### Tancredi
 
 Dandy tekno, figlio di Napoli bene, capace di rendere bella ogni zona grigia.
 
-### Elio
+### Arturo
 
 Professionale, freddo, affidabile. Non necessariamente al centro della Regina, ma rappresenta il passaggio verso economie più dure e meno estetizzabili.
 
@@ -99,7 +99,7 @@ Legge questa linea non come sostanza, ma come prova sociale: chi frequenta chi, 
 
 ### Elia
 
-Non capisce subito la scala. Per lui all’inizio è scena, notte, musica, amici, Cecilia. Solo dopo comprende che la Regina è anche una mappa.
+Non capisce subito la scala. Per lui all’inizio è scena, notte, musica, amici, Nina. Solo dopo comprende che la Regina è anche una mappa.
 
 ---
 
@@ -129,7 +129,7 @@ Il lessico deve cambiare a seconda di chi parla.
 - SubBasso usa soprannomi, ironia, familiarità.
 - De Bonis usa categorie fredde, magari mai il soprannome.
 - Sarnelli evita il gergo se scrive, ma lo conosce se parla con Elia.
-- Cecilia può usare nomi teneri e brutali insieme.
+- Nina può usare nomi teneri e brutali insieme.
 
 ---
 
@@ -154,9 +154,9 @@ Il punto non è dimostrare tutto in tribunale. Il punto è produrre una forma pu
 
 ---
 
-## Collegamento con Cecilia/Lale
+## Collegamento con Nina/Rami
 
-De Bonis può arrivare a Cecilia e Lale perché sono nomi ricorrenti nella scena. Da loro passa a Elia, poi a Sara e Gab, e da lì alla linea sarda.
+De Bonis può arrivare a Nina e Rami perché sono nomi ricorrenti nella scena. Da loro passa a Elia, poi ad Ari e Dile, e da lì alla linea sarda.
 
 La catena non deve sembrare un’indagine perfetta. Deve sembrare una mappa costruita per accumulo:
 
@@ -183,8 +183,8 @@ La catena non deve sembrare un’indagine perfetta. Deve sembrare una mappa cost
 
 ## Questioni aperte
 
-- Quanto Stefano conosce davvero della linea Amsterdam?
-- Cecilia è solo dettaglio o anche snodo riconosciuto?
-- Elio è collegato alla Regina o solo alla linea più dura della coca?
+- Quanto Tancredi conosce davvero della linea Amsterdam?
+- Nina è solo dettaglio o anche snodo riconosciuto?
+- Arturo è collegato alla Regina o solo alla linea più dura della coca?
 - De Bonis riceve informazioni da altri reparti o costruisce la mappa da solo?
-- Sarnelli capisce la cornice di De Bonis prima o dopo la morte di Cecilia?
+- Sarnelli capisce la cornice di De Bonis prima o dopo la morte di Nina?
