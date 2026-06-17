@@ -14,7 +14,7 @@
 - La Parrocchia Rossa
 - I Notai del Conflitto
 - Gli Amministratori della Rabbia
-- La Protezione Civile della Rivoluzione
+- La Protezione Civile della Rabbia
 
 ---
 
@@ -153,13 +153,13 @@ Il gruppo lo usa quando scrive cose utili e lo accusa di freddezza quando scrive
 
 ---
 
-## Rapporto con De Bonis
+## Rapporto con l'apparato senza volto
 
-De Bonis considera Presidio Sud un avversario leggibile.
+L'apparato considera Presidio Sud un avversario leggibile.
 
-Non lo sottovaluta, ma sa che ha porte, volti, telefoni, avvocati, interlocuzioni. È un mondo conflittuale ma mappabile.
+Non ha bisogno di incarnarsi in un singolo funzionario per riconoscerlo: Presidio Sud ha porte, volti, telefoni, avvocati, interlocuzioni, comunicati, archivi, abitudini pubbliche. È un mondo conflittuale ma mappabile.
 
-Questo è uno degli aspetti più ambigui dei territorialisti: sono antagonisti, ma anche riconoscibili dall’ordine.
+Questo è uno degli aspetti più ambigui dei territorialisti: la loro stessa capacità di durare li rende leggibili.
 
 ---
 
