@@ -62,7 +62,7 @@ Bass Unit deve essere raccontata con dettagli fisici:
 - furgoni come balene;
 - generatori come santi a benzina;
 - casse come madri nere;
-- meravigliose accese all’alba;
+- alba sporca;
 - vestiti umidi;
 - luci storte;
 - mani che contano soldi senza teatralità;
@@ -106,20 +106,20 @@ Possibile dinamica:
 
 - alcuni furgoni dei Black Convoy sbagliano strada o finiscono troppo vicini a una zona controllata;
 - qualcuno del sistema li ferma, li segue o li avverte;
-- partono colpi di avvertimento verso i furgoni, in aria, a terra o abbastanza vicino da non essere equivocati;
+- il messaggio arriva abbastanza chiaro da non poter essere scambiato per folklore;
 - i raverz locali provano a minimizzare: non è niente, è il territorio, non bisogna fare casino;
 - la tribe estera si spaventa davvero, perché riconosce la polizia ma non sa leggere quel tipo di potere;
 - qualcuno dei Black Convoy chiama la polizia.
 
-La chiamata alla polizia è il cortocircuito centrale: una tribe tekno che chiama gli sbirri. Non va trattata come gag, ma come ferita simbolica. La retorica dell'autonomia regge finché il nemico è lo Stato; davanti al sistema, armato e territoriale, saltano le categorie.
+La chiamata alla polizia è il cortocircuito centrale: una tribe tekno che chiama gli sbirri. Non va trattata come gag, ma come ferita simbolica. La retorica dell'autonomia regge finché il nemico è lo Stato; davanti al sistema, territoriale e più antico, saltano le categorie.
 
 ### Conseguenza narrativa
 
 Black Convoy diventa uno dei motivi per cui la polizia comincia a guardare la scena rave con più attenzione.
 
-Non perché la polizia scopra che ai rave girano sostanze: lo sa già, o può intuirlo. Il salto è un altro: capisce che Bass Unit è un nodo dove si incrociano furgoni esteri, contatti locali, ketamina, ragazzi politicizzati, curiosi, figli di mondi diversi e attriti col sistema.
+Non perché la polizia scopra che ai rave girano sostanze: lo sa già, o può intuirlo. Il salto è un altro: capisce che Bass Unit è un nodo dove si incrociano furgoni esteri, contatti locali, sostanze, ragazzi politicizzati, curiosi, figli di mondi diversi e attriti col sistema.
 
-Da qui può entrare **Mastantuono**: non come analista freddo, ma come pressione operativa. De Bonis può usare l'evento come elemento di cornice; Mastantuono può usarlo per stringere sui corpi, sulle piste e sugli interrogatori.
+Da qui entra l'apparato senza volto: non un antagonista con psicologia autonoma, ma una pressione che ordina i fatti, collega nomi, cerca appigli, produce domande, stanze e versioni.
 
 ---
 
@@ -194,20 +194,19 @@ I territorialisti ci entrano con prudenza.
 I nomadi la attraversano come zona affine.  
 Elia ci respira perché nessuno gli chiede subito di scegliere.  
 Nina guarda entrambi con diffidenza, perché vede nella politica gente che si parla addosso.  
-De Bonis la osserva perché la considera una zona di passaggio.  
-Mastantuono la considera un ambiente da schiacciare, interrogare, mettere sotto pressione.
+L'apparato la osserva come zona di passaggio, non come mondo da raccontare dall'interno.
 
 ---
 
-## Bass Unit e la ketamina
+## Bass Unit e la sostanza
 
-La ketamina nel romanzo non deve diventare un manuale né una procedura. Deve funzionare come segnale di scala e di trasformazione.
+La sostanza nel romanzo non deve diventare un manuale né una procedura. Deve funzionare come segnale di scala e di trasformazione.
 
 Segnala che la scena non è solo comunità musicale, ma anche infrastruttura di fiducia attraversata da flussi più ampi.
 
-De Bonis non guarda la sostanza in sé: guarda la fiducia che le permette di circolare. Mastantuono, invece, può usare la sostanza come appiglio operativo: fermare, spaventare, fare nomi, produrre pressione.
+L'apparato non guarda la sostanza in sé: guarda la fiducia che le permette di circolare. La sostanza diventa appiglio, non spiegazione.
 
-> La ketamina era una cosa piccola. La fiducia che la portava in giro era la cosa grossa.
+> La sostanza era una cosa piccola. La fiducia che la portava in giro era la cosa grossa.
 
 ---
 
@@ -221,7 +220,7 @@ De Bonis non guarda la sostanza in sé: guarda la fiducia che le permette di cir
 - **Tancredi**: estetizzatore, ponte con Napoli bene e con immaginari europei.
 - **Arturo**: figura fredda, più vicina al salto verso economie dure.
 - **Boy**: corpo estraneo alla tekno, trascinato da Elia, utile come sguardo scettico dentro la festa.
-- **Mastantuono**: pressione operativa della polizia sulla scena dopo Black Convoy e dentro l'indagine sulla ketamina.
+- **Apparato senza volto**: pressione istituzionale sulla scena dopo Black Convoy.
 
 ---
 
@@ -235,7 +234,7 @@ De Bonis non guarda la sostanza in sé: guarda la fiducia che le permette di cir
 - lascia che la fiducia diventi credito;
 - trasforma il corpo di Nina in spiegazione postuma;
 - scambia l'autonomia per immunità dal territorio;
-- davanti al sistema scopre che l'illegalità romantica non coincide con il potere reale.
+- davanti al sistema scopre che la notte romantica non coincide con il potere reale.
 
 ---
 
@@ -243,7 +242,7 @@ De Bonis non guarda la sostanza in sé: guarda la fiducia che le permette di cir
 
 > Solo alla Messa Bassa nessuno gli chiedeva tessere di dolore.
 
-> Là bastavano cavi, proiettori, meravigliose e la capacità di non fare domande.
+> Là bastavano cavi, proiettori e la capacità di non fare domande.
 
 > Bass Unit non era fuori dalla città. Era la città quando smetteva di verbalizzare.
 
