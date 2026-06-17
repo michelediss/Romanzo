@@ -40,10 +40,10 @@ Da figura quasi caricaturale a uomo ferito dal confronto con l’irreversibile. 
 
 ## Scene chiave
 
-- Discussione con Elia o Sara/Gab sulla serietà.
+- Discussione con Elia o altri nomadi sulla serietà.
 - Presenza nei racconti della Battaglia.
 - Reazione alla voce sui sardi.
-- Dopo l’arresto: rabbia, vergogna, accusa.
+- Dopo la caduta dei sardi: rabbia, vergogna, accusa.
 
 ## Frasi possibili
 
@@ -56,4 +56,4 @@ Da figura quasi caricaturale a uomo ferito dal confronto con l’irreversibile. 
 - Ha un ruolo diretto nella Battaglia?
 - Sa qualcosa dei sardi o solo del mito?
 - È pericoloso davvero o vuole sembrarlo?
-- Dopo l’arresto accusa Zed, Elia o sé stesso?
+- Dopo la caduta dei sardi accusa Zed, Elia o sé stesso?
