@@ -16,8 +16,7 @@
 | Corvo/Nurra | Mito anarchico | Radicalità come conseguenza | Restare fuori dalla cattura | Diventano simbolo prima che persone | Arrestati dopo Nina |
 | Sarnelli | Giornalismo / ex Presidio | Verità raccontabile, limite deontologico | Scrivere senza tradire | Sa più di quanto possa pubblicare | Impotenza lucida |
 | Boy | Movimento / fotografia | Occhio morale, archivio negativo | Guardare senza tradire | Non fotografare può essere complicità | Lascia un buco più forte di una prova |
-| De Bonis | Digos | Verità utilizzabile, cornice istituzionale | Mappare e delegittimare | Usa fatti parziali per costruire ordine | Vittoria fredda |
-| Mastantuono | Mobile / repressione operativa | Braccio sporco, pressione sui corpi | Chiudere la pista e piegare i fermati | Trasforma l’indagine in vendetta d’ordine | Produce danni che altri useranno |
+| Apparato senza volto | Pressione istituzionale | Cornice impersonale, ordine ostile | Rendere leggibili reti, notti e legami | Trasforma una storia parziale in versione utile | Vittoria fredda, senza scena propria |
 | Kek | Bar / Napoli nord | Soglia popolare, geografia criminale quotidiana | Tenere aperto il bar e restare nel calore giusto | Venire richiamato dal mondo da cui dice di essere uscito | Sopravvive sapendo più di quanto dice |
 | Fratelli Setola | Destra di strada | Fascismo minoritario e rancoroso | Far pesare una forza che non è egemonia | Essere irrilevanti nella città politica | Restano sfondo minaccioso |
 | Azzurra | Presidio Sud | Ferita politica/sentimentale | Difendere la mediazione come tattica | Fedeltà che diventa copertura | Resta forte ma incrinata |
@@ -43,22 +42,13 @@ Il triangolo emotivo e morale. Elia guarda, garantisce e capisce tardi. Rami fug
 
 Il triangolo della fascinazione politica. Le ragazze chiedono accesso, Elia introduce, il mito si espone.
 
-### Elia — Sarnelli — De Bonis
+### Elia — Sarnelli — apparato senza volto
 
 Tre forme di montaggio della verità:
 
 - Elia monta per non scegliere.
 - Sarnelli monta per raccontare.
-- De Bonis monta per usare.
-
-### De Bonis — Mastantuono
-
-Due livelli dell’apparato:
-
-- De Bonis archivia, legge, ordina e produce la cornice pubblica.
-- Mastantuono stringe, minaccia, interroga e produce danni operativi.
-
-Questa distinzione serve a non accentrare su De Bonis tutta la repressione.
+- l’apparato monta per rendere ordinabile e utilizzabile.
 
 ### Kek — Elia — Fratelli Setola
 
@@ -76,9 +66,9 @@ Tre etiche dell’archivio:
 - Boy fotografa o non fotografa per non consegnare tutto.
 - Sarnelli scrive o non scrive perché sa che la verità pubblicata cambia padrone.
 
-### Boy — De Bonis
+### Boy — apparato senza volto
 
-La relazione della prova mancante. Boy pensa che non fotografare protegga qualcuno; De Bonis capisce che anche l’assenza è informazione.
+La relazione della prova mancante. Boy pensa che non fotografare protegga qualcuno; l’apparato mostra che anche l’assenza può diventare informazione.
 
 ### Presidio Sud — La Deriva
 
@@ -120,13 +110,9 @@ Entrambi hanno un’etica del documento trattenuto. Differenza: Boy lavora con i
 
 Entrambi sono memorie dolenti. Differenza: Onda custodisce la memoria orale della scena; Boy custodisce la memoria visiva e i suoi buchi.
 
-### De Bonis e Franchino
+### Apparato senza volto e Franchino
 
-Entrambi producono cornici. Differenza: De Bonis usa l’ordine; Franchino usa la storia del movimento.
-
-### De Bonis e Mastantuono
-
-Entrambi appartengono all’apparato repressivo. Differenza: De Bonis produce cornici, Mastantuono produce pressione. De Bonis deve restare freddo e sistemico; Mastantuono può portare la violenza fisica, il criptofascismo e il passato di Genova.
+Entrambi producono cornici. Differenza: l’apparato usa l’ordine istituzionale; Franchino usa la storia del movimento.
 
 ### Arturo e Tancredi
 
@@ -157,8 +143,7 @@ Ogni personaggio deve rispondere a una domanda diversa:
 - Corvo/Nurra: che cosa succede quando il mito diventa persona e poi fascicolo?
 - Sarnelli: che cosa si può raccontare senza tradire?
 - Boy: quando non documentare è etica e quando diventa complicità?
-- De Bonis: come lo Stato usa una storia parziale?
-- Mastantuono: che cosa fa l’apparato quando smette di parlare e comincia a stringere?
+- Apparato senza volto: come una storia parziale diventa ordine ostile?
 - Kek: chi conosce la città senza possederne la verità?
 - Fratelli Setola: che forma prende un fascismo minoritario, rancoroso e sconfitto?
 - Azzurra: quando la fedeltà diventa copertura?
