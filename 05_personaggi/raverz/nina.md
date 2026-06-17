@@ -28,7 +28,7 @@ Dopo la sparizione di Rami, Nina diventa anche la prova più concreta che un'ass
 
 - **Nome:** Nina.
 - **Età:** 24 anni.
-- **Ambiente:** SubBasso, free party, notti, strada, economie informali.
+- **Ambiente:** Bass Unit, free party, notti, strada, economie informali.
 - **Ruolo:** spacciatrice esperta nonostante la giovane età.
 - **Aspetto:** molto bella, ma non costruita secondo una femminilità morbida o accomodante.
 - **Energia:** dura, asciutta, magnetica, più carattere di tanti maschi della scena.
@@ -66,7 +66,7 @@ Non lo fa con un gesto solenne. Non gli dice “vieni, ti porto nel mondo”. Su
 
 Da quel momento Elia comincia a conoscere:
 
-- la SubBasso;
+- Bass Unit;
 - i free party;
 - i raverz veri;
 - le gerarchie non dichiarate della notte;
@@ -158,7 +158,7 @@ Possibile frase:
 
 Nina vuole essere riconosciuta come presenza autonoma.
 
-Non vuole essere “la ragazza di Rami”, “quella che vende”, “quella bella della SubBasso”, “quella che si fa rispettare”. Vuole che la sua durezza, la sua intelligenza e la sua competenza vengano prese sul serio.
+Non vuole essere “la ragazza di Rami”, “quella che vende”, “quella bella di Bass Unit”, “quella che si fa rispettare”. Vuole che la sua durezza, la sua intelligenza e la sua competenza vengano prese sul serio.
 
 Vuole restare padrona della propria immagine anche quando le condizioni reali la stanno schiacciando.
 
@@ -227,7 +227,7 @@ Nina ed Elia vivono insieme per un periodo. La casa deve essere un luogo di conf
 
 ### Primo rave di Elia
 
-Nina porta Elia alla SubBasso o a un free party. Elia non capisce subito tutto, ma capisce che lì la politica non basta a spiegare le persone.
+Nina porta Elia a Bass Unit o a un free party. Elia non capisce subito tutto, ma capisce che lì la politica non basta a spiegare le persone.
 
 ### Tensione erotica mai risolta
 
