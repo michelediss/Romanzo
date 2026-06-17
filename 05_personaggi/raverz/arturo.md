@@ -49,6 +49,6 @@ Arturo probabilmente sopravvive pulito. La sua traiettoria serve a mostrare che 
 ## Questioni aperte
 
 - Quanto è coinvolto nell’ammanco?
-- Ha rapporti diretti con De Bonis o solo indiretti?
+- Ha rapporti diretti con l’apparato senza volto o solo indiretti?
 - È amico di Tancredi o lo disprezza?
 - Compare dopo la morte di Nina?
