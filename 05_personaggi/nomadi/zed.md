@@ -16,7 +16,7 @@ Circa cinquant’anni. Carismatico, ambiguo, capace di dire cose vere e di farle
 
 ## Desiderio
 
-Vuole restare necessario. Vuole essere il custode di un’intensità politica che la fase dei Beni Benedetti sembra avere addomesticato.
+Vuole restare necessario. Vuole essere il custode di un’intensità politica che la fase dei beni comuni sembra avere addomesticato.
 
 ## Paura
 
