@@ -8,7 +8,7 @@ La sua funzione è far sentire cosa è stato perso senza idealizzare il passato.
 
 ## Ambiente
 
-SubBasso / raverz vecchia scuola.
+Bass Unit / raverz vecchia scuola.
 
 ## Identità
 
