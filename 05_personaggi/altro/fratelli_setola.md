@@ -45,7 +45,7 @@ Sono fascisti abituati a prendere sberle, ma non per questo innocui.
 
 Elia può conoscerli come nomi, non necessariamente per rapporto diretto. Li ha sentiti nominare in racconti di piazza, vecchie risse, serate finite male, avvisi del tipo “lì non passare con quella maglietta”.
 
-La scena rave e SubBasso può incrociarli solo lateralmente:
+La scena rave e Bass Unit può incrociarli solo lateralmente:
 
 - fuori da un bar;
 - in una zona contesa;
@@ -108,5 +108,5 @@ La forma migliore: figure di sfondo, con apparizioni brevi e memorabili, più re
 - Sono fratelli di sangue o “fratelli” come coppia di strada?
 - Uno dei due è più politico e l’altro più violento?
 - Appaiono in scena o restano quasi sempre nominati?
-- Hanno un legame con Mastantuono o è meglio tenere separati fascisti di strada e apparato?
+- Hanno un legame con l’apparato senza volto o è meglio tenere separati fascisti di strada e apparato?
 - Nella rissa coi fasci uno dei due mostra davvero una lama o resta solo una voce?
