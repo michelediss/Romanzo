@@ -209,7 +209,7 @@ Il punto di pressione è semplice:
 
 Questa deve diventare la seconda garanzia, più sporca della prima.
 
-Elia trova Rami prima degli altri: in una macchina, in una casa laterale, fuori da una festa, in un parcheggio, da Kek, in una stanza dove è passato qualcuno della SubBasso. Rami non deve apparire mitico. Deve apparire deludente: stanco, calcolatore, impaurito, patetico a tratti. Non abbastanza mostruoso da essere consegnato senza rimorso. Non abbastanza innocente da essere salvato.
+Elia trova Rami prima degli altri: in una macchina, in una casa laterale, fuori da una festa, in un parcheggio, da Kek, in una stanza dove è passato qualcuno di Bass Unit. Rami non deve apparire mitico. Deve apparire deludente: stanco, calcolatore, impaurito, patetico a tratti. Non abbastanza mostruoso da essere consegnato senza rimorso. Non abbastanza innocente da essere salvato.
 
 Elia potrebbe chiudere il problema. Potrebbe consegnarlo, dire dov'è, obbligarlo a tornare da Nina, smettere di mentire.
 
