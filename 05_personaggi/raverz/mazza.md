@@ -8,7 +8,7 @@ La sua funzione è mostrare la differenza tra violenza di scena e potere struttu
 
 ## Ambiente
 
-SubBasso / organizzazione feste / sound system / gerarchie informali.
+Bass Unit / organizzazione feste / sound system / gerarchie informali.
 
 ## Identità
 
@@ -32,7 +32,7 @@ Elia lo conosce e lo evita quando può. Mazza può considerarlo un tecnico utile
 
 ## Arco
 
-Da figura minacciosa a uomo che non riesce a intervenire quando il debito cambia scala. Il suo fallimento serve a mostrare che la scena non può proteggere chi è esposto al Catasto Vero.
+Da figura minacciosa a uomo che non riesce a intervenire quando il debito cambia scala. Il suo fallimento serve a mostrare che la scena non può proteggere chi è esposto al sistema vero.
 
 ## Scene chiave
 
