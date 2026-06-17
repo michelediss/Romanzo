@@ -61,6 +61,21 @@ Questo rapporto non deve renderlo complice. Serve a far sentire la provenienza d
 
 Kek può essere uno dei pochi a spiegare a Elia che i Setola non sono centrali, ma non vanno nemmeno presi per comparse innocue.
 
+## Scena chiave: rissa coi fasci
+
+La loro apparizione più utile è la **rissa coi fasci**, collocata dopo la festa dei Black Convoy e prima della richiesta di Ari e Dile su Rami.
+
+In quella scena i Setola non devono diventare antagonisti centrali né vincere davvero. Devono funzionare come cambio di temperatura: entrano in un bar, o vengono nominati prima di entrare, e il luogo smette di essere neutro.
+
+La rissa può anche finire con i fasci respinti. Questo non li depotenzia. Al contrario: il loro valore narrativo sta nel lasciare paura dopo una sconfitta. Non comandano la piazza, ma tutti sanno che l’angolo dopo la piazza è un’altra cosa.
+
+La lama deve restare soprattutto possibilità:
+
+- uno dei Setola potrebbe averla in tasca;
+- qualcuno potrebbe dire di averla vista;
+- Kek potrebbe ricordare che con loro le botte diventano facilmente lame;
+- il lettore deve sentire che la scena avrebbe potuto farsi più grave senza bisogno di mostrarlo.
+
 ## Rischio narrativo
 
 Evitare tre errori:
@@ -76,6 +91,7 @@ La forma migliore: figure di sfondo, con apparizioni brevi e memorabili, più re
 - I loro nomi circolano prima della loro comparsa.
 - Kek li nomina per spiegare una zona o una memoria di strada.
 - Una scena di bar in cui uno dei due entra e cambia l’aria.
+- La rissa coi fasci come falsa chiarezza politica prima della linea Rami.
 - Un riferimento a una vecchia aggressione con coltello.
 - Presenza laterale durante una tensione politica, senza diventare il centro della trama.
 
@@ -93,3 +109,4 @@ La forma migliore: figure di sfondo, con apparizioni brevi e memorabili, più re
 - Uno dei due è più politico e l’altro più violento?
 - Appaiono in scena o restano quasi sempre nominati?
 - Hanno un legame con Mastantuono o è meglio tenere separati fascisti di strada e apparato?
+- Nella rissa coi fasci uno dei due mostra davvero una lama o resta solo una voce?
