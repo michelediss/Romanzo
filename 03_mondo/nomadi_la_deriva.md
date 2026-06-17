@@ -127,7 +127,7 @@ Non devono essere trattate come eroi, ma come presenza simbolica che incarna una
 
 Per Sara e Gab diventano quasi figure iniziatiche.  
 Per Zed diventano capitale simbolico.  
-Per De Bonis diventano un punto perfetto per chiudere una cornice pubblica.
+Per l'apparato senza volto diventano un punto perfetto per chiudere una cornice pubblica.
 
 ---
 
@@ -163,13 +163,13 @@ Proprio per questo Sara e Gab vanno da lui.
 
 ---
 
-## Rapporto con De Bonis
+## Rapporto con l'apparato senza volto
 
-De Bonis considera La Deriva meno leggibile di Presidio Sud.
+L'apparato considera La Deriva meno leggibile di Presidio Sud.
 
-Non ha sempre sedi stabili, non ha portavoce chiari, non ha liturgie pienamente istituzionalizzabili. Per questo è più facile da raccontare pubblicamente come zona grigia.
+Non ha sempre sedi stabili, non ha portavoce chiari, non ha liturgie pienamente istituzionalizzabili. Per questo è più facile raccontarla pubblicamente come zona grigia.
 
-La Deriva diventa il bersaglio ideale di una cornice che salda notte, marginalità, politica e sospetto.
+La Deriva diventa il bersaglio ideale di una cornice che salda notte, marginalità, politica e sospetto senza dover passare da un antagonista riconoscibile.
 
 ---
 
