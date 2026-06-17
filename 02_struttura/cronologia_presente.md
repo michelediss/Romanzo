@@ -17,8 +17,7 @@ Non parte da un grande evento, ma da piccoli spostamenti:
 - Rami prepara l’ultimo giro;
 - Nina regge una maschera;
 - Sarnelli fiuta una versione pubblica pericolosa;
-- Mastantuono stringe sulla linea rave come pista operativa;
-- De Bonis osserva la scena come rete;
+- l’apparato senza volto rende la linea rave una mappa osservabile;
 - i Fratelli Setola restano una minaccia laterale della destra di strada;
 - Corvo e Nurra restano prima racconto laterale, poi presenza concreta, poi conseguenza.
 
@@ -122,7 +121,7 @@ La festa deve essere narrata linearmente:
 5. crepa col sistema;
 6. chiamata alla polizia;
 7. vergogna e versioni;
-8. conseguenza investigativa.
+8. conseguenza istituzionale.
 
 Elementi decisivi:
 
@@ -132,8 +131,7 @@ Elementi decisivi:
 - Nina legge la festa senza romanticizzarla;
 - il sistema dimostra che la notte non è fuori dalla città;
 - i Black Convoy, davanti al sistema, chiamano la polizia;
-- Mastantuono può trasformare l’episodio in pista operativa;
-- De Bonis può leggerlo dopo come mappa di relazioni.
+- l’apparato senza volto trasforma l’episodio in materiale osservabile: targhe, nomi, furgoni, sostanze, relazioni.
 
 La festa non deve finire come tragedia immediata. Deve finire come esposizione: Bass Unit diventa osservabile, raccontabile, penetrabile.
 
@@ -267,13 +265,13 @@ Black Convoy ha reso Bass Unit raccontabile dall’esterno. La sparizione o il t
 
 ---
 
-### Giorno +11 — Mastantuono stringe, De Bonis legge
+### Giorno +11 — L’apparato stringe e legge
 
-Funzione: distinguere pressione operativa e intelligenza di rete.
+Funzione: mostrare la pressione istituzionale senza incarnarla in un antagonista riconoscibile.
 
-Mastantuono può occuparsi della pressione più sporca e diretta: controlli, minacce, interrogatori, ketamina, furgoni, contatti.
+La pressione arriva per effetti: controlli, minacce, domande ripetute, attenzione su ketamina, furgoni, contatti, versioni che cominciano a circolare.
 
-De Bonis non deve necessariamente fare il braccio operativo. Può essere più freddo: legge Black Convoy, Rami, Ari/Dile, Elia, Nina e Corvo/Nurra come una mappa di relazioni.
+L’apparato legge Black Convoy, Rami, Ari/Dile, Elia, Nina e Corvo/Nurra come una mappa di relazioni. Non deve però avere volto pieno, psicologia o scena autonoma.
 
 ---
 
@@ -335,7 +333,7 @@ Black Convoy era il centro della successione. Nina è il centro della perdita.
 
 Funzione: mostrare il dolore mentre diventa materiale narrativo e politico.
 
-Bass Unit perde compattezza. Le versioni esplodono. Sarnelli non sa cosa possa essere scritto senza tradirla. De Bonis capisce che il silenzio si è rotto.
+Bass Unit perde compattezza. Le versioni esplodono. Sarnelli non sa cosa possa essere scritto senza tradirla. L’apparato capisce che il silenzio si è rotto.
 
 Ari e Dile devono essere esposte alla contraddizione tra il loro bisogno di conseguenze reali e il prezzo reale delle conseguenze.
 
@@ -355,7 +353,7 @@ Può essere mostrato direttamente o tramite notizia, immagine, comunicato, voce.
 
 Funzione: epilogo morale.
 
-Presidio Sud, Deriva, Bass Unit, Sarnelli, Mastantuono, De Bonis, Ari, Dile, Boy, Elia e i Fratelli Setola restano ciascuno con una versione diversa.
+Presidio Sud, Deriva, Bass Unit, Sarnelli, l’apparato senza volto, Ari, Dile, Boy, Elia e i Fratelli Setola restano ciascuno con una versione diversa.
 
 Nessuna coincide con Nina intera.
 
@@ -384,7 +382,7 @@ Ogni scena del presente deve aumentare almeno una pressione:
 - pressione morale su Elia;
 - pressione politica su Ari e Dile;
 - pressione erotica e simbolica prodotta da Corvo e Nurra;
-- pressione istituzionale da Mastantuono e De Bonis;
+- pressione istituzionale dell’apparato senza volto;
 - pressione narrativa di Sarnelli;
 - pressione delle versioni;
 - pressione della visibilità prodotta da Black Convoy;
