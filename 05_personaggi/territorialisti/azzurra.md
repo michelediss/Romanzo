@@ -41,7 +41,7 @@ Da accusatrice di Elia a figura che rivela quanto la fedeltà sia diventata anch
 ## Scene chiave
 
 - Incontro teso con Elia a Presidio Sud.
-- Discussione sulla fase dei Beni Benedetti.
+- Discussione sulla fase dei beni comuni.
 - Ritorno della Battaglia attraverso una sua accusa.
 - Reazione alla morte di Nina e alla versione pubblica.
 
