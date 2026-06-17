@@ -42,67 +42,67 @@ Elia sa più di quanto dice a sé stesso.
 
 #### Funzione
 
-Mostrare che la colpa di Elia non nasce con Sara, Gab e Lale. Nasce prima.
+Mostrare che la colpa di Elia non nasce con Nina, Rami, Ari e Dile. Nasce prima.
 
 ---
 
-### 2.2 Chi è davvero Lale?
+### 2.2 Chi è davvero Rami?
 
 #### All’inizio
 
-Lale è leggenda bassa, affidabile, schiva.
+Rami è figura laterale, talentuosa, opaca: uno che passa nei mondi senza sembrare davvero di nessun mondo.
 
 #### Falsa lettura
 
-Il suo silenzio viene scambiato per serietà.
+Il suo silenzio viene scambiato per affidabilità.
 
 #### Correzione
 
-Il silenzio era anche strategia, distanza, preparazione della fuga.
+Il silenzio era anche calcolo, sottrazione, preparazione della fuga.
 
 #### Rivelazione
 
-- prima: Lale come ragazzo del giro;
-- poi: Lale come fidanzato di Cecilia;
-- poi: Lale come collettore di fiducia;
-- poi: Lale come uomo già compromesso;
-- infine: Lale come assenza scelta.
+- prima: Rami come ragazzo del giro;
+- poi: Rami come presenza legata a Nina;
+- poi: Rami come collettore di fiducia;
+- poi: Rami come uomo già compromesso;
+- infine: Rami come assenza scelta.
 
 #### Funzione
 
-Lale deve restare mai del tutto posseduto dal romanzo.
+Rami deve restare mai del tutto posseduto dal romanzo: non fantasma puro, ma buco nella trama.
 
 ---
 
-### 2.3 Cecilia sapeva?
+### 2.3 Nina sapeva?
 
 #### All’inizio
 
-Il lettore può pensare che Cecilia sia dentro il disastro ma non fino in fondo consapevole.
+Il lettore può pensare che Nina sia dentro il disastro ma non fino in fondo consapevole.
 
 #### Verità
 
-Cecilia sa. Non tutto, forse, ma abbastanza.
+Nina sa. Non tutto, forse, ma abbastanza.
 
 #### Rivelazione
 
 Deve arrivare tardi, ma non all’ultimissima scena.
 
-Quando Elia capisce che Cecilia sapeva, cambia la lettura di molte scene precedenti:
+Quando Elia capisce che Nina sapeva, cambia la lettura di molte scene precedenti:
 
 - il modo in cui contava;
 - il modo in cui reggeva la faccia;
-- il modo in cui parlava di Lale;
+- il modo in cui parlava di Rami;
 - il modo in cui restava visibile;
 - il modo in cui non chiedeva aiuto.
 
 #### Funzione
 
-Evitare che Cecilia sia vittima ingenua. Renderla tragica.
+Evitare che Nina sia vittima ingenua. Renderla tragica.
 
 ---
 
-### 2.4 Perché Cecilia resta?
+### 2.4 Perché Nina resta?
 
 #### Falsa lettura
 
@@ -110,10 +110,10 @@ Per amore, dipendenza, ingenuità o immobilità.
 
 #### Verità complessa
 
-Cecilia resta perché:
+Nina resta perché:
 
 - sparire significherebbe confessare;
-- pensa che cercheranno soprattutto Lale;
+- pensa che cercheranno soprattutto Rami;
 - crede di poter trattare;
 - crede nella propria reputazione;
 - non vuole perdere il corpo pubblico che si è costruita;
@@ -145,7 +145,7 @@ Il mito politico deve entrare anti-epicamente.
 
 ---
 
-### 2.6 Che cosa vogliono davvero Sara e Gab?
+### 2.6 Che cosa vogliono davvero Ari e Dile?
 
 #### Falsa lettura
 
@@ -161,15 +161,15 @@ La richiesta a Elia non deve sembrare stupida. Deve sembrare logica dentro la lo
 
 #### Funzione
 
-Sara e Gab non devono essere semplici pedine. Devono avere desiderio proprio.
+Ari e Dile non devono essere semplici pedine. Devono avere desiderio proprio.
 
 ---
 
-### 2.7 Che cosa vuole De Bonis?
+### 2.7 Che cosa vuole l’apparato senza volto?
 
 #### Falsa lettura
 
-Sembra interessato solo ai sardi o solo alla scena notturna.
+Sembra interessato solo ai sardi, alla scena notturna o a un singolo fatto da ordinare.
 
 #### Verità
 
@@ -179,11 +179,13 @@ Gli interessano le reti, le porte, i passaggi, le contiguità. Non gli basta un 
 
 #### Rivelazione
 
-De Bonis deve apparire prima come pressione laterale, poi come lettore freddo del sistema.
+L’apparato deve apparire prima come pressione laterale, poi come forza capace di leggere e ordinare il caos.
+
+Non deve diventare un antagonista-personaggio. Deve restare una presenza percepita attraverso carte, formule, telefonate, voci ufficiose, ricostruzioni che sembrano neutre e invece orientano.
 
 #### Funzione
 
-Renderlo più pericoloso di un antagonista violento: lui capisce come usare i fatti.
+Renderlo più pericoloso di un antagonista violento: non picchia la storia, la incornicia.
 
 ---
 
@@ -197,7 +199,7 @@ Sarnelli, essendo giornalista, dovrebbe poter raccontare la verità.
 
 Sarnelli può raccontare solo una forma parziale e rischiosa della verità.
 
-Se scrive troppo poco, tradisce Cecilia.  
+Se scrive troppo poco, tradisce Nina.  
 Se scrive male, la consegna alla versione pubblica dominante.  
 Se scrive tutto, non ha prove sufficienti o brucia persone.
 
@@ -209,16 +211,16 @@ Mostrare che anche la verità deontologica è impura quando entra nel mondo.
 
 ## 3. Cosa sa chi
 
-| Informazione | Elia | Cecilia | Lale | Sara/Gab | Sarnelli | De Bonis | Lettore |
+| Informazione | Elia | Nina | Rami | Ari/Dile | Sarnelli | Apparato | Lettore |
 |---|---|---|---|---|---|---|---|
 | La Battaglia ha rotto tutto | sì | parziale | parziale | parziale | sì | sì | subito |
 | Elia ha una colpa nella Battaglia | rimosso/parziale | forse no | no | no | forse | forse | tardi |
-| Lale è meno affidabile di quanto sembri | tardi | sì | sì | no | forse | forse | medio-tardi |
-| Cecilia sa del conto | no/tardi | sì | sì | no | forse | forse | tardi |
-| Sara/Gab vogliono aiutare i sardi | sì | forse | forse | sì | forse | tardi | medio |
+| Rami è meno affidabile di quanto sembri | tardi | sì | sì | no | forse | forse | medio-tardi |
+| Nina sa dell’ammanco/debito | no/tardi | sì | sì | no | forse | forse | tardi |
+| Ari/Dile vogliono aiutare i sardi | sì | forse | forse | sì | forse | tardi | medio |
 | I sardi sono passati davvero | tardi | forse | forse | sì | forse | sì/tardi | tardi |
-| De Bonis sta costruendo una cornice | no/tardi | no | no | no | sì | sì | medio |
-| La morte di Cecilia verrà usata nelle versioni pubbliche | no | no | assente | no | sì | sì | dopo |
+| L’apparato sta costruendo una cornice | no/tardi | no | no | no | sì | sì | medio |
+| La morte di Nina verrà usata nelle versioni pubbliche | no | no | assente | no | sì | sì | dopo |
 
 ---
 
@@ -245,16 +247,16 @@ Non rivelare:
 Rivelare:
 
 - il mondo spaccato;
-- Lale come figura affidabile;
-- Cecilia come presenza centrale;
-- Sara e Gab attratte da qualcosa di più radicale;
+- Rami come figura affidabile perché sottratta;
+- Nina come presenza centrale;
+- Ari e Dile attratte da qualcosa di più radicale;
 - Sarnelli come mentore uscito;
-- De Bonis come pressione laterale.
+- l’apparato come pressione laterale e senza volto.
 
 Non rivelare:
 
-- che Lale sta preparando la fuga;
-- che Cecilia sa;
+- che Rami sta preparando la fuga;
+- che Nina sa;
 - il peso vero dei sardi.
 
 ---
@@ -263,7 +265,7 @@ Non rivelare:
 
 Rivelare:
 
-- Sara e Gab chiedono accesso;
+- Ari e Dile chiedono accesso;
 - Elia garantisce;
 - Zed usa il mito;
 - il giro si allarga.
@@ -271,8 +273,8 @@ Rivelare:
 Non rivelare:
 
 - fino a che punto il denaro è già perso;
-- quanto Cecilia abbia capito;
-- quanto De Bonis stia leggendo la rete.
+- quanto Nina abbia capito;
+- quanto l’apparato stia leggendo la rete.
 
 ---
 
@@ -280,15 +282,15 @@ Non rivelare:
 
 Rivelare:
 
-- Lale raccoglie più del solito;
-- Cecilia è tesa in modo anomalo;
+- Rami raccoglie più del solito;
+- Nina è tesa in modo anomalo;
 - Sarnelli vede una cornice pubblica;
-- De Bonis guarda Elia come snodo.
+- l’apparato guarda Elia come snodo.
 
 Non rivelare ancora:
 
-- fuga definitiva di Lale;
-- piena consapevolezza di Cecilia;
+- fuga definitiva di Rami;
+- piena consapevolezza di Nina;
 - esito dei sardi.
 
 ---
@@ -297,8 +299,8 @@ Non rivelare ancora:
 
 Rivelare:
 
-- Lale è fuori mappa;
-- Cecilia sapeva;
+- Rami è fuori mappa;
+- Nina sapeva;
 - Elia ha garantito più di quanto voglia ammettere;
 - i sardi erano già vicini alla storia.
 
@@ -326,9 +328,9 @@ Rivelare:
 1. Non usare colpi di scena gratuiti.
 2. Ogni rivelazione deve cambiare il significato di almeno una scena precedente.
 3. Elia deve capire tardi, ma non sembrare stupido.
-4. Cecilia deve restare opaca, non inspiegabile.
-5. Lale deve restare assente, non evanescente.
-6. De Bonis deve sembrare freddo, non onnisciente.
+4. Nina deve restare opaca, non inspiegabile.
+5. Rami deve restare assente, non evanescente.
+6. L’apparato deve sembrare orientato, non onnisciente.
 7. Sarnelli deve sapere abbastanza da soffrire, non abbastanza da risolvere.
 8. I sardi devono pesare più come mito e conseguenza che come azione diretta.
 
@@ -336,21 +338,21 @@ Rivelare:
 
 ## 6. Rivelazioni da non anticipare troppo
 
-- Cecilia sapeva del conto.
-- Lale ha scelto la fuga.
+- Nina sapeva dell’ammanco/debito.
+- Rami ha scelto la fuga.
 - Elia ha una colpa specifica nella Battaglia.
-- De Bonis sta saldando più piani in una sola cornice.
-- La richiesta di Sara e Gab ha reso Elia garante di una catena più grande.
+- L’apparato sta saldando più piani in una sola cornice.
+- La richiesta di Ari e Dile ha reso Elia garante di una catena più grande.
 
 ---
 
 ## 7. Rivelazioni da seminare presto
 
-- Lale è attento a non lasciare tracce.
-- Cecilia non è mai ingenua.
-- Sara e Gab sono più determinate di quanto sembrino.
+- Rami è attento a non lasciare tracce.
+- Nina non è mai ingenua.
+- Ari e Dile sono più determinate di quanto sembrino.
 - Sarnelli non è un osservatore neutro.
-- De Bonis conosce già troppi nomi.
+- L’apparato conosce già troppi nomi.
 - Presidio Sud sa usare le versioni.
 - La Deriva sa usare il mito.
 
