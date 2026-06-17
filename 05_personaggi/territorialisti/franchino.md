@@ -32,7 +32,7 @@ Vecchia amicizia e conflitto. Si stimano perché si conoscono da prima delle ris
 
 ## Rapporto con i nomadi
 
-Li disprezza e li teme. Li considera irresponsabili, ma sa anche che la loro irresponsabilità conserva un fascino che Presidio Sud ha perso entrando nella fase dei Beni Benedetti.
+Li disprezza e li teme. Li considera irresponsabili, ma sa anche che la loro irresponsabilità conserva un fascino che Presidio Sud ha perso entrando nella fase dei beni comuni.
 
 ## Arco
 
@@ -43,7 +43,7 @@ Franchino sopravvive. La sua funzione non è cadere, ma mostrare come certi adul
 - Dialogo con Elia sulla Battaglia.
 - Scambio con Sarnelli.
 - Uso della voce su Corvo e Nurra per delegittimare La Deriva.
-- Reazione alla morte di Nina: dolore misurato, subito tradotto in versione.
+- Dopo Nina: dolore misurato, subito tradotto in versione.
 
 ## Frasi possibili
 
