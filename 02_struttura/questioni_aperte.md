@@ -59,7 +59,7 @@ Il punto non è necessariamente introdurre un debito economico, ma capire quale 
 ### Ipotesi da valutare
 
 - **Debito economico o pendenza materiale:** Elia deve soldi, sostanze, favori o restituzioni a qualcuno. Ipotesi efficace ma forse troppo meccanica/noir, rischia di spostare il romanzo verso il recupero crediti.
-- **Pressione da dipendenza:** Elia non deve denaro, ma tregua, lucidità, sostanze, oblio. Il corpo diventa il vincolo. Nina e Cecilia potrebbero funzionare come figure che vedono questa perdita di controllo.
+- **Pressione da dipendenza:** Elia non deve denaro, ma tregua, lucidità, sostanze, oblio. Il corpo diventa il vincolo. Nina potrebbe funzionare come figura che vede questa perdita di controllo.
 - **Pressione da vergogna:** Elia ha fatto qualcosa di piccolo e vile, o non è stato all'altezza di una prova precedente. La trama diventa il tentativo di riscattare quella ferita d'immagine.
 - **Pressione da promessa:** Elia ha promesso qualcosa a Nina, Boy o a un altro personaggio, senza essere davvero capace di mantenerlo. Potrebbe riguardare Rami, una protezione, una mediazione, una responsabilità assunta per vanità.
 - **Pressione abitativa/esistenziale:** Elia attraversa case, feste, bar e mondi perché non ha più un vero centro. La sua mobilità apparente nasconde precarietà e sradicamento.
@@ -71,7 +71,7 @@ Il punto non è necessariamente introdurre un debito economico, ma capire quale 
 
 Quale pressione rende Elia più attivo senza snaturarlo?
 
-La soluzione dovrebbe probabilmente essere **personale, non solo esterna**; concreta, ma non per forza economica; abbastanza vergognosa da non essere dichiarata subito; capace di attraversare Nina, Rami, Boy, Cecilia, Ari/Dile e la scena rave senza trasformare il romanzo in un thriller lineare.
+La soluzione dovrebbe probabilmente essere **personale, non solo esterna**; concreta, ma non per forza economica; abbastanza vergognosa da non essere dichiarata subito; capace di attraversare Nina, Rami, Boy, Ari/Dile e la scena rave senza trasformare il romanzo in un thriller lineare.
 
 ---
 
