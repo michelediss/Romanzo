@@ -20,7 +20,7 @@ La sua assenza deve essere più forte della sua presenza. Non va spiegato troppo
 
 - Età: da definire, probabilmente poco sopra Nina.
 - Origine: forestiero rispetto a Napoli, anche quando vi abita.
-- Ambiente: SubBasso, giro del fumo, artisti, raverz, contatti mobili.
+- Ambiente: Bass Unit, giro del fumo, artisti, raverz, contatti mobili.
 - Talento: disegno, osservazione, capacità di stare basso.
 
 ---
