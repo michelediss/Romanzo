@@ -4,7 +4,7 @@
 
 La relazione tra Elia, Ari e Dile racconta il punto in cui il desiderio privato di Elia si confonde con la sua funzione pubblica di ponte.
 
-Elia non conquista Ari e Dile. Viene incluso. Prima attraverso Boy, poi attraverso una richiesta pratica, infine attraverso una notte sessuale che lui vive come conferma e loro come sospensione. Il suo errore è trasformare quella sospensione in credito emotivo.
+Elia non conquista Ari e Dile. Viene incluso. Prima attraverso Boy, poi attraverso una rissa che sembra chiarire i campi, poi attraverso una richiesta pratica, infine attraverso una notte sessuale che lui vive come conferma e loro come sospensione. Il suo errore è trasformare quella sospensione in credito emotivo.
 
 Questa relazione serve a mostrare una delle leggi intime di Elia:
 
@@ -57,9 +57,23 @@ La festa diventa così un intermezzo che modifica Elia prima che Ari e Dile torn
 
 ---
 
+## Intermezzo: la rissa coi fasci
+
+Tra Black Convoy e la richiesta di Rami va collocata la rissa coi fasci.
+
+La rissa non deve nascere come scena erotica né come prova di valore. Serve a dare a Elia una falsa chiarezza. Dopo l'opacità di Black Convoy, il mondo torna per una notte a sembrare leggibile: compagni, fasci, bar, provocazione, botte, parte giusta e parte sbagliata.
+
+Ari e Dile possono essere presenti oppure ricevere la rissa come racconto. In entrambi i casi, non devono leggerla come conquista. Registrano però una cosa: Elia non è solo uno che conosce gente. È anche un corpo che, quando una situazione degenera, può restare dentro.
+
+Questa piccola consistenza non va sopravvalutata. Non fa nascere il desiderio. Non spiega la notte sessuale. Prepara però il terreno alla richiesta: Elia arriva da Ari e Dile con più adrenalina, più stanchezza, più voglia di credersi utile.
+
+Il punto è che la rissa gli ha appena offerto la forma più facile della responsabilità: stare dalla parte giusta contro un nemico leggibile. La richiesta di Rami gli offrirà invece la forma più sporca: garantire qualcuno senza poter essere innocente.
+
+---
+
 ## Secondo movimento: la richiesta di Rami
 
-Dopo Black Convoy, Elia rivede Ari e Dile. Bevono.
+Dopo Black Convoy e dopo la rissa coi fasci, Elia rivede Ari e Dile. Bevono.
 
 La richiesta a Elia emerge di lato, non come piano esplicito. Ari e Dile vogliono entrare in contatto con Rami per la questione del fumo e delle risorse da destinare alla latitanza. Non devono formulare la cosa in modo criminale o troppo tecnico. La cornice è politica, idealizzata, piena di omissioni.
 
@@ -221,6 +235,7 @@ Questo permette a Rami di funzionare come dispositivo alla Bernie: non la vittim
 
 - Ari e Dile non diventano le amanti di Elia.
 - Elia resta legato a loro da una notte che lui carica più di quanto loro facciano.
+- La rissa coi fasci gli dà una sicurezza sbagliata prima della richiesta di Rami.
 - La sua umiliazione anticipa il suo ruolo tragico: apre porte, ma altri entrano con più forza di lui.
 - La richiesta verso Rami rende la relazione non solo erotica, ma strutturale alla rovina successiva.
 - La mancata consegna di Rami trasforma Elia da mediatore ingenuo a complice morale.
@@ -247,6 +262,8 @@ Questo permette a Rami di funzionare come dispositivo alla Bernie: non la vittim
 ## Questioni aperte
 
 - La notte sessuale va narrata direttamente o lasciata ellittica, attraverso il mattino dopo?
+- Ari e Dile assistono alla rissa coi fasci o la ricevono come racconto?
+- La rissa lascia un segno fisico su Elia visibile nella scena successiva?
 - Ari o Dile mostra più tenerezza verso Elia dopo il mancato bis?
 - Boy conosce già i dettagli o li deduce dalla faccia di Elia?
 - Quanto Elia collega subito la notte con la richiesta a Rami, e quanto lo capisce solo dopo la sparizione?
