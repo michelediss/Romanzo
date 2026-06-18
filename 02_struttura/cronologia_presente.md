@@ -24,9 +24,11 @@ Non parte da un grande evento, ma da piccoli spostamenti:
 
 La regola principale è questa:
 
-> Black Convoy sta al centro cronologico; Nina sta al centro emotivo.
+> Black Convoy sta al centro cronologico; Nina sta al centro emotivo; la Battaglia sta all’origine morale; Rami è il buco narrativo; Zed è la leva; Elia è la porta che si credeva passaggio neutro.
 
 La festa dei Black Convoy non deve rubare il climax a Nina. Deve però cambiare la leggibilità del romanzo: dopo quella notte, Bass Unit non è più soltanto un luogo attraversabile, ma un nodo osservabile da polizia, stampa, collettivi, sistema e personaggi.
+
+La Battaglia, invece, è il debito rimosso che permette a Zed di usare Elia senza ricattarlo frontalmente. Elia non deve soldi ai nomadi: deve loro il silenzio sulla propria vigliaccheria. Per comprarlo, offre Rami.
 
 ---
 
@@ -71,7 +73,7 @@ Elementi:
 - Boy come unico personaggio che può ridere della tragedia senza alleggerirla davvero;
 - Zed e Mano Lesta come detentori obliqui di una verità su Elia che i territorialisti ignorano o rimuovono.
 
-In questa fase la Battaglia deve pesare come memoria collettiva, non come evento da spiegare subito.
+In questa fase la Battaglia deve pesare come memoria collettiva, non come evento da spiegare subito. La viltà di Elia non va enunciata subito: deve circolare come una vibrazione sbagliata nei suoi passaggi con i nomadi.
 
 ---
 
@@ -165,7 +167,7 @@ Questa piccola statura fisica e politica prepara male Elia: lo rende più dispos
 
 ---
 
-### Giorno +2 — Zed chiede soldi, poi richiesta, Rami, notte
+### Giorno +2 — Zed chiede soldi, Ari/Dile fanno propria la richiesta, Rami, notte
 
 Funzione: concentrare in una sola serata la pressione dei nomadi su Elia, il rientro di Black Convoy e della rissa nella linea Elia/Ari/Dile, il peccato attuale di Elia, l’accesso a Rami e la notte sessuale.
 
@@ -181,11 +183,15 @@ Possibili frasi:
 
 > Fai una cosa utile, per una volta.
 
+La richiesta di soldi non deve esplicitare subito Corvo e Nurra. Zed lascia intendere che servono risorse per una cosa seria, politica, non più gestibile con il rituale delle collette. Il nome dei sardi resta in ombra: come mito, urgenza, debito di movimento, non ancora come incarico chiaro.
+
 Dopo Black Convoy e dopo la rissa coi fasci, Elia porta addosso due notti diverse: una opaca, sistemica, più grande di lui; l’altra fisica, tribale, apparentemente leggibile. È stanco, eccitato, sporco di racconto. Si sente più dentro gli ambienti di quanto sia davvero.
 
 Quando rivede Ari e Dile, racconta pezzi della festa e della rissa, oppure torna con addosso una scena che loro hanno visto in parte. Loro ascoltano, lo prendono in giro, ne colgono il fascino e la ridicolaggine. Black Convoy modifica Elia come corpo rave; la rissa lo modifica come corpo politico. La pressione di Zed modifica Elia come corpo ricattabile.
 
-Dentro questa stessa serata emerge la richiesta. Deve uscire di lato, non come piano criminale esplicito. La cornice è politica, idealizzata, piena di omissioni:
+Dentro questa stessa serata emerge la richiesta. Deve uscire di lato, non come piano criminale esplicito. Zed non ordina ad Ari e Dile di eseguire: orienta il loro desiderio di realtà. Ari e Dile fanno propria la cosa perché vogliono uscire dal simbolico, dalla colletta, dalla parola, dalla posa.
+
+La cornice è politica, idealizzata, piena di omissioni:
 
 > Ci serve un modo per raccogliere soldi fuori dalle solite collette.
 
@@ -221,7 +227,7 @@ Rami comincia a raccogliere fiducia e credito. Ari e Dile restano normali con El
 
 Elia interpreta male quella normalità. Non sa come insistere senza diventare ridicolo.
 
-Zed può registrare che il passaggio funziona. Mano Lesta può disprezzare ancora di più Elia proprio perché lo vede provare a comprare credibilità con un contatto.
+Zed registra che il passaggio funziona. Non ringrazia Elia: lo lascia credere utile. Mano Lesta può disprezzare ancora di più Elia proprio perché lo vede provare a comprare credibilità con un contatto.
 
 Nina può già percepire che qualcosa, nel giro di Rami, non è pulito come sembra. Non deve però diventare subito la persona che spiega tutto.
 
@@ -415,17 +421,18 @@ La linea Elia/Ari/Dile deve scandire il romanzo intorno a Black Convoy in questo
 1. Boy presenta Elia ad Ari e Dile: non succede nulla.
 2. Black Convoy modifica Elia, non Ari e Dile.
 3. La rissa coi fasci offre a Elia una falsa chiarezza: sembra basti capire da che parte stare.
-4. Zed chiede a Elia di trovare soldi veri, usando implicitamente il debito della Battaglia.
+4. Zed chiede a Elia di trovare soldi veri, usando implicitamente il debito della Battaglia e senza esplicitare subito Corvo e Nurra.
 5. Dopo Black Convoy, dopo la rissa e dopo la pressione di Zed, Elia porta addosso davanti ad Ari e Dile un misto di racconto, stanchezza, adrenalina, paura e sicurezza sbagliata.
-6. Nella stessa serata Ari e Dile chiedono l’accesso a Rami.
-7. Nella stessa serata Elia rende possibile l’incontro con Rami.
-8. Nella stessa serata l’incontro con Rami va bene.
-9. Nella stessa serata avviene la notte sessuale come sospensione dopo il passaggio riuscito.
-10. Elia trasforma quella sospensione in credito emotivo.
-11. Ari e Dile non concedono il bis.
-12. Nella stessa sera del mancato bis, Corvo e Nurra entrano come soglia più forte di Elia.
-13. Nella stessa sera, Boy nomina il ridicolo di Elia senza consolarlo.
-14. Rami sporca retroattivamente la notte.
-15. Elia capisce troppo tardi che aveva scambiato il passaggio per appartenenza.
+6. Zed orienta Ari e Dile verso una prova reale, ma loro fanno propria la richiesta: non sono esecutrici passive.
+7. Nella stessa serata Ari e Dile chiedono l’accesso a Rami.
+8. Nella stessa serata Elia rende possibile l’incontro con Rami.
+9. Nella stessa serata l’incontro con Rami va bene.
+10. Nella stessa serata avviene la notte sessuale come sospensione dopo il passaggio riuscito.
+11. Elia trasforma quella sospensione in credito emotivo.
+12. Ari e Dile non concedono il bis.
+13. Nella stessa sera del mancato bis, Corvo e Nurra entrano come soglia più forte di Elia.
+14. Nella stessa sera, Boy nomina il ridicolo di Elia senza consolarlo.
+15. Rami sporca retroattivamente la notte.
+16. Elia capisce troppo tardi che aveva scambiato il passaggio per appartenenza.
 
 Questa linea non è una sottotrama sentimentale. È una struttura di responsabilità.
