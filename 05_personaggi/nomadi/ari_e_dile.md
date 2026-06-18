@@ -12,6 +12,8 @@ Cercano una politica che non sembri amministrata, compatibile, ridotta a comunic
 
 Il loro errore non nasce da stupidità. Nasce da una logica precisa: se la scena muove già denaro, fiducia, sostanze, passaggi e protezioni informali, allora forse quella stessa economia può essere piegata a qualcosa di più grande.
 
+Nella nuova catena del debito, Ari e Dile non inventano da sole il bisogno di soldi. Zed crea la cornice e orienta il desiderio: servono risorse vere, fuori dalle collette, per una cosa seria. Elia offre il passaggio verso Rami. Ari e Dile fanno propria la richiesta perché vedono in quel passaggio la possibilità di smettere di assistere.
+
 La loro traiettoria deve mostrare il punto in cui desiderio politico, desiderio erotico e desiderio di appartenenza diventano indistinguibili.
 
 ---
@@ -108,6 +110,20 @@ Boy può capire prima di Elia quando la fascinazione di Ari e Dile per Corvo e N
 
 ---
 
+## Rapporto con Zed
+
+Zed non inventa il loro desiderio, ma lo orienta. Capisce che Ari e Dile vogliono una prova di realtà e usa questa fame per spingerle verso la raccolta di soldi e la rete di sostegno a Corvo e Nurra.
+
+La sua influenza deve restare ambigua. Non deve dire loro cosa fare come un capo. Deve formulare la necessità in modo che Ari e Dile possano riconoscersi nella scelta.
+
+Possibile frase di Zed:
+
+> Voi volete fare qualcosa di reale, no? Ecco. Questa è reale.
+
+Ari e Dile devono restare responsabili: Zed crea la cornice, ma sono loro a trasformarla in azione.
+
+---
+
 ## Rapporto con Elia
 
 Elia è per loro un ponte praticabile.
@@ -117,7 +133,7 @@ Elia è per loro un ponte praticabile.
 La relazione con Elia ha due piani:
 
 - **erotico-narcisistico:** dopo la festa dei Black Convoy, Ari e Dile finiscono a letto con Elia; per lui è una notte di centralità, per loro una sospensione, uno scarico, una confidenza non destinata a diventare possesso;
-- **materiale-politico:** chiedono a Elia di metterle in contatto con Rami per la questione del fumo e delle risorse da destinare alla latitanza.
+- **materiale-politico:** chiedono a Elia di metterle in contatto con Rami per la questione del fumo e delle risorse da destinare alla latitanza, dentro una cornice già orientata da Zed e dal bisogno della Deriva di trovare soldi veri.
 
 Elia scambia il passaggio per appartenenza. Dopo l'incontro sessuale spera in un bis. Ari e Dile, invece, hanno già spostato il proprio desiderio verso Corvo e Nurra: non solo desiderio erotico, ma desiderio di mito, rischio, irreversibilità.
 
@@ -129,10 +145,14 @@ Rami entra nella loro traiettoria come soluzione pratica.
 
 Ari e Dile non gli chiedono semplicemente "fumo". Gli chiedono, attraverso Elia, un accesso a un'economia informale che potrebbe produrre risorse. La richiesta deve restare ambigua, politicamente giustificata, non formulata come piano criminale esplicito.
 
+La differenza rispetto alla vecchia ipotesi è che la richiesta non nasce dal nulla e non nasce solo dalla loro fascinazione privata: Zed ha già creato la necessità, Elia ha bisogno di rendersi utile ai nomadi, Rami appare come il contatto capace di trasformare quel bisogno in flusso materiale.
+
 Dile dovrebbe essere quella che misura il rischio della richiesta. Ari quella che la accende, che la rende necessaria, quasi inevitabile.
 
 Possibile dinamica:
 
+- Zed nomina il bisogno di soldi veri;
+- Elia propone Rami come accesso possibile;
 - Ari formula il bisogno in termini politici;
 - Dile chiede dettagli pratici;
 - Elia garantisce Rami perché lo considera affidabile;
@@ -156,7 +176,7 @@ Il loro spostamento verso Corvo e Nurra deve ferire Elia non perché Elia venga 
 
 Da entusiasmo politico a disincanto sporco.
 
-Ari e Dile partono dal desiderio di fare qualcosa di vero. Passano attraverso Elia, Rami, Corvo e Nurra. Scoprono che la politica delle conseguenze non è mai pura: attraversa debiti privati, vanità adulte, fughe individuali, economie contaminate.
+Ari e Dile partono dal desiderio di fare qualcosa di vero. Passano attraverso Zed, Elia, Rami, Corvo e Nurra. Scoprono che la politica delle conseguenze non è mai pura: attraversa debiti privati, vanità adulte, fughe individuali, economie contaminate.
 
 Non devono diventare "cretine che si sono fatte usare". Devono restare tragiche: due ragazze intelligenti che volevano smettere di assistere e hanno scoperto troppo tardi che essere dentro significa anche essere usate.
 
@@ -166,6 +186,7 @@ Non devono diventare "cretine che si sono fatte usare". Devono restare tragiche:
 
 - Boy presenta Ari e Dile a Elia: curiosità, sfottò, nessun sesso.
 - Ari e Dile non partecipano alla festa dei Black Convoy.
+- Zed orienta Ari e Dile verso l'idea che sostenere Corvo e Nurra richieda soldi veri, non solo collette.
 - Dopo Black Convoy, Ari e Dile rivedono Elia: bevono, chiedono il passaggio verso Rami, l'incontro va bene, la notte scivola nel sesso.
 - Elia spera in un bis; Ari e Dile non glielo concedono.
 - Ari e Dile entrano nell'orbita di Corvo e Nurra.
