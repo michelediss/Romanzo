@@ -1,9 +1,15 @@
 # Sinossi breve
 
-Napoli, primi anni 2010. La scena antagonista è uscita spezzata da una battaglia tra collettivi: da una parte i territorialisti di Presidio Sud, cresciuti dentro la stagione di San Giggino e dei Beni Benedetti; dall’altra i nomadi della Deriva, rimasti fuori dalla nuova agibilità istituzionale e sempre più attratti dal mito dell’irreversibile.
+> Sintesi operativa del romanzo. Da aggiornare quando cambia il motore causale principale.
 
-Elia, ex territorialista diventato tecnico visual e frequentatore dei rave, è uno dei pochi capaci di attraversare ancora tutti gli ambienti. Proprio per questo Sara e Gab, due giovani della Deriva affascinate da due latitanti sardi, gli chiedono di farle entrare nel giro del fumo di Lale, così da raccogliere soldi per finanziare la latitanza.
+---
 
-Lale, disegnatore schivo e portatore di un fumo marocchino quasi leggendario, è però già compromesso. Con Cecilia, sua fidanzata e figura carismatica di SubBasso, ha contratto un ammanco legato alla cocaina del sistema. Cecilia sa tutto, ma decide di restare a Napoli; Lale invece usa l’ultimo giro per fuggire.
+Elia è un ragazzo dei territorialisti, cresciuto nella stagione dei collettivi di quartiere e delle promesse di trasformazione urbana, ma ormai incapace di appartenere davvero a un solo mondo. Passa da Presidio Sud alla Deriva, dalla scena rave di Bass Unit ai bar notturni, da Nina a Boy, da Ari e Dile a Rami, continuando a raccontarsi che attraversare ambienti significhi essere libero.
 
-Mentre la scena prova a non nominare il disastro, De Bonis, capo Digos, usa informalmente la pista della ketamina e il legame tra rave, nomadi e latitanza per costruire una cornice di delegittimazione politica. Dopo la morte di Cecilia, il patto di silenzio si rompe. De Bonis arriva ai sardi, che vengono arrestati. Elia resta con una verità colpevole e inutilizzabile.
+In realtà Elia è già compromesso. Durante la Battaglia, lo scontro che ha spezzato il fronte tra territorialisti e nomadi, ha avuto un cedimento: non è stato all’altezza della versione che poi circola su di lui. Presidio Sud non lo sa, o non vuole saperlo. Alcuni nomadi sì. Zed e Mano Lesta conservano quella verità come una lama tenuta in tasca: non ricattano Elia apertamente, ma gli fanno capire che la sua reputazione dipende anche dal loro silenzio.
+
+Quando Zed gli chiede di aiutare La Deriva a trovare soldi veri, fuori dalle solite collette, Elia vede l’occasione per rendersi utile e rimettere a tacere la propria vergogna. Propone Rami, ragazzo opaco e silenzioso della scena rave, come accesso a un giro del fumo capace di produrre denaro. Ari e Dile fanno propria la richiesta: per loro non è solo un traffico, ma una prova concreta di fedeltà al mito di Corvo e Nurra, i due sardi che incarnano una soglia politica ed erotica più radicale.
+
+Il passaggio sembra funzionare. Elia si sente di nuovo necessario; Ari e Dile gli concedono una notte di centralità che lui confonde con una promessa; Nina resta il corpo più lucido e più esposto della scena; Rami raccoglie fiducia proprio perché non sembra chiederla. Intanto la festa dei Black Convoy trasforma Bass Unit in un luogo osservabile, raccontabile, penetrabile dall’apparato senza volto.
+
+Quando il giro salta, Rami sparisce e Nina resta dentro la conseguenza. Elia dovrebbe consegnare Rami, o almeno dire la verità. Invece ripete la colpa originaria: si sfila, copre, rimanda, lascia che altri paghino il prezzo della sua utilità. La morte di Nina diventa il centro emotivo del romanzo: non una punizione, ma la prova che tutti i codici intorno a lei — amicizia, politica, reputazione, scena, desiderio — hanno fallito. Alla fine non resta da scoprire chi sia il colpevole, ma chi abbia reso possibile il disastro e quando abbia smesso di poter dire che non lo sapeva.
