@@ -12,11 +12,14 @@ La domanda della relazione è:
 
 Con Rami, questa relazione trova il suo test materiale: non basta desiderare il rischio, bisogna decidere chi paga quando il rischio diventa debito, fuga e menzogna.
 
+La nuova soluzione chiarisce l'innesco: la richiesta materiale non nasce solo dalla fascinazione di Ari e Dile. Zed crea la cornice, il debito morale di Elia con i nomadi rende Elia manovrabile, e Rami diventa la porta che Elia offre per restare utile.
+
 ---
 
 ## Configurazione iniziale
 
 - **Ari e Dile** gravitano intorno alla Deriva e desiderano smettere di essere spettatrici.
+- **Zed** orienta il loro desiderio di realtà e usa il mito di Corvo e Nurra come prova.
 - **Corvo e Nurra** arrivano come figure sarde, legate alla latitanza, al rischio e a una radicalità già compromessa con la vita materiale.
 - **Elia e Rami** restano sullo sfondo operativo: il passaggio verso il giro del fumo e delle risorse viene trattato nella relazione `elia_ari_dile.md`, ma qui importa la sua ricaduta politica ed emotiva.
 
@@ -100,9 +103,11 @@ Questa scena rende visibile il passaggio:
 
 La fascinazione per Corvo e Nurra produce una richiesta concreta: servono risorse, discrezione, passaggi, soldi fuori dalle collette ordinarie.
 
+Ma la richiesta non nasce in modo puro. Zed la orienta. Dice, direttamente o indirettamente, che se una cosa è seria richiede soldi veri, non solo parole e collette. Elia, messo sotto pressione dal debito morale con la Deriva, propone Rami come accesso al giro del fumo.
+
 Ari e Dile non devono formulare la richiesta come un piano criminale esplicito. La raccontano a sé stesse come necessità politica. Il lessico è quello della cura, del sostegno, della responsabilità verso chi ha attraversato una soglia.
 
-Ma la richiesta entra in una rete sporca: fumo, fiducia informale, debiti, Rami, garanzie di Elia.
+Ma la richiesta entra in una rete sporca: Zed, Mano Lesta, fumo, fiducia informale, debiti, Rami, garanzie di Elia.
 
 Il dettaglio operativo sta nella relazione `elia_ari_dile.md`; qui conta l'origine emotiva e politica della richiesta:
 
@@ -139,7 +144,8 @@ Per loro Rami è meno una persona che un rischio:
 - se qualcuno lo copre, la rete è compromessa;
 - se Nina resta esposta, può parlare o essere usata;
 - se Elia mente, allora Elia non è più solo un contatto utile;
-- se Ari e Dile non reggono la pressione, la loro devozione diventa pericolosa.
+- se Ari e Dile non reggono la pressione, la loro devozione diventa pericolosa;
+- se Zed parla troppo o troppo poco, la Deriva può trasformare il sostegno in versione.
 
 Corvo e Nurra possono quindi chiedere conto a Elia non per crudeltà, ma per necessità:
 
@@ -153,7 +159,7 @@ Questo sposta Rami da assenza a prova di lealtà.
 
 Ciò che nasce come sostegno politico entra in una rete non controllabile.
 
-Il mito di Corvo e Nurra spinge Ari e Dile a chiedere un passaggio materiale. Il passaggio materiale passa per Elia. Elia garantisce Rami. Rami diventa il punto in cui la fiducia si trasforma in fuga, debito, tradimento, sparizione e ricatto.
+Il mito di Corvo e Nurra spinge Zed a nominare una necessità materiale. Ari e Dile la fanno propria perché desiderano una politica con conseguenze. Il passaggio materiale passa per Elia. Elia garantisce Rami perché vuole essere utile e perché la Deriva possiede una parte vergognosa di lui. Rami diventa il punto in cui la fiducia si trasforma in fuga, debito, tradimento, sparizione e ricatto.
 
 La svolta più grave non è soltanto che Rami sparisce. È che Elia lo trova e non lo consegna. Da quel momento il problema non è più solo operativo: diventa morale e narrativo. Tutti possono sospettare che qualcuno sappia più di quanto dice.
 
@@ -168,7 +174,7 @@ Ari e Dile non sono semplicemente ingannate: partecipano alla costruzione del pr
 - La rete che doveva proteggere diventa rumorosa.
 - Corvo e Nurra vengono esposti non da un singolo tradimento, ma da un sistema di relazioni che nessuno controlla più.
 - Rami diventa il nome su cui tutti misurano la lealtà degli altri.
-- Ari e Dile devono decidere se accusare Elia, Rami, i due sardi, la Deriva o sé stesse.
+- Ari e Dile devono decidere se accusare Elia, Rami, i due sardi, Zed, la Deriva o sé stesse.
 
 ---
 
