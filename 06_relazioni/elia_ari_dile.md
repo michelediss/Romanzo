@@ -6,6 +6,8 @@ La relazione tra Elia, Ari e Dile racconta il punto in cui il desiderio privato 
 
 Elia non conquista Ari e Dile. Viene incluso. Prima attraverso Boy, poi attraverso una rissa che sembra chiarire i campi, poi attraverso una richiesta pratica, infine attraverso una notte sessuale che lui vive come conferma e loro come sospensione. Il suo errore è trasformare quella sospensione in credito emotivo.
 
+La nuova soluzione sul debito rende questa relazione più strutturale: Elia non porta Rami solo perché Ari e Dile glielo chiedono. Lo porta perché Zed e la Deriva gli hanno chiesto di trovare soldi veri, e perché lui deve comprare, senza dirlo, il silenzio sulla propria viltà nella Battaglia.
+
 Questa relazione serve a mostrare una delle leggi intime di Elia:
 
 > Elia scambia il passaggio per appartenenza.
@@ -21,6 +23,8 @@ Con Rami, questa legge diventa più dura:
 - **Elia** è già una figura capace di passare tra ambienti diversi: territorialisti, raverz, bar, contatti, amicizie laterali.
 - **Ari e Dile** gravitano intorno alla Deriva: giovani, intelligenti, desiderose di una politica che produca conseguenze reali.
 - **Boy** è il detonatore della conoscenza: presenta Elia alle due ragazze, ma non organizza né controlla ciò che seguirà.
+- **Zed** orienta il desiderio di Ari e Dile e usa il debito morale di Elia come leva obliqua.
+- **Mano Lesta** conserva, o incarna, la memoria rancorosa della viltà di Elia durante la Battaglia.
 - **Rami** entrerà come passaggio materiale: giro del fumo, affidabilità apparente, possibilità di raccogliere risorse. Non sarà solo il contatto che sparisce, ma la prova vivente della responsabilità di Elia.
 
 La relazione non deve partire come una traiettoria erotica evidente. All'inizio Ari e Dile osservano Elia più di quanto lo desiderino. Lo trovano utile, strano, forse tenero, forse ridicolo nel suo modo di conoscere tutti senza appartenere mai del tutto.
@@ -71,9 +75,31 @@ Il punto è che la rissa gli ha appena offerto la forma più facile della respon
 
 ---
 
+## Antecedente: Zed chiede soldi a Elia
+
+Prima della richiesta di Ari e Dile, Zed deve aver già messo Elia sotto pressione.
+
+Non gli dice apertamente:
+
+> So che sei stato un vigliacco alla Battaglia.
+
+Gli dice qualcosa che Elia capisce lo stesso:
+
+> A noi servono soldi. Non collette, soldi veri.
+
+> Tu certe cose le sai sistemare, no?
+
+> Fai una cosa utile, per una volta.
+
+Mano Lesta può essere presente o evocato. La sua funzione è rendere fisica la minaccia: Elia sente che qualcuno nella Deriva ricorda, o crede di ricordare, il momento in cui lui non è rimasto dentro la Battaglia come poi ha lasciato intendere.
+
+Da qui nasce la prima scelta sporca di Elia: proporre Rami come porta praticabile.
+
+---
+
 ## Secondo movimento: la richiesta di Rami
 
-Dopo Black Convoy e dopo la rissa coi fasci, Elia rivede Ari e Dile. Bevono.
+Dopo Black Convoy, dopo la rissa coi fasci e dopo la pressione di Zed, Elia rivede Ari e Dile. Bevono.
 
 La richiesta a Elia emerge di lato, non come piano esplicito. Ari e Dile vogliono entrare in contatto con Rami per la questione del fumo e delle risorse da destinare alla latitanza. Non devono formulare la cosa in modo criminale o troppo tecnico. La cornice è politica, idealizzata, piena di omissioni.
 
@@ -89,7 +115,7 @@ Elia capisce abbastanza da sapere che è una richiesta delicata, ma non abbastan
 
 Questa è la prima garanzia.
 
-La sua colpa non è organizzare tutto. La sua colpa è rendere possibile il passaggio.
+La sua colpa non è organizzare tutto. La sua colpa è rendere possibile il passaggio. E adesso quel passaggio non nasce solo dal desiderio di Ari e Dile: nasce anche dal bisogno di Elia di restare utile ai nomadi che conoscono il suo punto debole.
 
 ---
 
@@ -132,6 +158,8 @@ La sua illusione è sottile:
 Ma Ari e Dile non gli hanno promesso niente. Non gli hanno concesso un posto. Lo hanno incluso in una notte.
 
 Il problema è che Elia non applica questo errore solo al desiderio. Lo applica anche alla responsabilità: avendo fatto da ponte, si racconta di non aver scelto davvero. Invece ha scelto eccome.
+
+Il debito con la Deriva aggrava l'errore: Elia non garantisce Rami da posizione libera. Lo garantisce perché vuole dimostrare a Zed, Mano Lesta e a sé stesso di non essere l'uomo piccolo intravisto nella Battaglia.
 
 ---
 
@@ -201,7 +229,7 @@ ma:
 
 ## La seconda garanzia: Elia trova Rami
 
-Dopo l'ammanco, la consegna saltata o la promessa tradita, Ari e Dile non possono più trattare Rami come un semplice contatto. Corvo e Nurra possono voler chiudere il debito. Nina resta esposta. Elia, che lo ha garantito, viene tirato dentro.
+Dopo l'ammanco, la consegna saltata o la promessa tradita, Ari e Dile non possono più trattare Rami come un semplice contatto. Corvo e Nurra possono voler chiudere il debito. Zed deve evitare che la rete faccia troppo rumore. Mano Lesta vuole che qualcuno paghi con il corpo. Nina resta esposta. Elia, che lo ha indicato e garantito, viene tirato dentro.
 
 Il punto di pressione è semplice:
 
@@ -229,6 +257,8 @@ Può mandare una voce attraverso Nina, lasciare un disegno, far arrivare una fra
 
 Questo permette a Rami di funzionare come dispositivo alla Bernie: non la vittima grata che viene risparmiata, ma il sopravvissuto che usa la pietà di Elia contro Elia.
 
+La frase colpisce di più perché dice due cose insieme: senza Elia Rami non sarebbe entrato nel giro; senza la paura di Elia davanti ai nomadi, forse Elia non lo avrebbe garantito così in fretta.
+
 ---
 
 ## Esito della relazione
@@ -236,6 +266,7 @@ Questo permette a Rami di funzionare come dispositivo alla Bernie: non la vittim
 - Ari e Dile non diventano le amanti di Elia.
 - Elia resta legato a loro da una notte che lui carica più di quanto loro facciano.
 - La rissa coi fasci gli dà una sicurezza sbagliata prima della richiesta di Rami.
+- Il debito con la Deriva lo spinge a cercare una soluzione e a proporre Rami.
 - La sua umiliazione anticipa il suo ruolo tragico: apre porte, ma altri entrano con più forza di lui.
 - La richiesta verso Rami rende la relazione non solo erotica, ma strutturale alla rovina successiva.
 - La mancata consegna di Rami trasforma Elia da mediatore ingenuo a complice morale.
@@ -257,6 +288,8 @@ Questo permette a Rami di funzionare come dispositivo alla Bernie: non la vittim
 
 > Non lo salvò perché gli credeva. Lo salvò perché consegnarlo avrebbe detto troppo anche di lui.
 
+> Non stava pagando un debito. Stava comprando il diritto di non sentirsi chiamare vigliacco.
+
 ---
 
 ## Questioni aperte
@@ -264,9 +297,11 @@ Questo permette a Rami di funzionare come dispositivo alla Bernie: non la vittim
 - La notte sessuale va narrata direttamente o lasciata ellittica, attraverso il mattino dopo?
 - Ari e Dile assistono alla rissa coi fasci o la ricevono come racconto?
 - La rissa lascia un segno fisico su Elia visibile nella scena successiva?
+- Zed è presente nella scena della richiesta o resta fuori campo?
+- Mano Lesta allude direttamente alla Battaglia o basta il suo sguardo?
 - Ari o Dile mostra più tenerezza verso Elia dopo il mancato bis?
 - Boy conosce già i dettagli o li deduce dalla faccia di Elia?
 - Quanto Elia collega subito la notte con la richiesta a Rami, e quanto lo capisce solo dopo la sparizione?
-- Chi chiede a Elia di trovare Rami: Ari, Dile, Corvo, Nurra o Nina?
+- Chi chiede a Elia di trovare Rami: Ari, Dile, Corvo, Nurra, Zed o Mano Lesta?
 - La scena in cui Elia trova Rami avviene prima o dopo l'esposizione pubblica dell'ammanco?
 - Ari e Dile scoprono che Elia ha mentito su Rami o restano nel sospetto?
