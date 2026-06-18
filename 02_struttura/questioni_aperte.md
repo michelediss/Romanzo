@@ -52,26 +52,59 @@ Questa soluzione permetterebbe di conservare il radicamento materiale del romanz
 
 ## Pressione personale di Elia
 
-Resta aperta la questione del **motore personale** di Elia: rispetto a modelli noir come *Miller's Crossing*, Elia rischia di muoversi soprattutto per desiderio, curiosità, appartenenza instabile e attrazione verso i mondi che attraversa, senza una pressione privata abbastanza forte da impedirgli di essere solo un osservatore/mobile mediatore.
+### Decisione provvisoria
 
-Il punto non è necessariamente introdurre un debito economico, ma capire quale forma di pressione possa togliere libertà a Elia e costringerlo a scegliere male, mentire, rimandare, cercare riparazioni o inseguire conferme.
+Il motore personale di Elia non deve essere un debito con Nina. La soluzione più forte, al momento, è un **debito morale e reputazionale con l'ambiente dei nomadi / La Deriva**, detenuto soprattutto da **Zed** e **Mano Lesta**.
 
-### Ipotesi da valutare
+Durante la Battaglia Elia si è comportato da vigliacco, o comunque non è stato all'altezza della versione che poi circola di lui. I territorialisti non lo sanno, oppure non vogliono saperlo. Alcuni nomadi sì: Mano Lesta ha visto o capito qualcosa; Zed sa trasformare quella conoscenza in leva.
 
-- **Debito economico o pendenza materiale:** Elia deve soldi, sostanze, favori o restituzioni a qualcuno. Ipotesi efficace ma forse troppo meccanica/noir, rischia di spostare il romanzo verso il recupero crediti.
-- **Pressione da dipendenza:** Elia non deve denaro, ma tregua, lucidità, sostanze, oblio. Il corpo diventa il vincolo. Nina potrebbe funzionare come figura che vede questa perdita di controllo.
-- **Pressione da vergogna:** Elia ha fatto qualcosa di piccolo e vile, o non è stato all'altezza di una prova precedente. La trama diventa il tentativo di riscattare quella ferita d'immagine.
-- **Pressione da promessa:** Elia ha promesso qualcosa a Nina, Boy o a un altro personaggio, senza essere davvero capace di mantenerlo. Potrebbe riguardare Rami, una protezione, una mediazione, una responsabilità assunta per vanità.
-- **Pressione abitativa/esistenziale:** Elia attraversa case, feste, bar e mondi perché non ha più un vero centro. La sua mobilità apparente nasconde precarietà e sradicamento.
-- **Pressione erotico-narcisistica:** Elia deve dimostrare di non essere ridicolo, accessorio, scavalcabile. La ferita con Ari e Dile/Corvo e Nurra potrebbe diventare un motore, ma da sola rischia di restare troppo psicologica.
-- **Pressione politica:** Elia viene costretto a scegliere campo, mentre la sua identità si fonda proprio sull'ambiguità e sulla possibilità di attraversare i gruppi senza appartenere del tutto a nessuno.
-- **Pressione da segreto:** Elia sa qualcosa che non dovrebbe sapere, o capisce un nesso tra mondi che restano separati. La conoscenza diventa responsabilità, ricatto potenziale o colpa per omissione.
+La pressione su Elia non è:
 
-### Domanda aperta
+> mi devi soldi.
 
-Quale pressione rende Elia più attivo senza snaturarlo?
+È:
 
-La soluzione dovrebbe probabilmente essere **personale, non solo esterna**; concreta, ma non per forza economica; abbastanza vergognosa da non essere dichiarata subito; capace di attraversare Nina, Rami, Boy, Ari/Dile e la scena rave senza trasformare il romanzo in un thriller lineare.
+> noi sappiamo che non sei quello che i tuoi credono.
+
+Questo debito funziona perché toglie a Elia la libertà di essere solo un attraversatore. Quando passa dalla Deriva non è mai completamente libero: è tollerato, utile, ma anche ricattabile in modo non detto.
+
+### Catena narrativa scelta
+
+- nella Battaglia Elia ha avuto un cedimento morale;
+- i territorialisti continuano a leggerlo come uno dei loro;
+- Zed e Mano Lesta sanno che quella versione è parziale;
+- Zed non lo ricatta frontalmente, ma gli chiede di rendersi utile;
+- la richiesta prende la forma: **aiutaci a trovare soldi veri**, fuori dalle collette e dalle posture;
+- Zed non esplicita subito che i soldi servono a sostenere Corvo e Nurra;
+- Elia, per coprire la propria fragilità e restare necessario, propone l'accesso al giro del fumo di Rami;
+- Zed accetta e orienta Ari e Dile verso la cosa;
+- Ari e Dile non sono esecutrici passive: fanno propria la richiesta perché desiderano una prova reale;
+- Rami entra come soluzione pratica;
+- quando il giro salta, Elia non è una vittima collaterale: è colui che ha indicato la porta.
+
+### Funzione
+
+Questa soluzione collega:
+
+- la Battaglia;
+- la frattura territorialisti / nomadi;
+- Zed come cattivo maestro;
+- Mano Lesta come memoria rancorosa della viltà di Elia;
+- Ari e Dile come desiderio di irreversibilità;
+- Corvo e Nurra come mito che chiede contabilità;
+- Rami come passaggio materiale;
+- Nina come corpo che resta esposto quando il giro si rompe.
+
+Formula guida:
+
+> Elia non deve soldi ai nomadi. Deve loro il silenzio sulla propria vigliaccheria.
+
+### Cose da evitare
+
+- Non trasformare Zed in mastermind onnisciente: deve orientare, non controllare tutto.
+- Non trasformare Mano Lesta in semplice bruto: deve essere la memoria fisica e rancorosa di ciò che Elia vorrebbe dimenticare.
+- Non rendere Ari e Dile passive: devono scegliere, desiderare, sbagliare attivamente.
+- Non fare di Nina la detentrice del debito: Nina deve restare conseguenza, controcampo emotivo e corpo esposto, non creditrice narrativa primaria.
 
 ---
 
@@ -85,14 +118,19 @@ Che cosa ha fatto Elia durante la Battaglia che lo rende ancora attraversabile, 
 
 Il nodo resta valido e va conservato. Non deve diventare una rivelazione poliziesca, né una colpa penale troppo definita. Deve restare una colpa morale, politica e relazionale.
 
+La nuova direzione è che la Battaglia fonda il debito di Elia con i nomadi.
+
 Ipotesi compatibile con l'impianto attuale:
 
-- Elia ha visto un gesto grave;
-- ha aiutato qualcuno dell'altra parte;
-- ha contribuito a una versione pubblica parziale;
-- ha salvato la propria posizione di uomo di mezzo;
-- ha protetto Boy, o ha lasciato credere di averlo protetto;
-- ha trasformato l'amicizia in omissione.
+- Elia vede un gesto grave e non resta fino in fondo;
+- lascia che qualcun altro si prenda il rischio fisico o politico;
+- contribuisce, dopo, a una versione pubblica parziale;
+- salva la propria posizione di uomo di mezzo;
+- protegge Boy, o lascia credere di averlo protetto;
+- trasforma l'amicizia in omissione;
+- i territorialisti non conoscono tutta la scena;
+- Mano Lesta vede o capisce abbastanza da disprezzarlo;
+- Zed conserva quella conoscenza come leva.
 
 ### Da decidere
 
@@ -104,6 +142,8 @@ Ipotesi compatibile con l'impianto attuale:
 - Franchino lo sa?
 - Sarnelli sospetta qualcosa?
 - Nina intuisce che Elia usa le parole della politica per non scegliere?
+- Mano Lesta ha visto direttamente la viltà di Elia o la ricostruisce dopo?
+- Zed sa per testimonianza diretta, per Mano Lesta o per voci della Deriva?
 - Quanto la Battaglia deve tornare come trauma dichiarato e quanto come sfondo deformante?
 
 ### Regola
@@ -156,6 +196,8 @@ Rami fugge. Non deve ricomparire fisicamente nel finale.
 
 Rami è il MacGuffin vivente del romanzo: ciò che tutti nominano, cercano, ricordano, accusano, ma che resta parzialmente fuori campo. Non è soltanto il ragazzo che sparisce. È il ragazzo che Elia lascia sparire.
 
+Il suo ingresso nel giro non nasce più da una semplice richiesta di Ari e Dile: nasce dalla pressione dei nomadi su Elia. Zed chiede soldi, Elia propone Rami, Ari e Dile trasformano la soluzione pratica in prova politica.
+
 ### Da decidere
 
 - Quando decide davvero di tradire tutti?
@@ -168,7 +210,7 @@ Rami è il MacGuffin vivente del romanzo: ciò che tutti nominano, cercano, rico
 - Elia lo rivede una sola volta o più volte?
 - La scena della mancata consegna avviene prima o dopo il confronto tra Elia e Nina?
 - Quanto Rami ricatta Elia in modo esplicito e quanto basta una sua traccia?
-- Chi, tra Ari, Dile, Corvo e Nurra, capisce per primo che Elia sta mentendo su Rami?
+- Chi, tra Ari, Dile, Corvo, Nurra, Zed e Mano Lesta, capisce per primo che Elia sta mentendo su Rami?
 - Il lettore deve sapere dove sia davvero?
 
 ### Regola
@@ -194,6 +236,8 @@ Chi delle due spinge davvero per entrare nel giro di Rami?
 ### Stato attuale
 
 Il nodo resta valido, ma va aggiornato: Ari e Dile non sono semplicemente sedotte da Rami o da Corvo e Nurra. Sono due personaggi intelligenti, desideranti, attraversati dal bisogno che la politica produca conseguenze reali.
+
+La richiesta verso Rami viene orientata da Zed e resa praticabile da Elia, ma Ari e Dile devono farla propria. Non devono essere esecutrici passive: il loro errore nasce dal desiderio attivo di trasformare mito, latitanza e solidarietà in qualcosa che produca conseguenze reali.
 
 La loro funzione non è “farsi usare”, ma mostrare il punto in cui desiderio politico, desiderio erotico e desiderio di appartenenza diventano indistinguibili.
 
