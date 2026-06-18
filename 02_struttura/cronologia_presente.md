@@ -13,6 +13,7 @@ Il presente del romanzo deve sembrare già compromesso quando comincia.
 Non parte da un grande evento, ma da piccoli spostamenti:
 
 - Elia attraversa ambienti che non si parlano più;
+- Zed e Mano Lesta conservano una conoscenza sporca sulla Battaglia;
 - Ari e Dile cercano un accesso;
 - Rami prepara l’ultimo giro;
 - Nina regge una maschera;
@@ -67,7 +68,8 @@ Elementi:
 - nomadi più rancorosi;
 - Bass Unit come zona apparentemente più libera;
 - Elia ancora capace di entrare dappertutto;
-- Boy come unico personaggio che può ridere della tragedia senza alleggerirla davvero.
+- Boy come unico personaggio che può ridere della tragedia senza alleggerirla davvero;
+- Zed e Mano Lesta come detentori obliqui di una verità su Elia che i territorialisti ignorano o rimuovono.
 
 In questa fase la Battaglia deve pesare come memoria collettiva, non come evento da spiegare subito.
 
@@ -163,15 +165,25 @@ Questa piccola statura fisica e politica prepara male Elia: lo rende più dispos
 
 ---
 
-### Giorno +2 — Dopo la rissa: racconto, richiesta, Rami, notte
+### Giorno +2 — Zed chiede soldi, poi richiesta, Rami, notte
 
-Funzione: concentrare in una sola serata il rientro di Black Convoy e della rissa nella linea Elia/Ari/Dile, il peccato attuale di Elia, l’accesso a Rami e la notte sessuale.
+Funzione: concentrare in una sola serata la pressione dei nomadi su Elia, il rientro di Black Convoy e della rissa nella linea Elia/Ari/Dile, il peccato attuale di Elia, l’accesso a Rami e la notte sessuale.
 
-Questa sequenza non va distribuita su più giorni. Deve avere la forma di una serata che scivola da una cosa all’altra, senza che nessuno possa dire esattamente quando il racconto diventa richiesta, quando la richiesta diventa passaggio e quando il passaggio diventa intimità.
+Questa sequenza non va distribuita su più giorni. Deve avere la forma di una serata che scivola da una cosa all’altra, senza che nessuno possa dire esattamente quando il ricatto implicito diventa favore, quando il favore diventa richiesta, quando la richiesta diventa passaggio e quando il passaggio diventa intimità.
+
+Prima o all'inizio della serata, Zed mette Elia sotto pressione. Non gli dice apertamente che sa della Battaglia, ma gli fa sentire che la Deriva conosce la sua crepa. Mano Lesta può essere presente, oppure restare come ombra evocata.
+
+Possibili frasi:
+
+> A noi servono soldi. Non collette, soldi veri.
+
+> Tu certe cose le sai sistemare, no?
+
+> Fai una cosa utile, per una volta.
 
 Dopo Black Convoy e dopo la rissa coi fasci, Elia porta addosso due notti diverse: una opaca, sistemica, più grande di lui; l’altra fisica, tribale, apparentemente leggibile. È stanco, eccitato, sporco di racconto. Si sente più dentro gli ambienti di quanto sia davvero.
 
-Quando rivede Ari e Dile, racconta pezzi della festa e della rissa, oppure torna con addosso una scena che loro hanno visto in parte. Loro ascoltano, lo prendono in giro, ne colgono il fascino e la ridicolaggine. Black Convoy modifica Elia come corpo rave; la rissa lo modifica come corpo politico. Entrambe le cose lo preparano all’errore.
+Quando rivede Ari e Dile, racconta pezzi della festa e della rissa, oppure torna con addosso una scena che loro hanno visto in parte. Loro ascoltano, lo prendono in giro, ne colgono il fascino e la ridicolaggine. Black Convoy modifica Elia come corpo rave; la rissa lo modifica come corpo politico. La pressione di Zed modifica Elia come corpo ricattabile.
 
 Dentro questa stessa serata emerge la richiesta. Deve uscire di lato, non come piano criminale esplicito. La cornice è politica, idealizzata, piena di omissioni:
 
@@ -179,7 +191,7 @@ Dentro questa stessa serata emerge la richiesta. Deve uscire di lato, non come p
 
 Elia capisce abbastanza da sapere che è una richiesta delicata, ma non abbastanza da fermarsi. Garantisce Rami perché Rami gli sembra affidabile: schivo, silenzioso, non teatrale.
 
-La sua colpa non è organizzare tutto. La sua colpa è rendere possibile il passaggio.
+La sua colpa non è organizzare tutto. La sua colpa è rendere possibile il passaggio. La radice della colpa, però, è più sporca: propone Rami anche perché ha bisogno di restare utile ai nomadi che possiedono il silenzio sulla sua viltà.
 
 La serata continua verso Rami. Elia presenta Ari e Dile a Rami, oppure rende possibile un incontro immediato, quasi naturale: un altro posto, un altro bar, una casa, una macchina, una telefonata che diventa appuntamento.
 
@@ -197,7 +209,7 @@ Questa differenza è decisiva.
 
 Elia non pensa razionalmente che Ari e Dile siano sue. Però trasforma quella notte in credito emotivo, in promessa non detta, in porta che potrà riaprire.
 
-La compressione temporale è importante: Elia non ha il tempo di distinguere desiderio, fiducia, racconto e responsabilità. Tutto gli arriva addosso come una stessa corrente. Per questo, più avanti, non riuscirà a separare la propria colpa dal proprio desiderio.
+La compressione temporale è importante: Elia non ha il tempo di distinguere desiderio, fiducia, racconto, ricatto e responsabilità. Tutto gli arriva addosso come una stessa corrente. Per questo, più avanti, non riuscirà a separare la propria colpa dal proprio desiderio.
 
 ---
 
@@ -208,6 +220,8 @@ Funzione: lasciare che l’errore di Elia maturi.
 Rami comincia a raccogliere fiducia e credito. Ari e Dile restano normali con Elia: affettuose, complici, magari fisicamente confidenti, ma senza riaprire la possibilità sessuale.
 
 Elia interpreta male quella normalità. Non sa come insistere senza diventare ridicolo.
+
+Zed può registrare che il passaggio funziona. Mano Lesta può disprezzare ancora di più Elia proprio perché lo vede provare a comprare credibilità con un contatto.
 
 Nina può già percepire che qualcosa, nel giro di Rami, non è pulito come sembra. Non deve però diventare subito la persona che spiega tutto.
 
@@ -293,7 +307,7 @@ All’inizio sembra un ritardo. Poi le spiegazioni diventano troppe.
 
 Nina non si comporta come una persona sorpresa.
 
-Per Elia, la sparizione di Rami sporca retroattivamente tutto: la richiesta di Ari e Dile, l’incontro riuscito, la notte sessuale, il suo bisogno di sentirsi assolto dal desiderio.
+Per Elia, la sparizione di Rami sporca retroattivamente tutto: la pressione di Zed, la richiesta di Ari e Dile, l’incontro riuscito, la notte sessuale, il suo bisogno di sentirsi assolto dal desiderio.
 
 ---
 
@@ -380,6 +394,7 @@ Ogni scena del presente deve aumentare almeno una pressione:
 
 - pressione su Nina e Rami;
 - pressione morale su Elia;
+- pressione di Zed e Mano Lesta sul debito della Battaglia;
 - pressione politica su Ari e Dile;
 - pressione erotica e simbolica prodotta da Corvo e Nurra;
 - pressione istituzionale dell’apparato senza volto;
@@ -400,16 +415,17 @@ La linea Elia/Ari/Dile deve scandire il romanzo intorno a Black Convoy in questo
 1. Boy presenta Elia ad Ari e Dile: non succede nulla.
 2. Black Convoy modifica Elia, non Ari e Dile.
 3. La rissa coi fasci offre a Elia una falsa chiarezza: sembra basti capire da che parte stare.
-4. Dopo Black Convoy e dopo la rissa, Elia porta addosso davanti ad Ari e Dile un misto di racconto, stanchezza, adrenalina e sicurezza sbagliata.
-5. Nella stessa serata Ari e Dile chiedono l’accesso a Rami.
-6. Nella stessa serata Elia rende possibile l’incontro con Rami.
-7. Nella stessa serata l’incontro con Rami va bene.
-8. Nella stessa serata avviene la notte sessuale come sospensione dopo il passaggio riuscito.
-9. Elia trasforma quella sospensione in credito emotivo.
-10. Ari e Dile non concedono il bis.
-11. Nella stessa sera del mancato bis, Corvo e Nurra entrano come soglia più forte di Elia.
-12. Nella stessa sera, Boy nomina il ridicolo di Elia senza consolarlo.
-13. Rami sporca retroattivamente la notte.
-14. Elia capisce troppo tardi che aveva scambiato il passaggio per appartenenza.
+4. Zed chiede a Elia di trovare soldi veri, usando implicitamente il debito della Battaglia.
+5. Dopo Black Convoy, dopo la rissa e dopo la pressione di Zed, Elia porta addosso davanti ad Ari e Dile un misto di racconto, stanchezza, adrenalina, paura e sicurezza sbagliata.
+6. Nella stessa serata Ari e Dile chiedono l’accesso a Rami.
+7. Nella stessa serata Elia rende possibile l’incontro con Rami.
+8. Nella stessa serata l’incontro con Rami va bene.
+9. Nella stessa serata avviene la notte sessuale come sospensione dopo il passaggio riuscito.
+10. Elia trasforma quella sospensione in credito emotivo.
+11. Ari e Dile non concedono il bis.
+12. Nella stessa sera del mancato bis, Corvo e Nurra entrano come soglia più forte di Elia.
+13. Nella stessa sera, Boy nomina il ridicolo di Elia senza consolarlo.
+14. Rami sporca retroattivamente la notte.
+15. Elia capisce troppo tardi che aveva scambiato il passaggio per appartenenza.
 
 Questa linea non è una sottotrama sentimentale. È una struttura di responsabilità.
