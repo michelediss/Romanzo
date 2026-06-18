@@ -15,11 +15,13 @@ La sua posizione non nasce da neutralità. Elia ha un’appartenenza: viene dai 
 Questa doppia intimità è centrale:
 
 - Boy gli apre la contraddizione politica: amicizia con il nemico;
-- Nina gli apre la contraddizione notturna: desiderio, sostanze, rave, strada, debito.
+- Nina gli apre la contraddizione notturna: desiderio, sostanze, rave, strada, reputazione.
+
+La nuova pressione personale di Elia nasce però da un terzo punto: **la Deriva sa qualcosa di lui**. Durante la Battaglia Elia ha avuto un cedimento morale, o comunque non è stato all'altezza della versione che circola tra i territorialisti. Zed e Mano Lesta lo sanno, o sanno abbastanza da usarlo.
 
 Domanda centrale:
 
-> che cosa succede quando l’amicizia continua a passare dove la politica ha dichiarato il confine e la notte finge di non avere conseguenze?
+> che cosa succede quando l’amicizia continua a passare dove la politica ha dichiarato il confine, la notte finge di non avere conseguenze e qualcuno conosce il punto esatto in cui sei stato vigliacco?
 
 ---
 
@@ -56,6 +58,8 @@ Presidio Sud gli dà:
 
 La sua ambiguità non consiste nel non appartenere a nessuno. Consiste nell’appartenere a un mondo e continuare a desiderarne altri.
 
+Dopo la Battaglia, Presidio Sud conserva una versione di Elia che non coincide del tutto con ciò che alcuni nomadi hanno visto. Questo scarto è il suo debito segreto: Elia gode ancora di un credito politico che potrebbe perdere se la Deriva decidesse di parlare.
+
 Nina vede questa appartenenza con scetticismo. Ai suoi occhi Elia è intelligente, sensibile, capace di guardare, ma ancora troppo disposto a prendere sul serio gente che parla troppo di linea, territorio, assemblea, fase, purezza, responsabilità.
 
 ---
@@ -86,6 +90,27 @@ Boy non è la coscienza morale di Elia. È il suo doppio rivale: più anarchico,
 Possibile frase su di loro:
 
 > Elia e Boy erano migliori amici nel modo peggiore possibile: ognuno rendeva impossibile all’altro credere fino in fondo alla propria parte.
+
+---
+
+## Rapporto con la Deriva, Zed e Mano Lesta
+
+La Deriva tollera Elia perché passa dove altri non passano. È amico di Boy, conosce persone di Presidio Sud, frequenta Bass Unit, ha accessi nella scena rave e può parlare con mondi che tra loro si disprezzano.
+
+Questa tolleranza però non è libertà.
+
+Zed e Mano Lesta possiedono, in modi diversi, una parte vergognosa di Elia:
+
+- **Mano Lesta** è la memoria fisica: ha visto, o capito, il cedimento di Elia durante la Battaglia;
+- **Zed** è l'uso strategico di quella memoria: non ricatta frontalmente Elia, ma gli fa capire che deve rendersi utile.
+
+Il debito di Elia con i nomadi non è economico. È reputazionale e morale.
+
+Formula:
+
+> Elia non deve soldi ai nomadi. Deve loro il silenzio sulla propria vigliaccheria.
+
+Quando Zed gli chiede di aiutare a trovare soldi veri, Elia non può rispondere come se fosse libero. Propone Rami perché vuole restare attraversabile, utile, non sputtanabile.
 
 ---
 
@@ -138,6 +163,8 @@ Nina non gli offre una terza ideologia. Gli offre un giudizio più crudo:
 
 > Voi fate i comunicati. Io vedo chi abbassa gli occhi quando deve pagare.
 
+Nina non deve essere la detentrice principale del debito di Elia. Deve restare la persona che vede le conseguenze materiali dei giochi politici, delle garanzie e delle vigliaccherie altrui.
+
 ---
 
 ## Rapporto con la notte e le sostanze
@@ -181,9 +208,12 @@ Elia teme che ogni scelta definitiva lo trasformi in qualcosa di falso:
 - un collaboratore;
 - un adulto;
 - uno che ha sacrificato l’amicizia a una linea politica;
-- uno che ha trasformato Nina in una storia troppo tardi.
+- uno che ha trasformato Nina in una storia troppo tardi;
+- uno che, nella Battaglia, non è rimasto dove avrebbe dovuto.
 
 Teme anche che scegliere Presidio Sud significhi perdere Boy, che scegliere Boy significhi perdere il credito politico, e che guardare davvero Nina significhi riconoscere quanto poco la conosceva mentre credeva di conoscerla meglio degli altri.
+
+La paura più attiva, però, è che i nomadi possano dire ad alta voce ciò che lui tiene sepolto: che la sua immagine pubblica non coincide con il suo comportamento nella Battaglia.
 
 ---
 
@@ -195,7 +225,9 @@ Nel presente facilita contatti, rassicura, presenta persone, traduce mondi, abba
 
 Ma ogni garanzia produce debito.
 
-Nel presente garantisce Rami e facilita l’ingresso di Ari e Dile nel giro dell’ultimo viaggio. Nel passato della Battaglia ha probabilmente visto, coperto, mediato o minimizzato qualcosa che riguarda Presidio Sud, La Deriva, o la sua amicizia con Boy.
+Nel passato della Battaglia ha probabilmente visto, coperto, mediato o minimizzato qualcosa che riguarda Presidio Sud, La Deriva, o la sua amicizia con Boy. I territorialisti non lo sanno davvero. Zed e Mano Lesta sì, o sanno abbastanza da farglielo pesare.
+
+Nel presente, quando Zed gli chiede di trovare soldi veri, Elia propone Rami e facilita l’ingresso di Ari e Dile nel giro dell’ultimo viaggio. Non lo fa solo per desiderio di mediazione: lo fa perché vuole riparare, o coprire, la propria viltà.
 
 Con Nina la colpa è ancora più intima: Elia crede di conoscerla perché hanno vissuto insieme, perché hanno consumato insieme, perché lei lo ha portato nella scena, perché tra loro c’è stata una tensione mai detta. Ma conoscere una persona nei suoi rituali non significa capire il livello reale del suo pericolo.
 
@@ -213,12 +245,16 @@ Prima, Elia e Boy possono essere letti come eccezione tollerata: due ragazzi che
 
 Dopo la Battaglia, ogni legame diventa informazione.
 
+Il nodo ora è più preciso: durante la Battaglia Elia ha avuto un cedimento che Presidio Sud non conosce o rimuove. La Deriva invece ne conserva traccia. Mano Lesta può aver visto direttamente il momento; Zed può averlo saputo dopo e usarlo meglio di chi lo ha visto.
+
 Nina, che guarda la politica da fuori e la giudica con disprezzo pratico, può essere una delle poche persone che non prende sul serio le giustificazioni di Elia. Non perché sappia tutto, ma perché capisce quando qualcuno usa le parole per non scegliere.
 
 Domande da mantenere aperte:
 
 - Elia ha protetto Boy?
 - Boy ha protetto Elia?
+- Mano Lesta ha visto direttamente la scena?
+- Zed sa per voce di Mano Lesta o per ricostruzione propria?
 - Nina sa cosa è successo davvero durante la Battaglia?
 - Nina ha mai preso in giro Elia per la sua fedeltà intermittente a Presidio Sud?
 - Durante la Battaglia, Elia ha scelto la parte, l’amico o la propria posizione?
@@ -228,10 +264,11 @@ Domande da mantenere aperte:
 ## Rapporto con le trame
 
 - **Con Nina:** amicizia, ex convivenza, intimità di consumo, tensione erotica mai risolta. Lei lo introduce nei rave e gli dà legittimità in Bass Unit.
-- **Con Rami:** Elia lo conosce anche attraverso Nina. Il suo giudizio su Rami è condizionato dalla fiducia che ha nel mondo di Nina.
+- **Con Rami:** Elia lo conosce anche attraverso Nina. Il suo giudizio su Rami è condizionato dalla fiducia che ha nel mondo di Nina, ma la sua decisione di proporlo nasce anche dalla pressione di Zed e dal debito con i nomadi.
 - **Con Ari/Dile/Corvo e Nurra:** è il ponte che rende possibile il contatto. Crede di fare una mediazione minima; in realtà apre una catena di credito e responsabilità.
 - **Con Boy:** è il legame emotivo e politico che precede molte altre mediazioni. Boy gli permette accesso e contraddizione.
 - **Con la Battaglia:** è un reduce ambiguo, non pacificato, troppo interno per essere innocente e troppo legato a Boy per essere completamente allineato.
+- **Con Zed e Mano Lesta:** è un uomo ricattabile senza ricatto esplicito: loro sanno, o lasciano intendere di sapere, che la sua immagine è falsa.
 - **Con l’apparato senza volto:** è uno snodo leggibile, uno che collega ambienti diversi senza sembrare un capo.
 - **Con Sarnelli:** è l’allievo che non ha imparato fino in fondo la responsabilità dello sguardo e del montaggio.
 
@@ -242,6 +279,8 @@ Domande da mantenere aperte:
 All’inizio Elia pensa che avere amici in mondi rivali sia una prova di libertà.
 
 Poi capisce che ogni amicizia, in un ambiente spaccato, diventa una forma di garanzia. Uscire con Boy non è solo uscire con Boy. Avere vissuto con Nina non significa sapere cosa può sopportare. Conoscere Ari e Dile non è solo conoscere Ari e Dile. Dire “Rami è serio” non è solo una frase.
+
+La pressione di Zed e Mano Lesta gli fa credere di poter riparare una vecchia vigliaccheria con un passaggio utile. Invece produce una nuova colpa.
 
 Alla fine capisce che stare in mezzo non significa essere innocente. Significa essere attraversato da responsabilità che nessuno ha verbalizzato.
 
@@ -273,9 +312,17 @@ Nina porta Elia a Bass Unit. Lui non entra nella scena da osservatore sociologic
 
 Elia è nel suo elemento: visual, cavi, casse, confusione, persone che lo cercano. Boy è con lui ma non appartiene alla scena. Nina, invece, appartiene eccome. Il contrasto tra Boy e Nina definisce due poli della vita di Elia.
 
+### Zed chiede soldi
+
+Zed chiede a Elia di aiutare a trovare soldi veri per una cosa seria. Non esplicita subito Corvo e Nurra. Non esplicita la Battaglia. Ma la frase contiene entrambe le cose.
+
+Possibile frase:
+
+> Fai una cosa utile, per una volta.
+
 ### Richiesta di Ari e Dile
 
-Elia pensa di poter garantire perché è abituato a passare da un mondo all’altro. L’amicizia con Boy gli ha insegnato che i confini possono essere attraversati; Nina gli ha insegnato che la notte ha codici propri. Non ha ancora capito che alcuni attraversamenti producono conseguenze.
+Elia pensa di poter garantire perché è abituato a passare da un mondo all’altro. L’amicizia con Boy gli ha insegnato che i confini possono essere attraversati; Nina gli ha insegnato che la notte ha codici propri. Zed e Mano Lesta gli hanno appena ricordato che attraversare non significa essere libero.
 
 ### Dopo la morte di Nina
 
@@ -295,6 +342,10 @@ Elia cerca una versione, una responsabilità, un montaggio. Rischia di trasforma
 
 > Stare in mezzo gli era sempre sembrata una forma di innocenza. Era solo una forma di credito.
 
+> Non doveva soldi ai nomadi. Doveva loro il silenzio.
+
+> Rami fu il modo in cui Elia provò a non sentirsi più quello della Battaglia.
+
 ---
 
 ## Rischi
@@ -303,6 +354,8 @@ Elia cerca una versione, una responsabilità, un montaggio. Rischia di trasforma
 - Farlo diventare semplicemente ex militante: correggere, il suo legame con Presidio Sud resta attivo o comunque riconosciuto.
 - Far dipendere tutto da Boy: Boy è fondamentale, ma Elia resta protagonista autonomo.
 - Far dipendere tutto da Nina: Nina è fondamentale per la notte e per Bass Unit, ma Elia ha anche una vita politica e un’amicizia centrale con Boy.
+- Rendere Zed un burattinaio totale: Zed deve orientare, non controllare tutto.
+- Rendere Mano Lesta solo minaccia fisica: deve essere anche rancore sociale, memoria e domanda di dignità.
 - Rendere la tensione con Nina melodrammatica: deve restare sospesa, concreta, non romantica in senso convenzionale.
 - Rendere l’amicizia con Boy troppo simbolica: deve sembrare prima di tutto vera, fisica, quotidiana, fatta di uscite e bevute.
 - Moralizzare il consumo di sostanze: serve a definire differenze di postura, intimità e rischio, non a distribuire colpe.
@@ -317,5 +370,7 @@ Elia cerca una versione, una responsabilità, un montaggio. Rischia di trasforma
 - Che cosa ha fatto esattamente Elia durante la Battaglia?
 - In che modo la sua amicizia con Boy viene letta da Presidio Sud?
 - In che modo La Deriva tollera o usa la presenza di Elia?
+- Zed quanto sa davvero della Battaglia?
+- Mano Lesta ha visto direttamente il cedimento di Elia?
 - Nina ha mai detto a Elia apertamente cosa pensa della sua politica?
 - Alla fine Elia trasforma Nina in archivio, in colpa, in mito o riesce a conservarla come persona?
