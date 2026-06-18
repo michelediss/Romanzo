@@ -69,9 +69,13 @@ Tra loro non deve esserci solo romanticismo tossico. Ci sono affari, orgoglio, d
 
 Elia lo considera affidabile perché Rami sa stare basso. Questa affidabilità è una forma di fascino. Elia lo garantisce proprio perché Rami sembra meno teatrale degli altri.
 
-La prima colpa di Elia è garantire Rami.
+La nuova catena rende la garanzia più sporca: Elia non propone Rami solo per leggerezza o perché Ari e Dile glielo chiedono. Lo propone perché Zed gli ha chiesto di aiutare i nomadi a trovare soldi veri, e perché Elia ha bisogno di rendersi utile alla Deriva per coprire una vecchia viltà della Battaglia.
 
-La seconda, più grave, è coprirlo quando ormai la garanzia è crollata.
+La prima colpa di Elia è indicare Rami come porta praticabile.
+
+La seconda colpa è garantirlo davanti ad Ari, Dile e alla Deriva.
+
+La terza, più grave, è coprirlo quando ormai la garanzia è crollata.
 
 A un certo punto Elia deve avere la possibilità di chiudere il problema: consegnare Rami, sputtanarlo, dire dove si trova, impedirgli di partire, ammettere agli altri di averlo visto. Invece lo lascia andare, o lascia che gli altri credano di non averlo trovato.
 
@@ -81,13 +85,17 @@ Rami può poi usare quella pietà contro di lui: non con un ricatto da thriller,
 
 > Non fare il pulito. Senza di te non mi avrebbero mai dato niente.
 
+Questa frase ora non riguarda solo Ari e Dile: riguarda anche Zed, Mano Lesta, la Deriva e il bisogno di Elia di comprare silenzio sulla propria vigliaccheria.
+
 ---
 
 ## Rapporto con Ari e Dile
 
 Per Ari e Dile, Rami entra come passaggio materiale: il contatto che permette di raccogliere soldi fuori dalle solite collette, nel nome della latitanza e della responsabilità politica.
 
-All'inizio funziona proprio perché sembra non voler sedurre nessuno. Non porta mitologia, non racconta imprese, non chiede fiducia a voce alta. La ottiene per sottrazione.
+La richiesta è orientata da Zed, ma Ari e Dile la fanno propria. Non sono mandate come esecutrici passive: vedono nel passaggio verso Rami la possibilità di trasformare il mito di Corvo e Nurra in conseguenza reale.
+
+All'inizio Rami funziona proprio perché sembra non voler sedurre nessuno. Non porta mitologia, non racconta imprese, non chiede fiducia a voce alta. La ottiene per sottrazione.
 
 Quando il giro si rompe, Rami sporca retroattivamente anche la loro fascinazione politica: le costringe a vedere che il desiderio di conseguenze reali produce conseguenze reali, e che non basta chiamarle sostegno, cura o solidarietà per renderle meno materiali.
 
@@ -122,6 +130,8 @@ Il suo arco non deve essere una fuga lineare. Deve produrre versioni contradditt
 - è ancora a Napoli;
 - Nina sa;
 - Elia sa;
+- Zed sa più di quanto dica;
+- Mano Lesta vuole chiudere i conti;
 - nessuno sa davvero.
 
 La domanda non deve essere solo:
@@ -142,22 +152,24 @@ Meglio poche apparizioni decisive che molte spiegazioni psicologiche.
 
 Rami deve comparire nei punti in cui cambia la distribuzione della colpa:
 
-1. quando viene garantito;
-2. quando il passaggio funziona;
-3. quando il giro si rompe;
-4. quando Elia lo trova e non lo consegna;
-5. quando la sua assenza torna come ricatto, voce o prova.
+1. quando Elia lo propone come soluzione ai nomadi;
+2. quando viene garantito davanti ad Ari e Dile;
+3. quando il passaggio funziona;
+4. quando il giro si rompe;
+5. quando Elia lo trova e non lo consegna;
+6. quando la sua assenza torna come ricatto, voce o prova.
 
 ---
 
 ## Scene chiave
 
 - Prima apparizione come presenza laterale, non enfatica.
+- Rami evocato da Elia come soluzione possibile quando Zed chiede soldi.
 - Raccolta dei soldi prima dell'ultimo giro.
 - Momenti con Nina che mostrano intimità e opacità.
 - Incontro con Ari e Dile tramite Elia: va troppo bene.
 - Ammanco, promessa non mantenuta o consegna saltata.
-- Pressione su Elia: lui lo ha garantito, ora deve trovarlo.
+- Pressione su Elia: lui lo ha indicato e garantito, ora deve trovarlo.
 - Scena della mancata consegna: Elia trova Rami e sceglie di lasciarlo sparire.
 - Versioni successive sulla sua fuga.
 - Ritorno indiretto come ricatto: messaggio, voce, disegno, frase riferita.
@@ -177,6 +189,8 @@ Rami deve comparire nei punti in cui cambia la distribuzione della colpa:
 
 > Non lo aveva salvato per bontà. Lo aveva salvato perché consegnarlo avrebbe significato consegnare anche sé stesso.
 
+> Elia non lo propose perché Rami fosse il migliore. Lo propose perché aveva bisogno che qualcuno smettesse di guardarlo come uno che era scappato.
+
 ---
 
 ## Questioni aperte
@@ -188,4 +202,4 @@ Rami deve comparire nei punti in cui cambia la distribuzione della colpa:
 - La scena della mancata consegna avviene prima o dopo il confronto tra Elia e Nina?
 - Quanto Rami ricatta Elia in modo esplicito e quanto basta una sua traccia?
 - Quanto deve essere chiaro che la fuga era premeditata?
-- Chi, tra Ari, Dile, Corvo e Nurra, capisce per primo che Elia sta mentendo su Rami?
+- Chi, tra Ari, Dile, Corvo, Nurra, Zed e Mano Lesta, capisce per primo che Elia sta mentendo su Rami?
