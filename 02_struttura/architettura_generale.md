@@ -11,16 +11,24 @@ Il romanzo non procede come un’indagine classica, ma come una **ricostruzione 
 Il lettore segue Elia nel presente, mentre il passato emerge per frammenti:
 
 - la Battaglia politica;
-- l’uscita di Sarnelli dai territorialisti;
-- la stagione di San Giggino e dei Beni Benedetti;
-- l’arrivo di Lale;
-- la costruzione del suo giro;
-- la deriva economica e affettiva di Cecilia e Lale;
-- l’incontro con i sardi;
-- la richiesta di Sara e Gab;
-- la pressione informale di De Bonis.
+- la frattura tra territorialisti e nomadi;
+- la crescita presentabile di Presidio Sud;
+- la deriva rancorosa della Deriva;
+- il passato intimo di Elia e Nina;
+- la scena rave di Bass Unit;
+- il fermento intorno ai Black Convoy;
+- la pressione obliqua di Zed;
+- la conoscenza sporca custodita da Mano Lesta;
+- l’arrivo di Rami come soluzione sbagliata;
+- l’ingresso di Ari e Dile nel passaggio;
+- il mito di Corvo e Nurra;
+- la trasformazione della notte in mappa osservabile dall’apparato senza volto.
 
 La struttura deve dare l’impressione che tutto fosse già accaduto, ma che Elia lo capisca troppo tardi.
+
+Formula guida:
+
+> Black Convoy sta al centro cronologico; Nina sta al centro emotivo; la Battaglia sta all’origine morale; Rami è il buco narrativo; Zed è la leva; Elia è la porta che si credeva passaggio neutro.
 
 ---
 
@@ -32,33 +40,28 @@ Il romanzo non deve sapere più di Elia in modo esplicito, ma può costruire sit
 
 ### Regole
 
-- Niente punto di vista interno di Lale.
-- Niente punto di vista interno pieno di Cecilia.
-- Niente punto di vista interno dei sardi.
-- De Bonis e Sarnelli possono comparire in scena, ma non devono prendere il controllo del romanzo.
+- Niente punto di vista interno pieno di Nina.
+- Niente punto di vista interno pieno di Rami.
+- Niente punto di vista interno pieno di Ari e Dile.
+- Niente punto di vista interno pieno di Corvo e Nurra.
+- Zed può apparire come forza di orientamento, ma non deve diventare burattinaio onnisciente.
+- Sarnelli può comparire come costruttore di versione pubblica, ma non deve diventare detective.
+- L’apparato istituzionale deve restare senza volto: non va incarnato in un antagonista-personaggio.
 - I frammenti d’archivio di Elia sono in prima persona, ma non sono confessioni affidabili.
 
 ### Effetto desiderato
 
 Elia non è il detective. È il conduttore elettrico attraverso cui passano informazioni, soldi, corpi, colpe e versioni.
 
+La sua forza apparente è l’attraversamento.
+
+La sua debolezza reale è che ogni attraversamento lo rende utilizzabile.
+
 ---
 
-## 3. Le tre linee portanti
+## 3. Le linee portanti
 
-### 3.1 Cecilia e Lale
-
-È la linea noir principale.
-
-- Lale raccoglie fiducia e denaro per l’ultimo giro.
-- Cecilia sa che il conto non torna.
-- Lale fugge.
-- Cecilia resta.
-- Cecilia muore quasi alla fine.
-
-Questa linea produce il climax emotivo.
-
-### 3.2 La Battaglia
+### 3.1 La Battaglia
 
 È il trauma fondativo.
 
@@ -66,20 +69,86 @@ Questa linea produce il climax emotivo.
 - Viene ricostruita per frammenti.
 - Spiega perché Elia è rimasto nel mezzo.
 - Spiega perché territorialisti e nomadi sono ormai due mondi separati.
+- Spiega perché Zed e Mano Lesta possono usare Elia senza ricattarlo frontalmente.
 
 Questa linea produce la colpa originaria di Elia.
 
-### 3.3 I sardi
+Il punto non è stabilire una colpa penale netta, ma una colpa morale:
+
+> Elia ha visto qualcosa, non è rimasto fino in fondo, ha protetto la propria posizione e poi ha continuato a circolare come se nulla fosse.
+
+Presidio Sud non sa tutto, o non vuole sapere.
+
+La Deriva invece sa abbastanza.
+
+### 3.2 Black Convoy e Bass Unit
+
+È la linea notturna e infrastrutturale.
+
+- Bass Unit sembra offrire a Elia un territorio più libero della politica.
+- La festa dei Black Convoy carica la città e attira anche chi non appartiene davvero alla scena.
+- Elia insiste perché Boy partecipi.
+- La festa diventa il centro cronologico del romanzo.
+- Il sistema entra nel perimetro.
+- I Black Convoy chiamano la polizia.
+- L’apparato senza volto trasforma furgoni, targhe, sostanze, corpi e relazioni in materiale osservabile.
+
+Questa linea produce la mappa.
+
+Dopo Black Convoy, Bass Unit non è più soltanto un ambiente attraversabile: è un nodo leggibile da polizia, stampa, collettivi, sistema e personaggi.
+
+### 3.3 Zed, Ari/Dile e Rami
+
+È la linea del passaggio sbagliato.
+
+- Zed trasforma il debito morale di Elia in azione.
+- Non gli chiede soldi per sé, né lo ricatta esplicitamente.
+- Gli chiede di trovare soldi veri per una cosa seria.
+- Il legame con Corvo e Nurra resta inizialmente in ombra.
+- Elia propone Rami.
+- Zed lascia che Ari e Dile entrino nel passaggio.
+- Ari e Dile fanno propria la richiesta perché vogliono una prova reale, non una colletta simbolica.
+- Elia garantisce Rami.
+- Rami funziona.
+- Poi il giro produce un buco.
+- Rami sparisce, o prepara la sparizione.
+- Elia non consegna.
+
+Questa linea produce il disastro narrativo.
+
+La prima colpa presente di Elia è garantire Rami.
+
+La seconda, più grave, è coprirlo quando ormai la garanzia è crollata.
+
+### 3.4 Nina
+
+È la linea emotiva.
+
+Nina non è la creditrice di Elia. Non è il motore economico della trama. È il corpo intelligente e tragico che resta nel punto in cui tutti scaricano pressione.
+
+- È legata a Elia da un passato di casa, oppio, intimità e tossicità.
+- È dentro Bass Unit senza romanticizzare la scena.
+- Legge Elia meglio di quanto lui legga se stesso.
+- Resta esposta al giro, a Rami, alla reputazione, al sistema, alla necessità di non perdere la faccia.
+- Muore quasi alla fine.
+
+Questa linea produce il climax emotivo.
+
+Nina non deve morire per far capire qualcosa a Elia.
+
+Deve morire perché è rimasta nel punto in cui tutti gli altri hanno lasciato un pezzo della propria omissione.
+
+### 3.5 Corvo e Nurra
 
 Sono il mito radioattivo.
 
-- Elia li incontra senza capire davvero chi siano.
-- Sara e Gab li mitizzano.
-- Zed li usa come capitale simbolico.
-- De Bonis arriva a loro seguendo la rete di relazioni e passaggi.
-- Vengono arrestati dopo la morte di Cecilia.
+- Entrano prima come racconto e promessa di irreversibilità.
+- Per Ari e Dile incarnano rischio, azione, salto politico-erotico.
+- Per Zed sono capitale simbolico e leva generazionale.
+- Per Elia diventano anche sottrazione erotica: dimostrano che lui è stato accesso, non centro.
+- Alla fine vengono assorbiti dalla versione pubblica: arresto, esposizione, cornice istituzionale, racconto di delegittimazione.
 
-Questa linea produce il climax istituzionale.
+Questa linea produce il climax pubblico.
 
 ---
 
@@ -91,25 +160,51 @@ Non è una trama autonoma. È un’infrastruttura.
 
 Serve a mostrare che la scena rave è diventata rete di fiducia, movimento e opacità, non solo comunità.
 
-De Bonis la usa come materiale informale di delegittimazione.
+Dopo Black Convoy, l’apparato senza volto la legge come mappa.
 
-### Il debito duro
+### La Deriva come pressione obliqua
 
-È il punto in cui Cecilia e Lale passano da economia di scena a economia ostile.
+La Deriva non è soltanto un gruppo alternativo a Presidio Sud.
 
-Non è più fiducia, ma conto da pagare.
+È il luogo in cui la Battaglia non è stata pacificata.
 
-### Camorra / Catasto Vero
+Zed e Mano Lesta ne incarnano due funzioni diverse:
+
+- Zed conserva la crepa e la usa come leva;
+- Mano Lesta conserva la scena come memoria fisica e rancorosa.
+
+Il debito di Elia nasce qui:
+
+> Elia non deve soldi ai nomadi. Deve loro il silenzio sulla propria vigliaccheria.
+
+### Il sistema
 
 Non appare come villain centrale. È il limite invisibile.
 
 Dice cosa si può fare, dove, con chi, fino a quando.
 
-### San Giggino e i Beni Benedetti
+La sua forza è far sembrare naturali rapporti di forza che i personaggi trattano come eccezioni, favori, contatti, possibilità.
 
-Sono lo sfondo politico che spiega perché i territorialisti crescono e i nomadi restano fuori.
+### Presidio Sud e la nuova città amministrabile
 
-Non vanno raccontati come cronaca politica, ma come cambio d’aria.
+Presidio Sud cresce dentro una stagione politica più presentabile: beni comuni, comizi, vittorie comunali, gestione degli spazi, lingua pubblica.
+
+Questo sfondo serve a mostrare perché i territorialisti possono raccontarsi come progetto, mentre i nomadi restano corpo eccedente, rancore, notti, bar, case, rumore.
+
+Non va raccontato come cronaca politica, ma come cambio d’aria.
+
+### Sarnelli e la versione pubblica
+
+Sarnelli non deve diventare detective.
+
+La sua funzione è mostrare che ogni tragedia viene rapidamente trasformata in forma:
+
+- articolo;
+- voce;
+- ricostruzione;
+- cornice politica;
+- prova contro qualcuno;
+- racconto utilizzabile.
 
 ---
 
@@ -117,9 +212,9 @@ Non vanno raccontati come cronaca politica, ma come cambio d’aria.
 
 Il romanzo deve avere due chiusure in sequenza.
 
-### 5.1 Climax emotivo: morte di Cecilia
+### 5.1 Climax emotivo: morte di Nina
 
-Cecilia muore quasi alla fine.
+Nina muore quasi alla fine.
 
 La morte deve essere:
 
@@ -131,13 +226,17 @@ La morte deve essere:
 
 Non deve essere un mistero da risolvere, ma una responsabilità collettiva da sentire.
 
-### 5.2 Climax istituzionale: arresto dei sardi
+Elia non deve diventare semplicemente “colpevole della morte di Nina”.
 
-L’arresto dei sardi viene dopo la morte di Cecilia.
+Deve diventare l’uomo che capisce di aver reso possibile il disastro cercando ogni volta di restare abbastanza innocente.
+
+### 5.2 Climax pubblico: arresto/esposizione di Corvo e Nurra
+
+L’arresto o l’esposizione di Corvo e Nurra viene dopo la morte di Nina.
 
 Serve a mostrare che il dolore viene subito assorbito dalle versioni pubbliche:
 
-- Digos;
+- apparato;
 - giornali;
 - territorialisti;
 - nomadi;
@@ -145,7 +244,9 @@ Serve a mostrare che il dolore viene subito assorbito dalle versioni pubbliche:
 - comunicati;
 - voci.
 
-Cecilia muore come persona. Subito dopo rischia di sopravvivere solo come prova.
+Nina muore come persona.
+
+Subito dopo rischia di sopravvivere solo come prova.
 
 ---
 
@@ -154,19 +255,25 @@ Cecilia muore come persona. Subito dopo rischia di sopravvivere solo come prova.
 Catena centrale:
 
 ```text
-Battaglia → Elia resta a metà → Sara/Gab chiedono accesso → Elia garantisce → Lale prende i soldi → Lale fugge → Cecilia resta → Cecilia muore → De Bonis usa il caos → sardi arrestati → tutti riscrivono la storia
+Battaglia → Elia ha un cedimento → territorialisti non sanno/non vogliono sapere → Zed e Mano Lesta sanno abbastanza → Zed chiede soldi veri → Elia propone Rami → Ari e Dile fanno propria la richiesta → Rami funziona → Elia garantisce → il giro produce un buco → Rami sparisce → Elia non consegna → Nina resta esposta → Nina muore → apparato/versioni pubbliche assorbono il dolore → Corvo e Nurra vengono esposti/arrestati → tutti riscrivono la storia
 ```
 
-Catena istituzionale:
+Catena notturna:
 
 ```text
-scena notturna → Cecilia/Lale → Elia → Sara/Gab → nomadi → sardi → narrazione pubblica di delegittimazione
+Bass Unit → fermento Black Convoy → festa → crepa col sistema → chiamata alla polizia → apparato senza volto → scena rave trasformata in mappa → Rami più leggibile → Nina più esposta
 ```
 
-Catena politica di sfondo:
+Catena politico-erotica:
 
 ```text
-San Giggino/Beni Benedetti → territorialisti crescono → nomadi restano fuori → rancore → Battaglia → mito dei sardi → richiesta a Elia
+Battaglia → frattura territorialisti/nomadi → rancore della Deriva → Zed orienta Ari e Dile → mito di Corvo e Nurra → richiesta di soldi → Elia offre Rami → notte Elia/Ari/Dile → ingresso dei sardi come sottrazione → umiliazione di Elia
+```
+
+Catena morale di Elia:
+
+```text
+non resta nella Battaglia → compra silenzio proponendo Rami → garantisce un passaggio che non controlla → copre Rami quando dovrebbe fermarlo → capisce troppo tardi che attraversare mondi non era neutralità
 ```
 
 ---
@@ -177,12 +284,17 @@ Le rivelazioni non devono arrivare come spiegazioni frontali, ma come correzioni
 
 Esempio:
 
-- prima Lale sembra in ritardo;
-- poi sembra nei guai;
-- poi forse sembra vittima;
-- poi si capisce che è fuggito;
-- poi si capisce che Cecilia lo sapeva;
-- poi si capisce che Elia aveva garantito più di quanto volesse ammettere.
+- prima Elia sembra solo un attraversatore;
+- poi si capisce che il suo attraversamento è una forma di debito;
+- prima Zed sembra chiedere un favore politico;
+- poi si capisce che sta usando una crepa della Battaglia;
+- prima Rami sembra una soluzione affidabile;
+- poi sembra una sottrazione;
+- poi diventa il buco narrativo;
+- prima Ari e Dile sembrano chiedere un accesso;
+- poi si capisce che cercano una prova reale;
+- prima Nina sembra reggere meglio degli altri;
+- poi si capisce che sta reggendo il peso lasciato da tutti.
 
 Ogni nuova informazione deve sporcare retroattivamente le scene precedenti.
 
@@ -200,7 +312,8 @@ Possibili funzioni:
 - mostrare un autoinganno;
 - introdurre una memoria della Battaglia;
 - rifiutare di dire una cosa;
-- tenere Cecilia viva dopo la morte.
+- tenere Nina viva dopo la morte;
+- mostrare come Elia trasforma colpa in ordine, archivio, appunto, versione.
 
 Regola:
 
@@ -211,11 +324,12 @@ Regola:
 ## 9. Struttura consigliata
 
 - Prologo: dopo la Battaglia.
-- Parte I: i passaggi.
-- Parte II: la richiesta.
-- Parte III: l’ultimo giro.
-- Parte IV: la fuga.
-- Parte V: il conto.
+- Parte I: attraversamenti.
+- Parte II: Black Convoy.
+- Parte III: la leva di Zed.
+- Parte IV: Rami.
+- Parte V: il buco.
+- Parte VI: Nina.
 - Epilogo: la versione.
 
 La forma non deve diventare troppo meccanica: ogni parte può contenere flashback, archivi, scene di presente e materiali pseudo-documentari.
