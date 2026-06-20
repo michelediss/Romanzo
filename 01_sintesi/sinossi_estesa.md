@@ -155,13 +155,13 @@ Elia non deve diventare semplicemente “colpevole della morte di Nina”. Deve 
 
 ---
 
-## 12. Apparato, Sarnelli e racconto pubblico
+## 12. Apparato e racconto pubblico
 
 L’apparato senza volto non deve diventare un antagonista-personaggio. La sua forza è leggere, ordinare, incorniciare. Non picchia la storia: la trasforma in versione.
 
 Dopo Black Convoy, dopo il giro saltato, dopo l’arresto o l’esposizione di Corvo e Nurra, l’apparato può produrre una cornice vincente: reti, contatti, sostanze, furgoni, collettivi, rave, soldi, latitanze, amicizie. Gli interessano le porte e i passaggi più dei singoli fatti.
 
-Sarnelli, come unico volto riconoscibile del mondo esterno, deve misurarsi con questa cornice. Può scrivere solo una forma parziale e rischiosa della verità. Se scrive troppo poco, tradisce Nina. Se scrive male, la consegna alla versione pubblica dominante. Se scrive tutto, non ha prove sufficienti o brucia persone.
+Il racconto pubblico non deve essere affidato a un volto esterno stabile. Deve emergere come pressione diffusa: titoli, comunicati, voci, assemblee, versioni ufficiali, formule ripetute, frasi riportate male. La tragedia non viene spiegata da qualcuno: viene assorbita da tutti.
 
 La verità pubblica, nel romanzo, non coincide mai con la verità morale. È un’altra forma di compromissione.
 
