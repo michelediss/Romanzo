@@ -189,38 +189,18 @@ Renderlo più pericoloso di un antagonista violento: non picchia la storia, la i
 
 ---
 
-### 2.8 Che cosa può scrivere Sarnelli?
-
-#### Falsa lettura
-
-Sarnelli, essendo giornalista, dovrebbe poter raccontare la verità.
-
-#### Verità
-
-Sarnelli può raccontare solo una forma parziale e rischiosa della verità.
-
-Se scrive troppo poco, tradisce Nina.  
-Se scrive male, la consegna alla versione pubblica dominante.  
-Se scrive tutto, non ha prove sufficienti o brucia persone.
-
-#### Funzione
-
-Mostrare che anche la verità deontologica è impura quando entra nel mondo.
-
----
-
 ## 3. Cosa sa chi
 
-| Informazione | Elia | Nina | Rami | Ari/Dile | Sarnelli | Apparato | Lettore |
-|---|---|---|---|---|---|---|---|
-| La Battaglia ha rotto tutto | sì | parziale | parziale | parziale | sì | sì | subito |
-| Elia ha una colpa nella Battaglia | rimosso/parziale | forse no | no | no | forse | forse | tardi |
-| Rami è meno affidabile di quanto sembri | tardi | sì | sì | no | forse | forse | medio-tardi |
-| Nina sa dell’ammanco/debito | no/tardi | sì | sì | no | forse | forse | tardi |
-| Ari/Dile vogliono aiutare i sardi | sì | forse | forse | sì | forse | tardi | medio |
-| I sardi sono passati davvero | tardi | forse | forse | sì | forse | sì/tardi | tardi |
-| L’apparato sta costruendo una cornice | no/tardi | no | no | no | sì | sì | medio |
-| La morte di Nina verrà usata nelle versioni pubbliche | no | no | assente | no | sì | sì | dopo |
+| Informazione | Elia | Nina | Rami | Ari/Dile | Apparato | Lettore |
+|---|---|---|---|---|---|---|
+| La Battaglia ha rotto tutto | sì | parziale | parziale | parziale | sì | subito |
+| Elia ha una colpa nella Battaglia | rimosso/parziale | forse no | no | no | forse | tardi |
+| Rami è meno affidabile di quanto sembri | tardi | sì | sì | no | forse | medio-tardi |
+| Nina sa dell’ammanco/debito | no/tardi | sì | sì | no | forse | tardi |
+| Ari/Dile vogliono aiutare i sardi | sì | forse | forse | sì | tardi | medio |
+| I sardi sono passati davvero | tardi | forse | forse | sì | sì/tardi | tardi |
+| L’apparato sta costruendo una cornice | no/tardi | no | no | no | sì | medio |
+| La morte di Nina verrà usata nelle versioni pubbliche | no | no | assente | no | sì | dopo |
 
 ---
 
@@ -250,7 +230,6 @@ Rivelare:
 - Rami come figura affidabile perché sottratta;
 - Nina come presenza centrale;
 - Ari e Dile attratte da qualcosa di più radicale;
-- Sarnelli come mentore uscito;
 - l’apparato come pressione laterale e senza volto.
 
 Non rivelare:
@@ -284,7 +263,7 @@ Rivelare:
 
 - Rami raccoglie più del solito;
 - Nina è tesa in modo anomalo;
-- Sarnelli vede una cornice pubblica;
+- la cornice pubblica comincia a formarsi;
 - l’apparato guarda Elia come snodo.
 
 Non rivelare ancora:
@@ -331,8 +310,7 @@ Rivelare:
 4. Nina deve restare opaca, non inspiegabile.
 5. Rami deve restare assente, non evanescente.
 6. L’apparato deve sembrare orientato, non onnisciente.
-7. Sarnelli deve sapere abbastanza da soffrire, non abbastanza da risolvere.
-8. I sardi devono pesare più come mito e conseguenza che come azione diretta.
+7. I sardi devono pesare più come mito e conseguenza che come azione diretta.
 
 ---
 
@@ -351,7 +329,6 @@ Rivelare:
 - Rami è attento a non lasciare tracce.
 - Nina non è mai ingenua.
 - Ari e Dile sono più determinate di quanto sembrino.
-- Sarnelli non è un osservatore neutro.
 - L’apparato conosce già troppi nomi.
 - Presidio Sud sa usare le versioni.
 - La Deriva sa usare il mito.
