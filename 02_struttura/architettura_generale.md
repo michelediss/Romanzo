@@ -45,7 +45,6 @@ Il romanzo non deve sapere più di Elia in modo esplicito, ma può costruire sit
 - Niente punto di vista interno pieno di Ari e Dile.
 - Niente punto di vista interno pieno di Corvo e Nurra.
 - Zed può apparire come forza di orientamento, ma non deve diventare burattinaio onnisciente.
-- Sarnelli può comparire come costruttore di versione pubblica, ma non deve diventare detective.
 - L’apparato istituzionale deve restare senza volto: non va incarnato in un antagonista-personaggio.
 - I frammenti d’archivio di Elia sono in prima persona, ma non sono confessioni affidabili.
 
@@ -192,19 +191,6 @@ Presidio Sud cresce dentro una stagione politica più presentabile: beni comuni,
 Questo sfondo serve a mostrare perché i territorialisti possono raccontarsi come progetto, mentre i nomadi restano corpo eccedente, rancore, notti, bar, case, rumore.
 
 Non va raccontato come cronaca politica, ma come cambio d’aria.
-
-### Sarnelli e la versione pubblica
-
-Sarnelli non deve diventare detective.
-
-La sua funzione è mostrare che ogni tragedia viene rapidamente trasformata in forma:
-
-- articolo;
-- voce;
-- ricostruzione;
-- cornice politica;
-- prova contro qualcuno;
-- racconto utilizzabile.
 
 ---
 
